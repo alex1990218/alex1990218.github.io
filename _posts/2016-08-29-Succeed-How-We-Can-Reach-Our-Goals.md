@@ -1,8 +1,8 @@
 ---
-layout:post
+layout: post
 title: 《霍尔沃森：成功，动机与目标》实践性总结
-date:2016-08-29
-categories:blog
+date: 2016-08-29
+categories: blog
 tags:[认知&神经&心理科学,读书笔记]
 description:《成功、动机与目标》实践性总结
 ---
