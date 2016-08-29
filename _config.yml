@@ -1,10 +1,10 @@
 # Site settings
-title: 读立写生
+title: Tan Yifei
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "Tan Yifei-description"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://tanyifei"  
 
 # About/contact
 owner: 
@@ -16,12 +16,10 @@ owner:
 gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+douban_username:  alex1990218
+github_username: alex1990218
+weibo_username: Tam-Yat-Fei 
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -49,9 +47,9 @@ defaults:
 comments :
   provider : disqus
   duoshuo :
-    short_name : cnfeat
+    short_name : alex1990218
   disqus :
-      short_name : cnfeat
+      short_name : alex1990218
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-80884545-1
