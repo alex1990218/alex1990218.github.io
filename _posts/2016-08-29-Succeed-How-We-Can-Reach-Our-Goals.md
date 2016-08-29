@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Succeed: How We Can Reach Our Goals
+title: Succeed How We Can Reach Our Goals
 date: 2016-08-29
 categories: blog
 tags: [认知&神经&心理科学,读书笔记]
