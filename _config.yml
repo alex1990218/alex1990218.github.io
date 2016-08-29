@@ -1,10 +1,10 @@
 # Site settings
-title: Tan Yifei
+title: TanYF
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "Tan Yifei-description"  
+description: ""  
 baseurl: ""
-url: "http://tanyifei"  
+url: "http://TanYF"  
 
 # About/contact
 owner: 
@@ -16,8 +16,8 @@ owner:
 gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
 favicon: img/favicon.png
 
-douban_username:  alex1990218
-github_username: alex1990218
+douban_username:  TanYF
+github_username: TanYF
 weibo_username: Tam-Yat-Fei 
 zhihu_username: 
 
@@ -40,16 +40,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "TanYF"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : disqus
   duoshuo :
-    short_name : alex1990218
+    short_name : TanYF
   disqus :
-      short_name : alex1990218
+      short_name : TanYF
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-80884545-1
