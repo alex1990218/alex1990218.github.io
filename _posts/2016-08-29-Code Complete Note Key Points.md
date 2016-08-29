@@ -322,3 +322,7 @@ description:
 #### 第35章 何处有更多信息
 
 ---
+
+####<center>参考资料</center>
+1.[史蒂夫•迈克康奈尔：代码大全](https://book.douban.com/subject/1477390/)
+
