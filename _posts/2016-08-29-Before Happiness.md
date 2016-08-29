@@ -1,3 +1,12 @@
+---
+layout: post
+title: Before Happiness
+date: 2016-08-29
+categories: blog
+tags: [认知&神经&心理科学,读书笔记]
+description: 
+---
+
 #### <center>原动力1.构建积极现实——看到其他人看不到的机会</center>
 #### (策略1.1)认识到其他现实
 #### (策略1.2)增加观察点
