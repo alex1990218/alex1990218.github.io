@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Before Happiness
+title: Before Happiness[Note]
 date: 2016-08-29
 categories: blog
 tags: [认知&神经&心理科学,读书笔记]
