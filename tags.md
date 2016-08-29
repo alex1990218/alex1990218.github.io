@@ -13,7 +13,7 @@ header-img: "img/Red-Brown.jpg"
 {% endfor %}
 </div>
 
-## 2.Tags——Articles
+## 2.Articles
 
 <ul class="listing">
 {% for tag in site.tags %}
