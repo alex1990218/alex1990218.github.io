@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Test]芒格的智慧核心：多元思维模型
+title: Test-芒格的智慧核心：多元思维模型
 date: 2000-01-01
 categories: blog
 tags: [芒格,穷查理宝典]
