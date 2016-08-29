@@ -1,5 +1,5 @@
 # Site settings
-title: Home
+title: tanyifei.net
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
 description: ""  
@@ -8,9 +8,9 @@ url: "http://TanYF"
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: "TanYF"
+  email: alex1990218@163.com
+  bio: ""
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
