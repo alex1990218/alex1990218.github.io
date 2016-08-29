@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "Archive-Tan Yifei"
+title: ""
+description: "Archive"
 header-img: "img/orange.jpg"
 ---
 
