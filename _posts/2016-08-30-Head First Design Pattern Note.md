@@ -383,6 +383,9 @@ description:
 ---
 
 <center>参考资料</center>
+
 1.[弗里曼：Head First设计模式](https://book.douban.com/subject/2243615/)
+
 2.[Erich Gamma：Design Patterns](http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.pdf)
+
 ![a](../img/blue.jpg)
