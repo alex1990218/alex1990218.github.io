@@ -42,14 +42,13 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_1.jpg)
 
  - 案例：
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (6).jpg)
 
 ##### 3.2.生成器 Builder
 
  - 意图：将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示。
  - 结构：
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_2.jpg)
-
- - 案例：
 
 ##### 3.3.工厂方法 Factory Method
 
@@ -61,15 +60,12 @@ description:
  - 案例：
  ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (4).jpg)
  ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (5).jpg)
- ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (6).jpg)
 
 ##### 3.4.原型 Prototype
 
  - 意图：用原型实例指定创建对象的种类，并且通过拷贝这些原型创建新的对象。
  - 结构：
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_4.jpg)
-
- - 案例：
 
 ##### 3.5.单件 Singleton
 
@@ -99,8 +95,6 @@ description:
  - 意图：将抽象部分与它的实现部分分离，使它们都可以独立地变化。
  - 结构：
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_7.jpg)
-
- - 案例：
 
 ##### 4.3.组成(组合) Composite
 
@@ -137,8 +131,6 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_11_1.jpg)
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_11_2.jpg)
 
- - 案例：
-
 ##### 4.7.代理 Proxy
 
  - 意图：为其他对象提供一种代理以控制对这个对象的访问。
@@ -162,8 +154,6 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_13_1.jpg)
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_13_2.jpg)
 
- - 案例：
-
 ##### 5.2.命令 Command
 
  - 意图：将一个请求封装为一个对象，从而使你可用不同的请求对客户进行参数化；对请求排队或记录请求日志，以及支持可撤消的操作。
@@ -179,8 +169,6 @@ description:
 来解释语言中的句子。
  - 结构：
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_15.jpg)
-
- - 案例：
 
 ##### 5.4.迭代器 Iterator
 
@@ -198,16 +186,12 @@ description:
  - 结构：
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_17.jpg)
 
- - 案例：
-
 ##### 5.6.备忘录 Memento
 
  - 意图：在不破坏封装性的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态。
 这样以后就可将该对象恢复到原先保存的状态。
  - 结构：
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_18.jpg)
-
- - 案例：
 
 ##### 5.7.观察者 Observer
 
@@ -255,8 +239,6 @@ description:
 下定义作用于这些元素的新操作。
  - 结构：
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_23.jpg)
-
- - 案例：
 
 ---
 
@@ -437,4 +419,7 @@ description:
 
 1.[弗里曼：Head First设计模式](https://book.douban.com/subject/2243615/)
 
-2.[Erich Gamma：Design Patterns](http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.pdf)
+2.[Erich Gamma：Design Patterns](http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.pdf)(意图、结构图)
+
+---
+
