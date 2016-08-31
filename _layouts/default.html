@@ -7,10 +7,12 @@
 
     {% include nav.html %}
     
-    * Do not remove this line (it will not be displayed)
-    {:toc}
-    
+    <div align="left">toc-left</div>
+    <div align="right">
+    toc-right-1
     {{ content }}
+    toc-right-2
+    </div>
     
     {% include footer.html %}
 
