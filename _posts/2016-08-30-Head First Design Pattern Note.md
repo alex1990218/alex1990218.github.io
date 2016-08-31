@@ -9,6 +9,12 @@ description:
 
 ---
 
+<script src="{{ "/js/jquery.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/toc.js " | prepend: site.baseurl }}"></script>
+<div id="toc"></div>
+
+---
+
 #### 1.OO基础
 	1.1.抽象
 	1.2.封装
@@ -388,4 +394,8 @@ description:
 
 2.[Erich Gamma：Design Patterns](http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.pdf)
 
-![a](../img/blue.jpg)
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#toc').toc();
+    }); 
+</script>
