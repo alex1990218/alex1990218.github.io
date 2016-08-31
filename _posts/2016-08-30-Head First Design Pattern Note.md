@@ -9,7 +9,7 @@ description:
 
 ---
 
-<div id="toc"></div>
+<div id="tableOfContent"></div>
 
 ---
 
@@ -397,6 +397,6 @@ description:
 <script src="{{ "/js/toc.js " | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
     $(document).ready(function() {
-        $('#toc').toc();
+        $('#tableOfContent').toc();
     }); 
 </script>
