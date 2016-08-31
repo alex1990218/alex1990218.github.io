@@ -59,6 +59,9 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_3.jpg)
 
  - 案例：
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (4).jpg)
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (5).jpg)
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (6).jpg)
 
 ##### 3.4.原型 Prototype
 
@@ -75,6 +78,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_5.jpg)
 
  - 案例：
+![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (7).jpg)
 
 ---
 
@@ -88,6 +92,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_6.jpg)
 
  - 案例：
+![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (9).jpg)
 
 ##### 4.2.桥接 Bridge
 
@@ -105,6 +110,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_8.jpg)
 
  - 案例：
+![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (13).jpg)
 
 ##### 4.4.装饰(装饰者) Decorator
 
@@ -113,6 +119,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_9.jpg)
 
  - 案例：
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (3).jpg)
 
 ##### 4.5.外观 Facade
 
@@ -121,6 +128,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_10.jpg)
 
  - 案例：
+![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (10).jpg)
 
 ##### 4.6.享元 Flyweight
 
@@ -138,6 +146,9 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_12.jpg)
 
  - 案例：
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (15).jpg)
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (16).jpg)
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (17).jpg)
 
 ---
 
@@ -160,6 +171,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_14.jpg)
 
  - 案例：
+![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (8).jpg)
 
 ##### 5.3.解释器 Interpreter
 
@@ -177,6 +189,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_16.jpg)
 
  - 案例：
+![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (12).jpg)
 
 ##### 5.5.中介者 Mediator
 
@@ -204,6 +217,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_19.jpg)
 
  - 案例：
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (2).jpg)
 
 ##### 5.8.状态 State
 
@@ -212,6 +226,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_20.jpg)
 
  - 案例：
+![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (14).jpg)
 
 ##### 5.9.策略 Strategy
 
@@ -232,6 +247,7 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_22.jpg)
 
  - 案例：
+![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (11).jpg)
 
 ##### 5.11.访问者 Visitor
 
@@ -390,6 +406,7 @@ description:
  - 适配器模式用来将新的模型适配成已有的视图和控制器。
  - Model 2是MVC在Web上的应用。
  - 在Model 2中 ，控制器实现成Servlet,而JSP/HTML实现视图。
+![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (18).jpg)
 
 ##### 6.13 与设计模式相处
 
