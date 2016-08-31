@@ -7,7 +7,19 @@
 
     {% include nav.html %}
     
+    <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+
+    <script src="{{ "/js/toc.js " | prepend: site.baseurl }}"></script>
+    
+    <div id="toc"></div>
+    
     {{ content }}
+    
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#toc').toc();
+        }); 
+    </script>
     
     {% include footer.html %}
 
