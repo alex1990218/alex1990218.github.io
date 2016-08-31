@@ -9,10 +9,6 @@ description:
 
 ---
 
-<div id="tableOfContent"></div>
-
----
-
 #### 1.OO基础
 	1.1.抽象
 	1.2.封装
@@ -391,12 +387,3 @@ description:
 1.[弗里曼：Head First设计模式](https://book.douban.com/subject/2243615/)
 
 2.[Erich Gamma：Design Patterns](http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.pdf)
-
-
-<script src="{{ "/js/jquery.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/toc.js " | prepend: site.baseurl }}"></script>
-<script type="text/javascript">
-    $(document).ready(function() {
-        $('#tableOfContent').toc();
-    }); 
-</script>
