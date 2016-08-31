@@ -9,8 +9,6 @@ description:
 
 ---
 
-<script src="{{ "/js/jquery.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/toc.js " | prepend: site.baseurl }}"></script>
 <div id="toc"></div>
 
 ---
@@ -394,6 +392,9 @@ description:
 
 2.[Erich Gamma：Design Patterns](http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.pdf)
 
+
+<script src="{{ "/js/jquery.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/toc.js " | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
     $(document).ready(function() {
         $('#toc').toc();
