@@ -221,6 +221,8 @@ description:
 ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/structure_21.jpg)
 
  - 案例：
+ ![](http://tanyifei.net/img/2016-08-30-Head First Design Pattern Note/case (1).jpg)
+
 
 ##### 5.10.模板方法 Template Method
 
@@ -419,5 +421,3 @@ description:
 1.[弗里曼：Head First设计模式](https://book.douban.com/subject/2243615/)
 
 2.[Erich Gamma：Design Patterns](http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.pdf)
-
-![zhihu](http://tanyifei.net/img/zhihu.jpg)
