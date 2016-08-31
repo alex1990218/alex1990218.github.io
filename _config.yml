@@ -44,12 +44,12 @@ defaults:
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
-comments :
-  provider : disqus
-  duoshuo :
-    short_name : TanYF
-  disqus :
-      short_name : TanYF
+# comments :
+#   provider : disqus
+#   duoshuo :
+#     short_name : TanYF
+#   disqus :
+#       short_name : TanYF
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-80884545-1
