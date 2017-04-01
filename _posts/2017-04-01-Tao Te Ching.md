@@ -7,7 +7,6 @@ tags: [哲学]
 description: 
 ---
  01.
-
 The  tao  that  can  be  told   is  not  the  eternal  Tao  .
 The  name  that  can  be  named   is  not  the  eternal  Name.   
  道可道，非常道。名可名，非常名。
@@ -28,9 +27,7 @@ Darkness  within  darkness.  
 The  gateway  to  all  understanding.   
 玄之又玄，众妙之门。
 
-
 02.
-
 When  people  see  some things  as  beautiful,   other  things  become  ugly.  
 When  people  see  some things  as  good,   other  things  become  bad.   
  天下皆知美之为美，斯恶矣；皆知善之为善，斯不善已。
@@ -53,7 +50,6 @@ That  is  why  it  lasts  forever.   
 生而不有，为而不恃，功成而弗居。夫唯弗居，是以不去。
 
 03.
-
 If  you  over esteem  great  men,   people  become  powerless.  
 If  you  overvalue  possessions,   people  begin  to  steal.  
  不尚贤，使民不争。
@@ -71,7 +67,6 @@ Practice  not‐doing,   and  everything  will  fall  into  plac
  为无为，则无不治。
 
 04.
- 
 The  Tao  is  like  a  well:   used  but  never  used  up.  
 It  is  like  the  eternal  void:    filled  with  infinite  possibilities.   
  道冲而用之，或不盈。渊兮似万物之宗。
@@ -84,7 +79,6 @@ It  is  older  than  God.  
 
 
 05.
- 
 The  Tao  doesn’t  take  sides;   it  gives  birth  to  both  good  and  evil.   
 The  Master  doesn’t  take  sides;   she  welcomes  both  saints  and  sinners.   
  天地不仁，以万物为刍狗。
@@ -101,7 +95,6 @@ Hold  on  to  the  center.  
 
 
 06.
- 
 The  Tao  is  called  the  Great  Mother:  
 empty  yet  inexhaustible,   it  gives  birth  to  infinite  worlds.   
  谷神不死是谓玄牝。玄牝之门是谓天地根。
@@ -111,7 +104,6 @@ You  can  use  it  any  way  you  want.  
 绵绵若存，用之不勤。
 
 07.
-
 The  Tao  is  infinite,  eternal.  
 Why  is  it  eternal?   It  was  never  born;   thus  it  can  never  die.  
 Why  is  it  infinite?   It  has  no  desires  for  itself;  
@@ -126,7 +118,6 @@ Because  she  has  let  go  of  herself,   she  is  perfectl
 非以其无私邪！故能成其私。
 
 08.
-
 The  supreme  good  is  like  water,   
 which  nourishes  all  things  without  trying  to.   
 It  is  content  with  the  low  places  that  people  disdain.   
@@ -146,9 +137,7 @@ When  you  are  content  to  be  simply  yourself   and  don
 everybody will respect you.
 夫唯不争，故无尤。
 
-
 09.
-
 Fill your bowl to the brim and it will spill.
 Kepp sharpening your knife and it will blunt.
 Chase after money and security and your heart will never unclench.
@@ -183,7 +172,6 @@ leading and not trying to control:
 this is the supreme virtue.
  
 11.
-
 We join spokes together in a wheel,
 but it is the center hole that makes the wagon move.
 三十幅共一毂，当其无，有车之用。
@@ -199,9 +187,7 @@ but it is the inner space that makes it livable.
 We work with being, but non-being is what we use.
 故有之以为利，无之以为用。
 
-
 12.
-
 Colors blind the eye.
 Sounds deafen the ear.
 Flavors numb the taste.
@@ -214,9 +200,7 @@ He allows things to come and go.
 His heart is open as the sky.
 是以圣人，为腹不为目，故去彼取此。
 
-
 13.
-
 Success is as dangerous as failure.
 Hope is as hollow as fear.
 宠辱若惊，贵大患若身。
@@ -240,10 +224,7 @@ Love the world as your self; then you can care for all things.
 故贵以身为天下，若可寄天下。
 爱以身为天下，若可托天下。
 
- 
-
 14.
-
 Look, and it can't be seen.
 Listen, and it can't be heard.
 Reach, and it can't be grasped.
@@ -267,9 +248,7 @@ Just realize where you come from: this is the essence of wisdom.
 执古之道以御今之有。
 能知古始，是谓道纪。
 
- 
 15.
-
 The ancient Masters were profound and subtle.
 Their wisdom was unfathomable.
 There is no way to describe it; all we can describe is their appearance.
@@ -303,10 +282,7 @@ Not seeking, not expecting, she is present, and can welcome all things.
 保此道者不欲盈。
 夫唯不盈故能蔽而新成。
 
- 
-
 16.
-
 Empty your mind of all thoughts.
 Let your heart be at peace.
 Watch the turmoil of beings, but contemplate their return.
@@ -328,10 +304,7 @@ and when death comes, you are ready.
 不知常，妄作凶。
 知常容，容乃公，公乃全，全乃天，天乃道，道乃久，没身不殆。
 
- 
-
 17.
-
 When the Master governs, the people are hardly aware that he exists.
 Next best is a leader who is loved.
 Next, one who is feared.
@@ -349,9 +322,7 @@ When his work is done, the people say,
 "Amazing: we dit it, all by ourselves!"
 悠兮其贵言，功成事遂，百姓皆谓∶我自然。
 
- 
 18.
-
 When the great Tao is forgotten, goodness and piety appear.
 When the body's intelligence declines, cleverness and knowledge step forth.
 When there is no peace in the family, filial piety begins.
@@ -362,7 +333,6 @@ When the country falls into chaos, patriotism is born.
 国家昏乱有忠臣。
 
 19.
-
 Throw away holiness and wisdon, and people will be a hundred times happier.
 Throw away morality and justice, and people will do the right things.
 Throw away industry and profit, and there won't be andy thieves.
@@ -374,8 +344,6 @@ If these three aren't enough,
 just stay at the center of the circle and let all things take their course.
 此三者，以为文不足。
 故令有所属，见素抱朴少私寡欲。
-
- 
 
 20.绝学无忧，唯之与阿，相去几何？善之与恶，相去若何？人之所畏，不可不畏。荒兮其未央哉！众人
 
@@ -797,6 +765,6 @@ just stay at the center of the circle and let all things take their course.
 ---
 
 #### <center>参考资料</center>
-1.[肖恩·埃科尔：幸福原动力](https://book.douban.com/subject/26317595/)
 1.[《道德经》全文](http://www.daodejing.org/)
+
 2.[Stephen Mitchell : Tao Te Ching](http://stephenmitchellbooks.com/translations-adaptations/tao-te-ching/)
