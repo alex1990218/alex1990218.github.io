@@ -29,3 +29,4 @@ rank:10/35, rating:9.2/74082, 三体Ⅲ
     [doubanLink](https://book.douban.com/subject/05363767/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=三体Ⅲ), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=三体Ⅲ)
 rank:11/12, rating:8.9/119409, 嫌疑人X的献身
     [doubanLink](https://book.douban.com/subject/03211779/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=嫌疑人X的献身), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=嫌疑人X的献身)
+ 
