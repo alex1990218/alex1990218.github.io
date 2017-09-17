@@ -7,28 +7,307 @@ tags: [bookMeta]
 description: 
 ---
 
-rank:1/15, rating:9.5/112791, 红楼梦
-    [doubanLink](https://book.douban.com/subject/01007305/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=红楼梦), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=红楼梦)
-    
-rank:2/2, rating:9.0/211602, 小王子
-    [doubanLink](https://book.douban.com/subject/01084336/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=小王子), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=小王子)
-    
-rank:3/5, rating:9.1/173299, 白夜行
-    [doubanLink](https://book.douban.com/subject/03259440/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=白夜行), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=白夜行)
-rank:4/1, rating:8.8/248938, 追风筝的人
-    [doubanLink](https://book.douban.com/subject/01770782/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=追风筝的人), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=追风筝的人)
-rank:5/3, rating:8.9/179735, 围城
-    [doubanLink](https://book.douban.com/subject/01008145/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=围城), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=围城)
-rank:6/11, rating:9.1/120195, 活着
-    [doubanLink](https://book.douban.com/subject/01082154/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=活着), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=活着)
-rank:7/18, rating:9.2/94365, 百年孤独
-    [doubanLink](https://book.douban.com/subject/06082808/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=百年孤独), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=百年孤独)
-rank:8/40, rating:9.3/73313, 飘（上下）
-    [doubanLink](https://book.douban.com/subject/01068920/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=飘（上下）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=飘（上下）)
-rank:9/34, rating:9.2/74658, 三体Ⅱ
-    [doubanLink](https://book.douban.com/subject/03066477/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=三体Ⅱ), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=三体Ⅱ)
-rank:10/35, rating:9.2/74082, 三体Ⅲ
-    [doubanLink](https://book.douban.com/subject/05363767/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=三体Ⅲ), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=三体Ⅲ)
-rank:11/12, rating:8.9/119409, 嫌疑人X的献身
-    [doubanLink](https://book.douban.com/subject/03211779/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=嫌疑人X的献身), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=嫌疑人X的献身)
- 
+rank:1/15, rating:9.5/112791, 红楼梦    [doubanLink](https://book.douban.com/subject/01007305/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=红楼梦), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=红楼梦)
+
+
+rank:2/2, rating:9.0/211602, 小王子    [doubanLink](https://book.douban.com/subject/01084336/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=小王子), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=小王子)
+
+
+rank:3/5, rating:9.1/173299, 白夜行    [doubanLink](https://book.douban.com/subject/03259440/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=白夜行), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=白夜行)
+
+
+rank:4/1, rating:8.8/248938, 追风筝的人    [doubanLink](https://book.douban.com/subject/01770782/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=追风筝的人), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=追风筝的人)
+
+
+rank:5/3, rating:8.9/179735, 围城    [doubanLink](https://book.douban.com/subject/01008145/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=围城), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=围城)
+
+
+rank:6/11, rating:9.1/120195, 活着    [doubanLink](https://book.douban.com/subject/01082154/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=活着), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=活着)
+
+
+rank:7/18, rating:9.2/94365, 百年孤独    [doubanLink](https://book.douban.com/subject/06082808/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=百年孤独), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=百年孤独)
+
+
+rank:8/40, rating:9.3/73313, 飘（上下）    [doubanLink](https://book.douban.com/subject/01068920/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=飘（上下）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=飘（上下）)
+
+
+rank:9/34, rating:9.2/74658, 三体Ⅱ    [doubanLink](https://book.douban.com/subject/03066477/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=三体Ⅱ), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=三体Ⅱ)
+
+
+rank:10/35, rating:9.2/74082, 三体Ⅲ    [doubanLink](https://book.douban.com/subject/05363767/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=三体Ⅲ), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=三体Ⅲ)
+
+
+rank:11/12, rating:8.9/119409, 嫌疑人X的献身    [doubanLink](https://book.douban.com/subject/03211779/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=嫌疑人X的献身), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=嫌疑人X的献身)
+
+
+rank:12/19, rating:9.0/93907, 平凡的世界（全三部）    [doubanLink](https://book.douban.com/subject/01200840/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=平凡的世界（全三部）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=平凡的世界（全三部）)
+
+
+rank:13/39, rating:9.1/73727, 活着    [doubanLink](https://book.douban.com/subject/01061118/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=活着), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=活着)
+
+
+rank:14/9, rating:8.8/125472, 三体    [doubanLink](https://book.douban.com/subject/02567698/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=三体), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=三体)
+
+
+rank:15/26, rating:9.0/82496, 哈利·波特与魔法石    [doubanLink](https://book.douban.com/subject/01041007/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与魔法石), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与魔法石)
+
+
+rank:16/59, rating:9.2/58836, 白夜行    [doubanLink](https://book.douban.com/subject/10554308/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=白夜行), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=白夜行)
+
+
+rank:17/87, rating:9.3/49378, 活着    [doubanLink](https://book.douban.com/subject/04913064/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=活着), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=活着)
+
+
+rank:18/6, rating:8.6/169753, 解忧杂货店    [doubanLink](https://book.douban.com/subject/25862578/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=解忧杂货店), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=解忧杂货店)
+
+
+rank:19/16, rating:8.8/108683, 看见    [doubanLink](https://book.douban.com/subject/20427187/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=看见), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=看见)
+
+
+rank:20/74, rating:9.2/52618, 三国演义（全二册）    [doubanLink](https://book.douban.com/subject/01019568/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=三国演义（全二册）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=三国演义（全二册）)
+
+
+rank:21/96, rating:9.2/46902, 福尔摩斯探案全集（上中下）    [doubanLink](https://book.douban.com/subject/01040211/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=福尔摩斯探案全集（上中下）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=福尔摩斯探案全集（上中下）)
+
+
+rank:22/73, rating:9.1/53432, 天龙八部    [doubanLink](https://book.douban.com/subject/01255625/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=天龙八部), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=天龙八部)
+
+
+rank:23/43, rating:8.9/70173, 哈利·波特与阿兹卡班的囚徒    [doubanLink](https://book.douban.com/subject/01071241/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与阿兹卡班的囚徒), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与阿兹卡班的囚徒)
+
+
+rank:24/207, rating:9.5/26480, 灌篮高手31    [doubanLink](https://book.douban.com/subject/01221515/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=灌篮高手31), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=灌篮高手31)
+
+
+rank:25/47, rating:8.9/68070, 哈利·波特与火焰杯    [doubanLink](https://book.douban.com/subject/01009257/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与火焰杯), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与火焰杯)
+
+
+rank:26/28, rating:8.8/80334, 傲慢与偏见    [doubanLink](https://book.douban.com/subject/01083428/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=傲慢与偏见), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=傲慢与偏见)
+
+
+rank:27/226, rating:9.5/25257, 海贼王    [doubanLink](https://book.douban.com/subject/01474773/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=海贼王), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=海贼王)
+
+
+rank:28/32, rating:8.8/77621, 明朝那些事儿（壹）    [doubanLink](https://book.douban.com/subject/01873231/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=明朝那些事儿（壹）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=明朝那些事儿（壹）)
+
+
+rank:29/71, rating:9.0/53521, 撒哈拉的故事    [doubanLink](https://book.douban.com/subject/01361264/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=撒哈拉的故事), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=撒哈拉的故事)
+
+
+rank:30/8, rating:8.5/130031, 不能承受的生命之轻    [doubanLink](https://book.douban.com/subject/01017143/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=不能承受的生命之轻), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=不能承受的生命之轻)
+
+
+rank:31/54, rating:8.9/61687, 月亮和六便士    [doubanLink](https://book.douban.com/subject/01858513/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=月亮和六便士), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=月亮和六便士)
+
+
+rank:32/196, rating:9.4/27542, 机器猫哆啦A梦23    [doubanLink](https://book.douban.com/subject/01204889/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=机器猫哆啦A梦23), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=机器猫哆啦A梦23)
+
+
+rank:33/136, rating:9.2/36371, 撒哈拉的故事    [doubanLink](https://book.douban.com/subject/01060068/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=撒哈拉的故事), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=撒哈拉的故事)
+
+
+rank:34/48, rating:8.8/67893, 哈利·波特与密室    [doubanLink](https://book.douban.com/subject/01039487/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与密室), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与密室)
+
+
+rank:35/67, rating:8.9/54795, 万历十五年    [doubanLink](https://book.douban.com/subject/01041482/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=万历十五年), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=万历十五年)
+
+
+rank:36/188, rating:9.3/28280, 1984    [doubanLink](https://book.douban.com/subject/04820710/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=1984), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=1984)
+
+
+rank:37/72, rating:8.9/53467, 哈利·波特与死亡圣器    [doubanLink](https://book.douban.com/subject/02295163/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与死亡圣器), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与死亡圣器)
+
+
+rank:38/38, rating:8.7/73734, 目送    [doubanLink](https://book.douban.com/subject/03995526/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=目送), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=目送)
+
+
+rank:39/202, rating:9.3/26896, 撒哈拉的故事    [doubanLink](https://book.douban.com/subject/06710437/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=撒哈拉的故事), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=撒哈拉的故事)
+
+
+rank:40/84, rating:8.9/50266, 霍乱时期的爱情    [doubanLink](https://book.douban.com/subject/10594787/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=霍乱时期的爱情), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=霍乱时期的爱情)
+
+
+rank:41/56, rating:8.8/59604, 哈利·波特与混血王子    [doubanLink](https://book.douban.com/subject/01432596/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与混血王子), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与混血王子)
+
+
+rank:42/17, rating:8.5/101726, 简爱    [doubanLink](https://book.douban.com/subject/01141406/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=简爱), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=简爱)
+
+
+rank:43/140, rating:9.1/35345, 肖申克的救赎    [doubanLink](https://book.douban.com/subject/01829226/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=肖申克的救赎), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=肖申克的救赎)
+
+
+rank:44/25, rating:8.6/82815, 送你一颗子弹    [doubanLink](https://book.douban.com/subject/04238362/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=送你一颗子弹), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=送你一颗子弹)
+
+
+rank:45/90, rating:8.9/48452, 基督山伯爵    [doubanLink](https://book.douban.com/subject/01085860/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=基督山伯爵), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=基督山伯爵)
+
+
+rank:46/93, rating:8.9/47827, 笑傲江湖（全四册）    [doubanLink](https://book.douban.com/subject/01002299/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=笑傲江湖（全四册）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=笑傲江湖（全四册）)
+
+
+rank:47/150, rating:9.1/34455, 安徒生童话故事集    [doubanLink](https://book.douban.com/subject/01046209/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=安徒生童话故事集), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=安徒生童话故事集)
+
+
+rank:48/97, rating:8.9/46549, 百年孤独    [doubanLink](https://book.douban.com/subject/01786670/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=百年孤独), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=百年孤独)
+
+
+rank:49/190, rating:9.2/28182, 动物农场    [doubanLink](https://book.douban.com/subject/02035179/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=动物农场), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=动物农场)
+
+
+rank:50/75, rating:8.8/52474, 黄金时代    [doubanLink](https://book.douban.com/subject/01089243/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=黄金时代), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=黄金时代)
+
+
+rank:51/133, rating:9.0/36667, 沉默的大多数    [doubanLink](https://book.douban.com/subject/01054685/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=沉默的大多数), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=沉默的大多数)
+
+
+rank:52/171, rating:9.1/30869, 明朝那些事儿（1-9）    [doubanLink](https://book.douban.com/subject/03674537/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=明朝那些事儿（1-9）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=明朝那些事儿（1-9）)
+
+
+rank:53/265, rating:9.3/22517, 一九八四    [doubanLink](https://book.douban.com/subject/01858576/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=一九八四), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=一九八四)
+
+
+rank:54/24, rating:8.5/83112, 倾城之恋    [doubanLink](https://book.douban.com/subject/01090043/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=倾城之恋), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=倾城之恋)
+
+
+rank:55/45, rating:8.6/68629, 我们仨    [doubanLink](https://book.douban.com/subject/01023045/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=我们仨), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=我们仨)
+
+
+rank:56/285, rating:9.3/21607, 冰与火之歌（卷一）    [doubanLink](https://book.douban.com/subject/01336330/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=冰与火之歌（卷一）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=冰与火之歌（卷一）)
+
+
+rank:57/63, rating:8.7/56382, 许三观卖血记    [doubanLink](https://book.douban.com/subject/01029791/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=许三观卖血记), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=许三观卖血记)
+
+
+rank:58/121, rating:8.9/39232, 明朝那些事儿（贰）    [doubanLink](https://book.douban.com/subject/01949338/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=明朝那些事儿（贰）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=明朝那些事儿（贰）)
+
+
+rank:59/159, rating:9.0/33116, 嫌疑人X的献身    [doubanLink](https://book.douban.com/subject/04117922/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=嫌疑人X的献身), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=嫌疑人X的献身)
+
+
+rank:60/68, rating:8.7/54480, 窗边的小豆豆    [doubanLink](https://book.douban.com/subject/01007914/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=窗边的小豆豆), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=窗边的小豆豆)
+
+
+rank:61/246, rating:9.2/24007, 一九八四·动物农场    [doubanLink](https://book.douban.com/subject/01082387/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=一九八四·动物农场), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=一九八四·动物农场)
+
+
+rank:62/163, rating:9.0/32507, 东方快车谋杀案    [doubanLink](https://book.douban.com/subject/01827374/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=东方快车谋杀案), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=东方快车谋杀案)
+
+
+rank:63/53, rating:8.6/63969, 边城    [doubanLink](https://book.douban.com/subject/01057244/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=边城), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=边城)
+
+
+rank:64/104, rating:8.8/43480, 神雕侠侣    [doubanLink](https://book.douban.com/subject/01255624/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=神雕侠侣), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=神雕侠侣)
+
+
+rank:65/85, rating:8.7/50236, 亲爱的安德烈    [doubanLink](https://book.douban.com/subject/03369793/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=亲爱的安德烈), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=亲爱的安德烈)
+
+
+rank:66/276, rating:9.2/22050, 七龍珠 34    [doubanLink](https://book.douban.com/subject/01389960/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=七龍珠 34), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=七龍珠 34)
+
+
+rank:67/111, rating:8.8/41035, 这些人，那些事    [doubanLink](https://book.douban.com/subject/06388661/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=这些人，那些事), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=这些人，那些事)
+
+
+rank:68/89, rating:8.7/48484, 灿烂千阳    [doubanLink](https://book.douban.com/subject/02143732/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=灿烂千阳), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=灿烂千阳)
+
+
+rank:69/10, rating:8.2/123358, 达·芬奇密码    [doubanLink](https://book.douban.com/subject/01040771/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=达·芬奇密码), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=达·芬奇密码)
+
+
+rank:70/184, rating:9.0/28880, 寻路中国    [doubanLink](https://book.douban.com/subject/05414391/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=寻路中国), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=寻路中国)
+
+
+rank:71/65, rating:8.6/56195, 哈利·波特与凤凰社    [doubanLink](https://book.douban.com/subject/01013129/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与凤凰社), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与凤凰社)
+
+
+rank:72/359, rating:9.3/17961, 人类简史    [doubanLink](https://book.douban.com/subject/25985021/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=人类简史), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=人类简史)
+
+
+rank:73/161, rating:8.9/32663, 明朝那些事儿（叁）    [doubanLink](https://book.douban.com/subject/02052448/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=明朝那些事儿（叁）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=明朝那些事儿（叁）)
+
+
+rank:74/4, rating:8.0/178790, 挪威的森林    [doubanLink](https://book.douban.com/subject/01046265/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=挪威的森林), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=挪威的森林)
+
+
+rank:75/320, rating:9.2/20065, 月亮和六便士    [doubanLink](https://book.douban.com/subject/04123116/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=月亮和六便士), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=月亮和六便士)
+
+
+rank:76/203, rating:9.0/26860, 历史深处的忧虑    [doubanLink](https://book.douban.com/subject/01027191/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=历史深处的忧虑), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=历史深处的忧虑)
+
+
+rank:77/169, rating:8.9/31232, 射雕英雄传（全四册）    [doubanLink](https://book.douban.com/subject/01044547/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=射雕英雄传（全四册）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=射雕英雄传（全四册）)
+
+
+rank:78/79, rating:8.6/51526, 民主的细节    [doubanLink](https://book.douban.com/subject/03813669/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=民主的细节), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=民主的细节)
+
+
+rank:79/172, rating:8.9/30715, 无人生还    [doubanLink](https://book.douban.com/subject/03006581/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=无人生还), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=无人生还)
+
+
+rank:80/460, rating:9.4/14220, 1984    [doubanLink](https://book.douban.com/subject/05299764/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=1984), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=1984)
+
+
+rank:81/57, rating:8.5/59184, 苏菲的世界    [doubanLink](https://book.douban.com/subject/01045818/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=苏菲的世界), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=苏菲的世界)
+
+
+rank:82/574, rating:9.5/12177, 史记（全十册）    [doubanLink](https://book.douban.com/subject/01077847/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=史记（全十册）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=史记（全十册）)
+
+
+rank:83/148, rating:8.8/34597, 呐喊    [doubanLink](https://book.douban.com/subject/01449351/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=呐喊), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=呐喊)
+
+
+rank:84/23, rating:8.3/84649, 天才在左 疯子在右    [doubanLink](https://book.douban.com/subject/04242172/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=天才在左 疯子在右), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=天才在左 疯子在右)
+
+
+rank:85/183, rating:8.9/29016, 哭泣的骆驼    [doubanLink](https://book.douban.com/subject/01029111/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哭泣的骆驼), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哭泣的骆驼)
+
+
+rank:86/44, rating:8.4/69215, 向左走·向右走    [doubanLink](https://book.douban.com/subject/01066462/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=向左走·向右走), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=向左走·向右走)
+
+
+rank:87/294, rating:9.1/21217, 中国历代政治得失    [doubanLink](https://book.douban.com/subject/01003479/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=中国历代政治得失), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=中国历代政治得失)
+
+
+rank:88/424, rating:9.3/15415, 活着    [doubanLink](https://book.douban.com/subject/05350303/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=活着), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=活着)
+
+
+rank:89/194, rating:8.9/27885, 格林童话全集    [doubanLink](https://book.douban.com/subject/01043008/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=格林童话全集), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=格林童话全集)
+
+
+rank:90/125, rating:8.7/38686, 一个陌生女人的来信    [doubanLink](https://book.douban.com/subject/02154960/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=一个陌生女人的来信), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=一个陌生女人的来信)
+
+
+rank:91/100, rating:8.6/45468, 牧羊少年奇幻之旅    [doubanLink](https://book.douban.com/subject/03608208/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=牧羊少年奇幻之旅), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=牧羊少年奇幻之旅)
+
+
+rank:92/102, rating:8.6/45094, 情书    [doubanLink](https://book.douban.com/subject/01080370/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=情书), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=情书)
+
+
+rank:93/730, rating:9.6/9965, 篮球飞人    [doubanLink](https://book.douban.com/subject/01337297/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=篮球飞人), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=篮球飞人)
+
+
+rank:94/258, rating:9.0/23089, 阿狸·梦之城堡    [doubanLink](https://book.douban.com/subject/03554154/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=阿狸·梦之城堡), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=阿狸·梦之城堡)
+
+
+rank:95/263, rating:9.0/22762, 明朝那些事儿（柒）：大结局    [doubanLink](https://book.douban.com/subject/03626924/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=明朝那些事儿（柒）：大结局), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=明朝那些事儿（柒）：大结局)
+
+
+rank:96/266, rating:9.0/22510, 傲慢与偏见    [doubanLink](https://book.douban.com/subject/01401841/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=傲慢与偏见), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=傲慢与偏见)
+
+
+rank:97/268, rating:9.0/22451, 刀锋    [doubanLink](https://book.douban.com/subject/02035162/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=刀锋), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=刀锋)
+
+
+rank:98/37, rating:8.3/73859, 1Q84 BOOK 1    [doubanLink](https://book.douban.com/subject/04742918/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=1Q84 BOOK 1), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=1Q84 BOOK 1)
+
+
+rank:99/219, rating:8.9/25765, 悲惨世界（上中下）    [doubanLink](https://book.douban.com/subject/01205054/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=悲惨世界（上中下）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=悲惨世界（上中下）)
+
+
+rank:100/175, rating:8.8/30170, 明朝那些事儿（肆）    [doubanLink](https://book.douban.com/subject/02253642/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=明朝那些事儿（肆）), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=明朝那些事儿（肆）)
+
+
+rank:101/41, rating:8.3/72994, 狼图腾    [doubanLink](https://book.douban.com/subject/01022060/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=狼图腾), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=狼图腾)
+
+
+
