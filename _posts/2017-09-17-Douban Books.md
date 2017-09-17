@@ -9,8 +9,10 @@ description:
 
 rank:1/15, rating:9.5/112791, 红楼梦
     [doubanLink](https://book.douban.com/subject/01007305/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=红楼梦), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=红楼梦)
+    
 rank:2/2, rating:9.0/211602, 小王子
     [doubanLink](https://book.douban.com/subject/01084336/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=小王子), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=小王子)
+    
 rank:3/5, rating:9.1/173299, 白夜行
     [doubanLink](https://book.douban.com/subject/03259440/), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=白夜行), [amazonBookLink](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=白夜行)
 rank:4/1, rating:8.8/248938, 追风筝的人
