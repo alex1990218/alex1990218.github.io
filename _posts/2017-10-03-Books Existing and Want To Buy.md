@@ -7,6 +7,256 @@ tags: [bookMeta]
 description: 
 ---
 
+EXISTING_BOOKS_1,rank:3/5, rating:9.1/173299, 白夜行    [db](https://book.douban.com/subject/03259440/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=白夜行), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=白夜行)
+
+EXISTING_BOOKS_2,rank:4/1, rating:8.8/248938, 追风筝的人    [db](https://book.douban.com/subject/01770782/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=追风筝的人), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=追风筝的人)
+
+EXISTING_BOOKS_3,rank:5/3, rating:8.9/179735, 围城    [db](https://book.douban.com/subject/01008145/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=围城), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=围城)
+
+EXISTING_BOOKS_4,rank:6/11, rating:9.1/120195, 活着    [db](https://book.douban.com/subject/01082154/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=活着), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=活着)
+
+EXISTING_BOOKS_5,rank:7/18, rating:9.2/94365, 百年孤独    [db](https://book.douban.com/subject/06082808/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=百年孤独), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=百年孤独)
+
+EXISTING_BOOKS_6,rank:11/12, rating:8.9/119409, 嫌疑人X的献身    [db](https://book.douban.com/subject/03211779/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=嫌疑人X的献身), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=嫌疑人X的献身)
+
+EXISTING_BOOKS_7,rank:12/19, rating:9.0/93907, 平凡的世界（全三部）    [db](https://book.douban.com/subject/01200840/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=平凡的世界（全三部）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=平凡的世界（全三部）)
+
+EXISTING_BOOKS_8,rank:15/26, rating:9.0/82496, 哈利·波特与魔法石    [db](https://book.douban.com/subject/01041007/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与魔法石), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与魔法石)
+
+EXISTING_BOOKS_9,rank:23/43, rating:8.9/70173, 哈利·波特与阿兹卡班的囚徒    [db](https://book.douban.com/subject/01071241/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与阿兹卡班的囚徒), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与阿兹卡班的囚徒)
+
+EXISTING_BOOKS_10,rank:25/47, rating:8.9/68070, 哈利·波特与火焰杯    [db](https://book.douban.com/subject/01009257/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与火焰杯), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与火焰杯)
+
+EXISTING_BOOKS_11,rank:34/48, rating:8.8/67893, 哈利·波特与密室    [db](https://book.douban.com/subject/01039487/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈利·波特与密室), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈利·波特与密室)
+
+EXISTING_BOOKS_12,rank:35/67, rating:8.9/54795, 万历十五年    [db](https://book.douban.com/subject/01041482/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=万历十五年), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=万历十五年)
+
+EXISTING_BOOKS_13,rank:45/90, rating:8.9/48452, 基督山伯爵    [db](https://book.douban.com/subject/01085860/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=基督山伯爵), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=基督山伯爵)
+
+EXISTING_BOOKS_14,rank:51/133, rating:9.0/36667, 沉默的大多数    [db](https://book.douban.com/subject/01054685/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=沉默的大多数), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=沉默的大多数)
+
+EXISTING_BOOKS_15,rank:63/53, rating:8.6/63969, 边城    [db](https://book.douban.com/subject/01057244/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=边城), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=边城)
+
+EXISTING_BOOKS_16,rank:69/10, rating:8.2/123358, 达·芬奇密码    [db](https://book.douban.com/subject/01040771/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=达·芬奇密码), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=达·芬奇密码)
+
+EXISTING_BOOKS_17,rank:70/184, rating:9.0/28880, 寻路中国    [db](https://book.douban.com/subject/05414391/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=寻路中国), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=寻路中国)
+
+EXISTING_BOOKS_18,rank:72/359, rating:9.3/17961, 人类简史    [db](https://book.douban.com/subject/25985021/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=人类简史), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=人类简史)
+
+EXISTING_BOOKS_19,rank:78/79, rating:8.6/51526, 民主的细节    [db](https://book.douban.com/subject/03813669/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=民主的细节), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=民主的细节)
+
+EXISTING_BOOKS_20,rank:81/57, rating:8.5/59184, 苏菲的世界    [db](https://book.douban.com/subject/01045818/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=苏菲的世界), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=苏菲的世界)
+
+EXISTING_BOOKS_21,rank:84/23, rating:8.3/84649, 天才在左 疯子在右    [db](https://book.douban.com/subject/04242172/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=天才在左 疯子在右), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=天才在左 疯子在右)
+
+EXISTING_BOOKS_22,rank:87/294, rating:9.1/21217, 中国历代政治得失    [db](https://book.douban.com/subject/01003479/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=中国历代政治得失), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=中国历代政治得失)
+
+EXISTING_BOOKS_23,rank:135/235, rating:8.8/24798, 一只特立独行的猪    [db](https://book.douban.com/subject/01767945/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=一只特立独行的猪), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=一只特立独行的猪)
+
+EXISTING_BOOKS_24,rank:147/374, rating:9.0/17247, 我的精神家园    [db](https://book.douban.com/subject/01014578/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=我的精神家园), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=我的精神家园)
+
+EXISTING_BOOKS_25,rank:149/757, rating:9.4/9744, 道德经    [db](https://book.douban.com/subject/01059258/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=道德经), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=道德经)
+
+EXISTING_BOOKS_26,rank:152/556, rating:9.2/12479, 上帝掷骰子吗    [db](https://book.douban.com/subject/01467022/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=上帝掷骰子吗), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=上帝掷骰子吗)
+
+EXISTING_BOOKS_27,rank:176/340, rating:8.8/18990, 激荡三十年（上）    [db](https://book.douban.com/subject/01970428/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=激荡三十年（上）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=激荡三十年（上）)
+
+EXISTING_BOOKS_28,rank:211/213, rating:8.5/26308, 如何阅读一本书    [db](https://book.douban.com/subject/01013208/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=如何阅读一本书), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=如何阅读一本书)
+
+EXISTING_BOOKS_29,rank:224/502, rating:8.9/13421, 激荡三十年（下）    [db](https://book.douban.com/subject/02380307/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=激荡三十年（下）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=激荡三十年（下）)
+
+EXISTING_BOOKS_30,rank:225/885, rating:9.2/8768, 全球通史(上)    [db](https://book.douban.com/subject/01922216/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=全球通史(上)), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=全球通史(上))
+
+EXISTING_BOOKS_31,rank:232/1212, rating:9.4/6555, 经济学原理    [db](https://book.douban.com/subject/03719533/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=经济学原理), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=经济学原理)
+
+EXISTING_BOOKS_32,rank:249/255, rating:8.5/23193, 把时间当作朋友    [db](https://book.douban.com/subject/03609132/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=把时间当作朋友), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=把时间当作朋友)
+
+EXISTING_BOOKS_33,rank:250/327, rating:8.6/19653, 朝花夕拾    [db](https://book.douban.com/subject/01449352/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=朝花夕拾), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=朝花夕拾)
+
+EXISTING_BOOKS_34,rank:281/744, rating:9.0/9828, 此生未完成    [db](https://book.douban.com/subject/06397275/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=此生未完成), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=此生未完成)
+
+EXISTING_BOOKS_35,rank:290/303, rating:8.5/20862, 雷雨    [db](https://book.douban.com/subject/01013416/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=雷雨), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=雷雨)
+
+EXISTING_BOOKS_36,rank:291/533, rating:8.8/12967, 黑客与画家    [db](https://book.douban.com/subject/06021440/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=黑客与画家), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=黑客与画家)
+
+EXISTING_BOOKS_37,rank:294/1258, rating:9.3/6354, 现代汉语词典（修订本）    [db](https://book.douban.com/subject/01036684/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=现代汉语词典（修订本）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=现代汉语词典（修订本）)
+
+EXISTING_BOOKS_38,rank:369/113, rating:8.0/40957, 鲁滨逊漂流记    [db](https://book.douban.com/subject/01016003/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=鲁滨逊漂流记), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=鲁滨逊漂流记)
+
+EXISTING_BOOKS_39,rank:376/1332, rating:9.2/6019, 全球通史(下)    [db](https://book.douban.com/subject/01922246/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=全球通史(下)), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=全球通史(下))
+
+EXISTING_BOOKS_40,rank:400/909, rating:8.9/8538, 思维的乐趣    [db](https://book.douban.com/subject/01418180/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=思维的乐趣), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=思维的乐趣)
+
+EXISTING_BOOKS_41,rank:409/625, rating:8.7/11278, 心理学与生活    [db](https://book.douban.com/subject/01032501/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=心理学与生活), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=心理学与生活)
+
+EXISTING_BOOKS_42,rank:431/234, rating:8.2/24808, 天使与魔鬼    [db](https://book.douban.com/subject/01228110/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=天使与魔鬼), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=天使与魔鬼)
+
+EXISTING_BOOKS_43,rank:449/1762, rating:9.3/4710, 庄子    [db](https://book.douban.com/subject/02046236/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=庄子), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=庄子)
+
+EXISTING_BOOKS_44,rank:450/1764, rating:9.3/4707, 孙子兵法    [db](https://book.douban.com/subject/01949420/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=孙子兵法), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=孙子兵法)
+
+EXISTING_BOOKS_45,rank:451/1145, rating:9.0/6917, 论语    [db](https://book.douban.com/subject/01964774/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=论语), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=论语)
+
+EXISTING_BOOKS_46,rank:473/1413, rating:9.1/5772, 从一到无穷大    [db](https://book.douban.com/subject/01102715/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=从一到无穷大), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=从一到无穷大)
+
+EXISTING_BOOKS_47,rank:480/2145, rating:9.4/3884, 哥德尔、艾舍尔、巴赫    [db](https://book.douban.com/subject/01291204/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哥德尔、艾舍尔、巴赫), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哥德尔、艾舍尔、巴赫)
+
+EXISTING_BOOKS_48,rank:490/428, rating:8.4/15290, 哈姆莱特    [db](https://book.douban.com/subject/01006197/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=哈姆莱特), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=哈姆莱特)
+
+EXISTING_BOOKS_49,rank:501/962, rating:8.8/8107, 卓有成效的管理者    [db](https://book.douban.com/subject/01322025/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=卓有成效的管理者), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=卓有成效的管理者)
+
+EXISTING_BOOKS_50,rank:509/2261, rating:9.4/3680, 中國近代史（上冊）    [db](https://book.douban.com/subject/01476213/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=中國近代史（上冊）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=中國近代史（上冊）)
+
+EXISTING_BOOKS_51,rank:513/371, rating:8.3/17361, 中国大历史    [db](https://book.douban.com/subject/01015699/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=中国大历史), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=中国大历史)
+
+EXISTING_BOOKS_52,rank:573/20, rating:7.4/93042, 三重门    [db](https://book.douban.com/subject/01026425/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=三重门), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=三重门)
+
+EXISTING_BOOKS_53,rank:622/238, rating:8.0/24715, 拆掉思维里的墙    [db](https://book.douban.com/subject/04953695/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=拆掉思维里的墙), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=拆掉思维里的墙)
+
+EXISTING_BOOKS_54,rank:642/389, rating:8.2/16656, 自控力    [db](https://book.douban.com/subject/10786473/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=自控力), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=自控力)
+
+EXISTING_BOOKS_55,rank:709/2603, rating:9.3/3203, 代码大全（第2版）    [db](https://book.douban.com/subject/01477390/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=代码大全（第2版）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=代码大全（第2版）)
+
+EXISTING_BOOKS_56,rank:729/2085, rating:9.1/3995, 公正    [db](https://book.douban.com/subject/05408882/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=公正), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=公正)
+
+EXISTING_BOOKS_57,rank:736/2686, rating:9.3/3112, 中國近代史（下冊）    [db](https://book.douban.com/subject/01476218/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=中國近代史（下冊）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=中國近代史（下冊）)
+
+EXISTING_BOOKS_58,rank:738/2111, rating:9.1/3945, 社会性动物    [db](https://book.douban.com/subject/02328458/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=社会性动物), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=社会性动物)
+
+EXISTING_BOOKS_59,rank:743/1635, rating:8.9/5068, 茶馆    [db](https://book.douban.com/subject/01036613/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=茶馆), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=茶馆)
+
+EXISTING_BOOKS_60,rank:744/3398, rating:9.5/2439, 深入理解计算机系统    [db](https://book.douban.com/subject/01230413/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=深入理解计算机系统), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=深入理解计算机系统)
+
+EXISTING_BOOKS_61,rank:780/733, rating:8.4/9949, 暗时间    [db](https://book.douban.com/subject/06709809/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=暗时间), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=暗时间)
+
+EXISTING_BOOKS_62,rank:800/507, rating:8.2/13353, 家    [db](https://book.douban.com/subject/01082522/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=家), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=家)
+
+EXISTING_BOOKS_63,rank:865/688, rating:8.3/10480, 怪诞行为学    [db](https://book.douban.com/subject/04929844/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=怪诞行为学), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=怪诞行为学)
+
+EXISTING_BOOKS_64,rank:913/739, rating:8.3/9908, 伟大的博弈    [db](https://book.douban.com/subject/01220853/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=伟大的博弈), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=伟大的博弈)
+
+EXISTING_BOOKS_65,rank:931/617, rating:8.2/11383, 拖延心理学    [db](https://book.douban.com/subject/04180711/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=拖延心理学), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=拖延心理学)
+
+EXISTING_BOOKS_66,rank:958/82, rating:7.4/50337, 一座城池    [db](https://book.douban.com/subject/01453210/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=一座城池), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=一座城池)
+
+EXISTING_BOOKS_67,rank:1047/2575, rating:9.0/3239, 穷查理宝典    [db](https://book.douban.com/subject/05346110/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=穷查理宝典), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=穷查理宝典)
+
+EXISTING_BOOKS_68,rank:1050/2933, rating:9.1/2862, 什么是数学    [db](https://book.douban.com/subject/01320282/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=什么是数学), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=什么是数学)
+
+EXISTING_BOOKS_69,rank:1065/3699, rating:9.3/2243, 宋词三百首    [db](https://book.douban.com/subject/01006967/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=宋词三百首), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=宋词三百首)
+
+EXISTING_BOOKS_70,rank:1157/278, rating:7.7/21933, 行者无疆    [db](https://book.douban.com/subject/01054889/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=行者无疆), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=行者无疆)
+
+EXISTING_BOOKS_71,rank:1173/4933, rating:9.5/1663, 计算机程序的构造和解释    [db](https://book.douban.com/subject/01148282/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=计算机程序的构造和解释), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=计算机程序的构造和解释)
+
+EXISTING_BOOKS_72,rank:1178/3222, rating:9.1/2596, Java编程思想 （第4版）    [db](https://book.douban.com/subject/02130190/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=Java编程思想 （第4版）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=Java编程思想 （第4版）)
+
+EXISTING_BOOKS_73,rank:1194/2884, rating:9.0/2907, 大问题    [db](https://book.douban.com/subject/01071227/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=大问题), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=大问题)
+
+EXISTING_BOOKS_74,rank:1241/906, rating:8.2/8576, 三个火枪手    [db](https://book.douban.com/subject/01203244/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=三个火枪手), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=三个火枪手)
+
+EXISTING_BOOKS_75,rank:1242/3737, rating:9.2/2219, Head First 设计模式（中文版）    [db](https://book.douban.com/subject/02243615/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=Head First 设计模式（中文版）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=Head First 设计模式（中文版）)
+
+EXISTING_BOOKS_76,rank:1247/469, rating:7.9/14123, 丑陋的中国人    [db](https://book.douban.com/subject/01027247/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=丑陋的中国人), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=丑陋的中国人)
+
+EXISTING_BOOKS_77,rank:1252/3348, rating:9.1/2474, 设计模式    [db](https://book.douban.com/subject/01052241/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=设计模式), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=设计模式)
+
+EXISTING_BOOKS_78,rank:1254/1771, rating:8.6/4687, 自私的基因    [db](https://book.douban.com/subject/01292405/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=自私的基因), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=自私的基因)
+
+EXISTING_BOOKS_79,rank:1366/1436, rating:8.4/5690, 当下的力量    [db](https://book.douban.com/subject/03413836/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=当下的力量), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=当下的力量)
+
+EXISTING_BOOKS_80,rank:1380/4136, rating:9.2/2010, 对伪心理学说不    [db](https://book.douban.com/subject/06952036/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=对伪心理学说不), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=对伪心理学说不)
+
+EXISTING_BOOKS_81,rank:1425/5800, rating:9.5/1409, 费恩曼物理学讲义（第1卷）    [db](https://book.douban.com/subject/01437852/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=费恩曼物理学讲义（第1卷）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=费恩曼物理学讲义（第1卷）)
+
+EXISTING_BOOKS_82,rank:1487/3941, rating:9.1/2107, 鸟哥的Linux私房菜    [db](https://book.douban.com/subject/04889838/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=鸟哥的Linux私房菜), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=鸟哥的Linux私房菜)
+
+EXISTING_BOOKS_83,rank:1508/2128, rating:8.6/3909, 跌荡一百年（下）    [db](https://book.douban.com/subject/04010186/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=跌荡一百年（下）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=跌荡一百年（下）)
+
+EXISTING_BOOKS_84,rank:1547/336, rating:7.6/19114, 千年一叹    [db](https://book.douban.com/subject/01020241/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=千年一叹), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=千年一叹)
+
+EXISTING_BOOKS_85,rank:1654/3821, rating:9.0/2174, 聪明的投资者    [db](https://book.douban.com/subject/05243775/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=聪明的投资者), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=聪明的投资者)
+
+EXISTING_BOOKS_86,rank:1673/2356, rating:8.6/3562, 跌荡一百年（上）    [db](https://book.douban.com/subject/03313327/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=跌荡一百年（上）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=跌荡一百年（上）)
+
+EXISTING_BOOKS_87,rank:1686/1518, rating:8.3/5408, 奇特的一生    [db](https://book.douban.com/subject/01115353/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=奇特的一生), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=奇特的一生)
+
+EXISTING_BOOKS_88,rank:1713/4376, rating:9.1/1890, 毛泽东选集 第一卷    [db](https://book.douban.com/subject/01139360/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=毛泽东选集 第一卷), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=毛泽东选集 第一卷)
+
+EXISTING_BOOKS_89,rank:1777/4534, rating:9.1/1822, 亲密关系（第5版）    [db](https://book.douban.com/subject/05952488/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=亲密关系（第5版）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=亲密关系（第5版）)
+
+EXISTING_BOOKS_90,rank:1832/2217, rating:8.5/3754, 东周列国志（上下）    [db](https://book.douban.com/subject/01185908/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=东周列国志（上下）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=东周列国志（上下）)
+
+EXISTING_BOOKS_91,rank:1870/2989, rating:8.7/2814, 兄弟连    [db](https://book.douban.com/subject/01038241/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=兄弟连), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=兄弟连)
+
+EXISTING_BOOKS_92,rank:1896/3372, rating:8.8/2457, 改变心理学的40项研究    [db](https://book.douban.com/subject/01147347/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=改变心理学的40项研究), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=改变心理学的40项研究)
+
+EXISTING_BOOKS_93,rank:1908/4309, rating:9.0/1923, 重构    [db](https://book.douban.com/subject/01229923/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=重构), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=重构)
+
+EXISTING_BOOKS_94,rank:1977/1531, rating:8.2/5375, 思考，快与慢    [db](https://book.douban.com/subject/10785583/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=思考，快与慢), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=思考，快与慢)
+
+EXISTING_BOOKS_95,rank:2024/3541, rating:8.8/2341, 进化心理学    [db](https://book.douban.com/subject/02143904/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=进化心理学), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=进化心理学)
+
+EXISTING_BOOKS_96,rank:2102/1624, rating:8.2/5097, 汤姆叔叔的小屋    [db](https://book.douban.com/subject/01430530/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=汤姆叔叔的小屋), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=汤姆叔叔的小屋)
+
+EXISTING_BOOKS_97,rank:2108/1900, rating:8.3/4385, 学习之道（第2版）    [db](https://book.douban.com/subject/02345548/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=学习之道（第2版）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=学习之道（第2版）)
+
+EXISTING_BOOKS_98,rank:2131/5222, rating:9.1/1566, 易经    [db](https://book.douban.com/subject/01849409/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=易经), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=易经)
+
+EXISTING_BOOKS_99,rank:2211/180, rating:7.2/29346, 草样年华    [db](https://book.douban.com/subject/01007334/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=草样年华), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=草样年华)
+
+EXISTING_BOOKS_100,rank:2313/195, rating:7.2/27744, 谁动了我的奶酪？    [db](https://book.douban.com/subject/01021056/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=谁动了我的奶酪？), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=谁动了我的奶酪？)
+
+EXISTING_BOOKS_101,rank:2362/2140, rating:8.3/3892, 大卫·科波菲尔（上下）    [db](https://book.douban.com/subject/01014144/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=大卫·科波菲尔（上下）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=大卫·科波菲尔（上下）)
+
+EXISTING_BOOKS_102,rank:2435/4716, rating:8.9/1747, 管理的实践    [db](https://book.douban.com/subject/01457028/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=管理的实践), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=管理的实践)
+
+EXISTING_BOOKS_103,rank:2441/1911, rating:8.2/4357, 求医不如求己    [db](https://book.douban.com/subject/02000641/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=求医不如求己), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=求医不如求己)
+
+EXISTING_BOOKS_104,rank:2595/337, rating:7.3/19109, 数字城堡    [db](https://book.douban.com/subject/01057206/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=数字城堡), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=数字城堡)
+
+EXISTING_BOOKS_105,rank:2841/3929, rating:8.6/2115, 沟通的艺术（插图修订第14版）    [db](https://book.douban.com/subject/26275861/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=沟通的艺术（插图修订第14版）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=沟通的艺术（插图修订第14版）)
+
+EXISTING_BOOKS_106,rank:2871/3485, rating:8.5/2381, 决策与判断    [db](https://book.douban.com/subject/01193621/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=决策与判断), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=决策与判断)
+
+EXISTING_BOOKS_107,rank:2906/4514, rating:8.7/1832, 物理世界奇遇记    [db](https://book.douban.com/subject/03071402/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=物理世界奇遇记), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=物理世界奇遇记)
+
+EXISTING_BOOKS_108,rank:2909/3127, rating:8.4/2683, 人月神话    [db](https://book.douban.com/subject/01102259/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=人月神话), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=人月神话)
+
+EXISTING_BOOKS_109,rank:2917/4524, rating:8.7/1829, 货币金融学    [db](https://book.douban.com/subject/02005726/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=货币金融学), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=货币金融学)
+
+EXISTING_BOOKS_110,rank:3006/4137, rating:8.6/2010, 程序员修炼之道    [db](https://book.douban.com/subject/01152111/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=程序员修炼之道), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=程序员修炼之道)
+
+EXISTING_BOOKS_111,rank:3038/4186, rating:8.6/1983, 追寻生命的意义    [db](https://book.douban.com/subject/01135734/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=追寻生命的意义), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=追寻生命的意义)
+
+EXISTING_BOOKS_112,rank:3072/2165, rating:8.1/3843, 芙蓉镇    [db](https://book.douban.com/subject/01200843/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=芙蓉镇), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=芙蓉镇)
+
+EXISTING_BOOKS_113,rank:3127/7367, rating:9.1/1088, Effective java 中文版（第2版）    [db](https://book.douban.com/subject/03360807/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=Effective java 中文版（第2版）), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=Effective java 中文版（第2版）)
+
+EXISTING_BOOKS_114,rank:3258/2294, rating:8.1/3648, 金字塔原理    [db](https://book.douban.com/subject/01020644/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=金字塔原理), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=金字塔原理)
+
+EXISTING_BOOKS_115,rank:3266/6193, rating:8.9/1304, Excel图表之道    [db](https://book.douban.com/subject/04326057/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=Excel图表之道), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=Excel图表之道)
+
+EXISTING_BOOKS_116,rank:3405/2065, rating:8.0/4024, 习惯的力量    [db](https://book.douban.com/subject/20507212/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=习惯的力量), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=习惯的力量)
+
+EXISTING_BOOKS_117,rank:3604/908, rating:7.5/8546, 借我一生    [db](https://book.douban.com/subject/01049215/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=借我一生), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=借我一生)
+
+EXISTING_BOOKS_118,rank:3674/5007, rating:8.6/1635, 改变，从心开始    [db](https://book.douban.com/subject/02372450/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=改变，从心开始), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=改变，从心开始)
+
+EXISTING_BOOKS_119,rank:3703/6301, rating:8.8/1283, 怎样解题    [db](https://book.douban.com/subject/02124114/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=怎样解题), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=怎样解题)
+
+EXISTING_BOOKS_120,rank:3821/11229, rating:9.4/668, 小布头奇遇记    [db](https://book.douban.com/subject/01321696/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=小布头奇遇记), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=小布头奇遇记)
+
+EXISTING_BOOKS_121,rank:3841/5876, rating:8.7/1383, 信息简史    [db](https://book.douban.com/subject/25752043/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=信息简史), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=信息简史)
+
+EXISTING_BOOKS_122,rank:3934/2138, rating:7.9/3898, 怪诞行为学2    [db](https://book.douban.com/subject/05253757/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=怪诞行为学2), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=怪诞行为学2)
+
+EXISTING_BOOKS_123,rank:4198/3536, rating:8.2/2345, 幸福的方法    [db](https://book.douban.com/subject/02307720/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=幸福的方法), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=幸福的方法)
+
+EXISTING_BOOKS_124,rank:4271/449, rating:7.1/14619, 毒    [db](https://book.douban.com/subject/01046385/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=毒), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=毒)
+
+EXISTING_BOOKS_125,rank:4413/815, rating:7.3/9292, 骗局    [db](https://book.douban.com/subject/01485225/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=骗局), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=骗局)
+
 EXISTING_BOOKS_126,rank:4475/3350, rating:8.1/2474, 这些道理没有人告诉过你    [db](https://book.douban.com/subject/02250259/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=这些道理没有人告诉过你), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=这些道理没有人告诉过你)
 
 EXISTING_BOOKS_127,rank:4772/5309, rating:8.4/1536, 职场动物进化手册    [db](https://book.douban.com/subject/01039311/), [amzB](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Dstripbooks&field-keywords=职场动物进化手册), [amzK](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Ddigital-text&field-keywords=职场动物进化手册)
