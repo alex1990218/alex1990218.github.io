@@ -10,6 +10,238 @@ description:
 20171021updated
 
 
+心智工具箱 - 114 [文化资本与社会资本](https://mp.weixin.qq.com/s/t8gCmTfwkoU_l6C0LSP41w)
+
+心智工具箱 - 113 [当认知科学遇上写作——认知写作学第五期预习指南](http://mp.weixin.qq.com/s/36TuaSJ8Lve-BvlEhkqzyQ)
+
+心智工具箱 - 112 [从西蒙到卡尼曼——心理学家再次荣获诺贝尔经济学奖](http://mp.weixin.qq.com/s/Zf8rtruTsiov2Ky1jyxZLA)
+
+心智工具箱 - 111 [当脑认知科学遇上教育](http://mp.weixin.qq.com/s/O1AXpcN75n0ODxdj_B2KnQ)
+
+心智工具箱 - 110 [37岁，谢谢你](http://mp.weixin.qq.com/s/7-I8c99tQsrmSi3um0rTYg)
+
+心智工具箱 - 109 [记住你的样子：写给毕业生的十篇文章](http://mp.weixin.qq.com/s/jJ5LDwxJUK72_WmjrcA7Ig)
+
+心智工具箱 - 108 [胜利者一无所获](http://mp.weixin.qq.com/s/BaKhqwYje36NWf2zlDJ1RA)
+
+心智工具箱 - 107 [《智力是什么》推荐序：人生标准九](http://mp.weixin.qq.com/s/yYdxEnho9dXUu8067c4d0w)
+
+心智工具箱 - 106 [创造与热情：写在第三届开智大会之前](http://mp.weixin.qq.com/s/RVJEkVPtfkiNTHX2ylDO1Q)
+
+心智工具箱 - 105 [七月夜谈](http://mp.weixin.qq.com/s/1Qd_DeBE54bgkr2KUhZMHg)
+
+心智工具箱 - 104 [给自己的教育](http://mp.weixin.qq.com/s/sbseIxPfLFS2zrK2z1fAhQ)
+
+心智工具箱 - 103 [心智学徒B组招生计划](http://mp.weixin.qq.com/s/NTzPylwRONBsD7kk9vELOA)
+
+心智工具箱 - 102 [新人七法](http://mp.weixin.qq.com/s/7A-g325nJhXMRZXroPL6lQ)
+
+心智工具箱 - 101 [创造者手册001：开篇语](http://mp.weixin.qq.com/s/BgfbEzNSjp3bG5foy38KTA)
+
+心智工具箱 - 100 [文成法立——中国写作之道](http://mp.weixin.qq.com/s/w6YfO-wM77I8_s4yp10Q1A)
+
+心智工具箱 - 99 [育儿心书](http://mp.weixin.qq.com/s/ULgBw7ICTPmNGTgZ6MU1YA)
+
+心智工具箱 - 98 [那一年我二十一岁](http://mp.weixin.qq.com/s/DpMAN-oPLdEVvf__LOXBtA)
+
+心智工具箱 - 97 [道统、学统与文统](http://mp.weixin.qq.com/s/22AA8ruy35hd5hOOPvhxUw)
+
+心智工具箱 - 96 [碎片时代的经典阅读（2）：宇文所安、艾柯与卡尔维诺](http://mp.weixin.qq.com/s/9TIAE6Bm4g13cNfKHILNZA)
+
+心智工具箱 - 95 [碎片时代的经典阅读（1）：什么是作家？](http://mp.weixin.qq.com/s/bqpts8-MhoasPlmV38EktA)
+
+心智工具箱 - 94 [写作十二问](http://mp.weixin.qq.com/s/075ir2euIOKJfOJgIHdrtg)
+
+心智工具箱 - 93 [怎样提高写作能力？](http://mp.weixin.qq.com/s/FazUP06ypD6f8QhmXxm3Yg)
+
+心智工具箱 - 92 [致新同学](—— 认知写作学的前生今世  http://mp.weixin.qq.com/s/ha4gi_Rd9ezRoRrGGN8-Yg)
+
+心智工具箱 - 91 [致新读者](http://mp.weixin.qq.com/s/n32bdu82WeTt8FXNV9ZC6w)
+
+心智工具箱 - 90 [一位三十七岁大叔的求职简历](https://mp.weixin.qq.com/s/tJrzgvtsmtcJhxPt5SobIA)
+
+心智工具箱 - 89 [元认知学习法——以微表情和网络心理学为例](http://mp.weixin.qq.com/s/Uzu6NUe5qQG01YES6_E6SQ)
+
+心智工具箱 - 88 [外人、自己人与另一半](https://mp.weixin.qq.com/s/6-iRcHA99aT-ZgODY2cBNw)
+
+心智工具箱 - 87 [新年好，好新年](http://mp.weixin.qq.com/s/WwUAC1H5e1HAQewvm8Ruew)
+
+心智工具箱 - 86 [开智部落新春寄语](http://mp.weixin.qq.com/s/6sPaXshh-S99H8o4pgWSSg)
+
+心智工具箱 - 85 [有趣男女](http://mp.weixin.qq.com/s/JXsNLXdMpC8-nmhE_KL2hg)
+
+心智工具箱 - 84 [跨年答疑（5）：生活十二问](http://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149762&idx=1&sn=a85e9477f9b0cdcb9522be4a76cddcf4&chksm=84f0b354b3873a42ee64bf55a172c3618cf81bd0ae94889a216bb0ce32888ad864723a629c96&scene=21#wechat_redirect)
+
+心智工具箱 - 83 [跨年答疑（4）：职业十二问](http://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149740&idx=1&sn=e2d632768d21574c5cf38b681bf76ac2&chksm=84f0bcbab38735acd1a8fe2e5558acfc21f45174027ae944d20e701dfdfe78b0a3040134d65c&scene=21#wechat_redirect)
+
+心智工具箱 - 82 [跨年答疑（3）：卡片十二问](http://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149731&idx=1&sn=0bad3be7e35b09a4f05e455572fe10b0&chksm=84f0bcb5b38735a33155e1c0fbbc624f65bede286edc757ce3efe5b0c18d6be5be8081c4ee6e&scene=21#wechat_redirect)
+
+心智工具箱 - 81 [跨年答疑（2）：知识十二问](http://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149717&idx=1&sn=1983165f436a3bbf11a87e7f893800f5&chksm=84f0bc83b3873595dd3a2372612c7c0f50ddb950711b4493b35e7f249d410f65b365e639c5dc&scene=21#wechat_redirect)
+
+心智工具箱 - 80 [跨年答疑（1）：学习十二问](http://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149705&idx=1&sn=aa5201b87226b2a07b5fd9c5870bc342&chksm=84f0bc9fb3873589cce88fe243f0af08afe8bb665b836864dcb2c94082ee5ef6d7164cf43bae&scene=21#wechat_redirect)
+
+心智工具箱 - 79 [2016年读书札记](http://mp.weixin.qq.com/s/Z2556OBZ_LIbMFQnL3GiYw)
+
+心智工具箱 - 78 [构建优雅的知识创造系统](http://mp.weixin.qq.com/s/j6fqcvzER6gv1JnPBqnYkA)
+
+心智工具箱 - 77 [我的2016年](http://mp.weixin.qq.com/s/3DQsWcAlBDpwMnnLxEPAZA)
+
+心智工具箱 - 76 [如何建立好的学习习惯系统？](http://mp.weixin.qq.com/s/JQMC5Lgove67Zij4RiNn0Q)
+
+心智工具箱 - 75 [《网络数据可视化与分析利器：Gephi中文教程》推荐序](https://mp.weixin.qq.com/s/tLDF0c5pThHDLBXkUDhfHA)
+
+心智工具箱 - 74 [十年](http://mp.weixin.qq.com/s/tQWy9SVaQ_KiVkUJvKGPbg)
+
+心智工具箱 - 73 [如何学习编程——来自认知科学的四个建议](http://mp.weixin.qq.com/s/HFcq7SRfbqCJjIgYTKA0Fw)
+
+心智工具箱 - 72 [书事](http://mp.weixin.qq.com/s/2DiHJw37fG5Fgcv6rnfQTg)
+
+心智工具箱 - 71 [如何在10年影响10亿人？](http://mp.weixin.qq.com/s/XQWGlo4eNgiLiOlDh-qOSg)
+
+心智工具箱 - 70 [开智部落三十天](http://mp.weixin.qq.com/s/wA4J5LQCql4WYzEIHx4g8Q)
+
+心智工具箱 - 69 [纳博科夫的卡片](http://mp.weixin.qq.com/s/XHLm8XKQPn7iVh_NQeskMw)
+
+心智工具箱 - 68 [规矩](http://mp.weixin.qq.com/s/fVZ2oeNOwLNMmU7JJeDxsw)
+
+心智工具箱 - 67 [《刻意练习》推荐序](https://mp.weixin.qq.com/s/63AFUVFZP5ekbln6xn4Vkg)
+
+心智工具箱 - 66 [人性与暴力——论智力侵略](http://mp.weixin.qq.com/s/5nSUrGSXhdBcr1b2HYQsLA)
+
+心智工具箱 - 65 [开智元范](http://mp.weixin.qq.com/s/85eJ6G6HW6ttL148C3_Y0A)
+
+心智工具箱 - 64 [读书十二问](http://mp.weixin.qq.com/s/Qz6OL7Wzb-YmjpXg-QZP2A)
+
+心智工具箱 - 63 [灵魂选择自己的伴侣](http://mp.weixin.qq.com/s/lb6w0xhWkwg1o9wCA4Q7Fw)
+
+心智工具箱 - 62 [《追时间的人》答读者问](https://mp.weixin.qq.com/s/snDLDnvLY_LaAjdx_GoptA)
+
+心智工具箱 - 61 [心智学徒计划答疑](http://mp.weixin.qq.com/s/ADrNEuHNZA0hoKgnK6yDpg)
+
+心智工具箱 - 60 [忧伤的文学——认知写作学二期毕业典礼致辞](http://mp.weixin.qq.com/s/onmv8ELyyI1jYcFi5N8Xew)
+
+心智工具箱 - 59 [人生的STC算子](https://mp.weixin.qq.com/s/pH7ULW1aV_yNBppIt8IAZQ)
+
+心智工具箱 - 58 [心智学徒第一批入选名单](http://mp.weixin.qq.com/s/fs2KRsMa7wIaZNxfxcT5KQ)
+
+心智工具箱 - 57 [心智学徒招生计划](http://mp.weixin.qq.com/s/2NDzHEkbRbp9q6NaN9L_Hg)
+
+心智工具箱 - 56 [《追时间的人》推荐序](http://mp.weixin.qq.com/s/8SKuGptulCzVsILrwKDsWw)
+
+心智工具箱 - 55 [《追时间的人》新书上市](http://mp.weixin.qq.com/s/4NpL3yiEM3rxZILV4ihqpQ)
+
+心智工具箱 - 54 [三十六惑](http://mp.weixin.qq.com/s/RCQXIKWSx_q-BOu6z442Jw)
+
+心智工具箱 - 53 [如何成为内在动机驱使的人？](http://mp.weixin.qq.com/s/E8K9JsnKFxA1734N1wh1kg)
+
+心智工具箱 - 52 [行动派](http://mp.weixin.qq.com/s/h2di9jlO8T1BAoxwqq-7ow)
+
+心智工具箱 - 51 [人的文学——认知写作学三期开学典礼致辞](http://mp.weixin.qq.com/s/mKNQRKW6xj5LbbWVl5DdbQ)
+
+心智工具箱 - 50 [智商税](http://mp.weixin.qq.com/s/PLrfc3Ry5kaliMxPsIfw4g)
+
+心智工具箱 - 49 [心智十二宫：聪明人写的关于心智的书](http://mp.weixin.qq.com/s/kXj51Gk7rVIflGdMFt1jzQ)
+
+心智工具箱 - 48 [聪明人的写作原则](http://mp.weixin.qq.com/s/mKYKoMXEmFEHAghpxc5Jeg)
+
+心智工具箱 - 47 [《转行》推荐序：如何转变职业生涯？](http://mp.weixin.qq.com/s/vvnl9hbR4manNEhWM8795w)
+
+心智工具箱 - 46 [致新同学](—— 认知写作学周岁小记 http://mp.weixin.qq.com/s/RwWxbfHKSvU0sFuQXXDgWg)
+
+心智工具箱 - 45 [认知写作学入门书目](http://mp.weixin.qq.com/s/umxp9R-OBKTJiOhWPXn7YA)
+
+心智工具箱 - 44 [认知科学入门书单](https://mp.weixin.qq.com/s/dkTvhSfG1USLlgWApFCX7A)
+
+心智工具箱 - 43 [工作谈025：如何21天写一本书（4）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149284&idx=1&sn=15f58f0761800ab7e57f5718ec6f481f&scene=21#wechat_redirect)
+
+心智工具箱 - 42 [工作谈024：如何21天写一本书（3）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149278&idx=1&sn=7976815ca95fd73d7946c55c258a218a&scene=21#wechat_redirect)
+
+心智工具箱 - 41 [工作谈023：如何21天写一本书（2）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149271&idx=1&sn=84067c3da2de5c242e063dba7f71c773&scene=21#wechat_redirect)
+
+心智工具箱 - 40 [工作谈022：如何21天写一本书（1）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149264&idx=1&sn=c59a23c77b4b798ecc44eda724cfac46&scene=21#wechat_redirect)
+
+心智工具箱 - 39 [工作谈021：元认知学习法（6）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149248&idx=1&sn=e22455c899ed8f76b3a534a140aef632&scene=21#wechat_redirect)
+
+心智工具箱 - 38 [工作谈020：元认知学习法（5）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149243&idx=1&sn=4265d0fb8747c5c8d633bc9dce48a7a1&scene=21#wechat_redirect)
+
+心智工具箱 - 37 [工作谈019：元认知学习法（4）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149239&idx=1&sn=aac4a6eadc3b9390455206df7c9a1543&scene=21#wechat_redirect)
+
+心智工具箱 - 36 [工作谈018：元认知学习法（3）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149235&idx=1&sn=c1f678d649fae0ebc25380fd041e5cb7&scene=21#wechat_redirect)
+
+心智工具箱 - 35 [工作谈017：元认知学习法（2）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149232&idx=1&sn=3709475a3a4b6fc2fb56f7e25a52d1b7&scene=21#wechat_redirect)
+
+心智工具箱 - 34 [工作谈016：元认知学习法（1）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149229&idx=1&sn=f17e909f3aea79267c4492d9786df711&scene=21#wechat_redirect)
+
+心智工具箱 - 33 [工作谈015：英才论（5）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149226&idx=1&sn=8932558163ff00f696f36cf881d83567&scene=21#wechat_redirect)
+
+心智工具箱 - 32 [工作谈014：英才论（4）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149223&idx=1&sn=c03e8ca46982fd5a1ee61d3647bdfdc7&scene=21#wechat_redirect)
+
+心智工具箱 - 31 [工作谈013：英才论（3）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149219&idx=1&sn=7dc721eeac6b6b57637b9d85fc23f265&scene=21#wechat_redirect)
+
+心智工具箱 - 30 [工作谈012：英才论（2）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149211&idx=1&sn=dee270ee30fbf6dfb665de35bf9362a2&scene=21#wechat_redirect)
+
+心智工具箱 - 29 [工作谈011：英才论（1）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149206&idx=1&sn=db0057f98b3e82ddca7dea09a828b9d8&scene=21#wechat_redirect)
+
+心智工具箱 - 28 [工作谈010：穷小子如何改变命运？（下）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149199&idx=1&sn=2922ff489f098975bf561e796945e482&scene=21#wechat_redirect)
+
+心智工具箱 - 27 [工作谈009：穷小子如何改变命运？（中）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149191&idx=1&sn=bbec390541cc7ba1d1b3a63e135c20cf&scene=21#wechat_redirect)
+
+心智工具箱 - 26 [工作谈008：穷小子如何改变命运？（上）](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149189&idx=1&sn=836621fc08b94d8a940cc2e1bc87c0cc&scene=21#wechat_redirect)
+
+心智工具箱 - 25 [工作谈007：高阶算命术](（下）  https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149187&idx=1&sn=3d0033f7533442281e3b840146ec8faa&scene=21#wechat_redirect)
+
+心智工具箱 - 24 [工作谈006：高阶算命术](（中）  https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149180&idx=1&sn=fe437b1d1d1490453f51d6445eddfa52&scene=21#wechat_redirect)
+
+心智工具箱 - 23 [工作谈005：高阶算命术](（上）  https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149175&idx=1&sn=908dda248b2ce28e6b87acef2726ddb5&scene=21#wechat_redirect)
+
+心智工具箱 - 22 [工作谈004：好思想，坏思想之三](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149173&idx=1&sn=aa5c631324666e8bf10814f4dabe8a39&scene=21#wechat_redirect)
+
+心智工具箱 - 21 [工作谈003：好思想，坏思想之二](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149163&idx=1&sn=27dfac5d7b139a3e0e988691d95b86e3&scene=21#wechat_redirect)
+
+心智工具箱 - 20 [工作谈002：好思想，坏思想之一](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149159&idx=1&sn=9143ecc3e61a6690dbe47948280fbed6&scene=21#wechat_redirect)
+
+心智工具箱 - 19 [工作谈001：开篇语](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149156&idx=1&sn=623a6355af5772ee9e707ff0553f7926&scene=21#wechat_redirect)
+
+心智工具箱 - 18 [幸福的来源](http://mp.weixin.qq.com/s/ufAJno4gbZvNCsMmT8Dfig)
+
+心智工具箱 - 17 [刻意练习](http://mp.weixin.qq.com/s/ibqb2BRuKyeDeYZrp8MMjw)
+
+心智工具箱 - 16 [人生标准九](http://mp.weixin.qq.com/s/-EaJYP7JWM26fWoRWZytug)
+
+心智工具箱 - 15 [人类自尊的第四次打击](http://mp.weixin.qq.com/s/WLS0B6hzhjyrtre2jUZDwA)
+
+心智工具箱 - 14 [认知科学看人工智能](http://mp.weixin.qq.com/s/wi_UZTbsCe-n4FWO0vNGMQ)
+
+心智工具箱 - 13 [奖赏会伤人](http://mp.weixin.qq.com/s/fOwes4Hlwppb4xLh_n9wkQ)
+
+心智工具箱 - 12 [聪明的学习者](http://mp.weixin.qq.com/s/rg5Te1_PZXqQ5XWoup3nbw)
+
+心智工具箱 - 11 [创作者的品味](http://mp.weixin.qq.com/s/PKrQa0ol8BTFEXHRXVVqfw)
+
+心智工具箱 - 10 [《认知写作学》自序：点火樱桃](https://mp.weixin.qq.com/s/c0RqOa_AeMsMrE7OTWIG4w)
+
+心智工具箱 - 9 [又少了一位读书人](http://mp.weixin.qq.com/s/GyJxD9sZ8vJULxRBFhDuLA)
+
+心智工具箱 - 8 [旧岁](http://mp.weixin.qq.com/s/PVfK8dU8HWrmQlpTtWWipw)
+
+心智工具箱 - 7 [读书与心智](http://mp.weixin.qq.com/s/tEZ-ApZYMdnjNkzRzwCNBg)
+
+心智工具箱 - 6 [冷读热读：读书九问](http://mp.weixin.qq.com/s/IU8-bfPflcPt-1Hst8Q5Zg)
+
+心智工具箱 - 5 [但当欢乐：写作的意义](http://mp.weixin.qq.com/s/BILVQJlKqqpWfYtrvHACqw)
+
+心智工具箱 - 4 [【冷读热读011】《超越智商》推荐序](http://mp.weixin.qq.com/s/-6ZEGHIsvXO6H-hLdeGiPw)
+
+心智工具箱 - 3 [再见，2014（下）](http://mp.weixin.qq.com/s/Qfa1SJzljnqBcdMP441GxQ)
+
+心智工具箱 - 2 [再见，2014（上）](http://mp.weixin.qq.com/s/vHkvAgIxKjPjXCKKE4Qyog)
+
+心智工具箱 - 1 [【安静者008】十年](http://mp.weixin.qq.com/s/jZlLwwrZNuA-O0IRAdxriA)
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
 随笔194 - [当脑认知科学遇上教育](http://www.yangzhiping.com/psy/anrenmind-hr.html)
 
 随笔193 - [37岁，谢谢你](http://www.yangzhiping.com/psy/37-birthday.html)
