@@ -7,8 +7,13 @@ tags: [ArticleList]
 description: 
 ---
 
-20171021updated
+20171201updated
 
+心智工具箱 - 117 [《心流》推荐序：胜利者一无所获](https://mp.weixin.qq.com/s/fJUUOa8ajGwG0xLvs4CjmQ)
+
+心智工具箱 - 116 [风格练习：如何成为有趣的人](https://mp.weixin.qq.com/s/_9atYbwimkmB2eKE_GcZ8A)
+
+心智工具箱 - 115 [致弯道超车者](https://mp.weixin.qq.com/s/3F740ExFQpZ3DxRf9Gtxgg)
 
 心智工具箱 - 114 [文化资本与社会资本](https://mp.weixin.qq.com/s/t8gCmTfwkoU_l6C0LSP41w)
 
