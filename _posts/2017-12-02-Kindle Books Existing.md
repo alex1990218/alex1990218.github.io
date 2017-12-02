@@ -7,41 +7,59 @@ tags: [bookMeta]
 description: 
 ---
 
-20171202 updated, to 20171202 existing kindle books
-
+20171202 updated, using 20171202 existing kindle books
 
 
 (1)count by mainID：
+
   level1 ：rank1-rank100, 53;  （total 53）
+  
   level2 ：rank101-rank300, 97 - 6 duplicate = 91; （total 144）
 
+
   level3 ：rank301-rank1000, 218 - 4 duplicate = 214; （total 358）
+  
   level4 ：rank1001-rank3000, 297 - 9 duplicate = 288; （total 646）
 
+
   level5 ：rank3001-rank10000, 320 - 7 duplicate = 313; （total 959）
+  
   level6 ：rank10001-rank30000, 227 - 2 duplicate = 225; （total 1184）
 
+
   level7 ：rank30001-129193, 102 - 6 duplicate = 96; （total 1280）
+  
   level8 ：rank999999, 46; (total1326）
 
-     So, Origin 1360 - 34 duplicate = 1326records.
+
+  So, Origin 1360 - 34 duplicate = 1326records.
+
 
 (2)add mainID and extendID together, remove rank999999(1360 - 46 = 1314, totally 1997 records, after remove duplicate, got1926 records.
   
   level1 ：rank1-rank100, 71;  （total 71）
+  
   level2 ：rank101-rank300, 117; （total 188）
 
+
   level3 ：rank301-rank1000, 343; （total 531）
+  
   level4：rank1001-rank3000, 630; （total 1161）
 
+
   level5：rank3001-rank10000, 409; （total 1570）
+  
   level6：rank10001-rank30000, 251; （total 1821）
+
 
   level7：rank30001-129193, 105; （total 1926）
 
+
 (3)below list contains 1926records, the thing todo later is to match mainID and extendID.
 
+
 (4)LIST:
+
 
 extendID.1,rank:1/15, rating:9.5/112791, 红楼梦    [db](https://book.douban.com/subject/01007305/), 
 
