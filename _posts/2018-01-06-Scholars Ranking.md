@@ -9,23 +9,40 @@ description:
 
 Reference: [http://www.webometrics.info/en/node/58](http://www.webometrics.info/en/node/58)
 
+
 citations {
+
   [300000, 782097) = 11,
+  
   [200000, 299999) = 39 (sum 50),
+  
   [150000, 199999) = 68 (sum 118),
+  
   [100000, 149999) = 263 (sum 381),
+  
   [50000, 99999) = 1273 (sum 1654),
+  
   [30000, 49999) = 604 (sum 2258).
+  
 }
 
+
 hIndex {
+
   [200, 272) = 30,
+  
   [150, 199) = 179 (sum 209),
+  
   [140, 149) = 125 (sum 334),
+  
   [130, 139) = 208 (sum 542),
+  
   [120, 129) = 356 (sum 898),
+  
   [110, 199) = 524 (sum 1422),
+  
   [100, 109) = 836 (sum 2258)
+  
 }
 
 
@@ -4139,408 +4156,4 @@ hIndex {
 
 2055.[Filippo Giorgi](https://scholar.google.com/citations?user=km328qkAAAAJ) / 40895 / 108 / hRank1570 / International Centre for Theoretical Physics 
 
-2056.[Vincent Mor](https://scholar.google.com/citations?user=y-hcbgMAAAAJ) / 40860 / 101 / hRank2145 / Brown University 
-
-2057.[Mithat Gönen](https://scholar.google.com/citations?user=0FtqDr0AAAAJ) / 40846 / 110 / hRank1417 / Memorial Sloan Kettering Cancer Center 
-
-2058.[Annamaria Colao](https://scholar.google.com/citations?user=E_kXMPMAAAAJ) / 40827 / 100 / hRank2227 / Università Federico II di Napoli 
-
-2059.[Thomas Lipo](https://scholar.google.com/citations?user=tqHzsE0AAAAJ) / 40786 / 104 / hRank1882 / University of Wisconsin Madison 
-
-2060.[T M L Wigley](https://scholar.google.com/citations?user=CvJWwe0AAAAJ) / 40764 / 102 / hRank2057 / National Center for Atmospheric Research 
-
-2061.[Angela Vincent](https://scholar.google.com/citations?user=fudVFcIAAAAJ) / 40735 / 105 / hRank1798 / Oxford University 
-
-2062.[Eugenio Paoloni](https://scholar.google.com/citations?user=alMWbtsAAAAJ) / 40697 / 101 / hRank2146 / INFN 
-
-2063.[Hugh Possingham](https://scholar.google.com/citations?user=lSYOB3cAAAAJ) / 40685 / 105 / hRank1799 / Nature Conservancy 
-
-2064.[Donald D Price](https://scholar.google.com/citations?user=5fTx8scAAAAJ) / 40684 / 105 / hRank1800 / University of Florida 
-
-2065.[Jean Yves Blay](https://scholar.google.com/citations?user=NetWbHgAAAAJ) / 40680 / 101 / hRank2147 / Centre Leon Berard 
-
-2066.[William de Groat](https://scholar.google.com/citations?user=HwzNlMgAAAAJ) / 40644 / 106 / hRank1719 / University of Pittsburgh 
-
-2067.[Robert W Doms](https://scholar.google.com/citations?user=Kd74TmoAAAAJ) / 40601 / 113 / hRank1241 / Children's Hospital of Philadelphia 
-
-2068.[Suhuai Wei](https://scholar.google.com/citations?user=WLN0rVoAAAAJ) / 40588 / 100 / hRank2228 / Beijing Computational Science Research Center 
-
-2069.[Ernesto Carafoli](https://scholar.google.com/citations?user=TYLoERkAAAAJ) / 40574 / 103 / hRank1974 / Università degli Studi di Padova 
-
-2070.[William F Laurance](https://scholar.google.com/citations?user=SfWToWoAAAAJ) / 40513 / 104 / hRank1883 / James Cook University 
-
-2071.[Douglas Evans](https://scholar.google.com/citations?user=RcoRTWgAAAAJ) / 40507 / 102 / hRank2058 / Medical College of Wisconsin 
-
-2072.[Nicola Bianchi](https://scholar.google.com/citations?user=q1jehcMAAAAJ) / 40497 / 104 / hRank1884 / Laboratori Nazionali INFN Frascati 
-
-2073.[Peter Agre](https://scholar.google.com/citations?user=VGjeKSMAAAAJ) / 40490 / 104 / hRank1885 / Johns Hopkins Malaria Research Institute 
-
-2074.[Harold A Sackeim](https://scholar.google.com/citations?user=uwOmRMUAAAAJ) / 40472 / 104 / hRank1886 / Columbia University 
-
-2075.[Simon Gandevia](https://scholar.google.com/citations?user=eRYAh40AAAAJ) / 40459 / 114 / hRank1180 / Neuroscience Research Australia 
-
-2076.[Keith Sullivan](https://scholar.google.com/citations?user=_Xu42HAAAAAJ) / 40421 / 108 / hRank1571 /   
-
-2077.[F Shanahan](https://scholar.google.com/citations?user=oEAU8HAAAAAJ) / 40378 / 105 / hRank1801 / University College Cork; National University of Ireland 
-
-2078.[Richard Chaisson](https://scholar.google.com/citations?user=YMkdxv4AAAAJ) / 40336 / 106 / hRank1720 / Johns Hopkins University 
-
-2079.[Joseph Heitman](https://scholar.google.com/citations?user=mfONplgAAAAJ) / 40319 / 112 / hRank1300 / Duke University 
-
-2080.[Jillian Banfield](https://scholar.google.com/citations?user=xfzvM9wAAAAJ) / 40221 / 105 / hRank1802 / University of California Berkeley 
-
-2081.[Wim H Saris](https://scholar.google.com/citations?user=2smwJZkAAAAJ) / 40198 / 107 / hRank1649 / Maastricht University 
-
-2082.[Donald Klein](https://scholar.google.com/citations?user=L9vc5gYAAAAJ) / 40155 / 104 / hRank1887 / Columbia University 
-
-2083.[Marco van Leeuwen](https://scholar.google.com/citations?user=imBDaawAAAAJ) / 40141 / 102 / hRank2059 / Nikhef; Utrecht University 
-
-2084.[Enrico Gratton](https://scholar.google.com/citations?user=Pb-ZWXEAAAAJ) / 40126 / 108 / hRank1572 / University of California Irvine 
-
-2085.[Andrew H Knoll](https://scholar.google.com/citations?user=F6mLNzoAAAAJ) / 40116 / 111 / hRank1357 / Harvard University 
-
-2086.[Thirumalai Venkatesan](https://scholar.google.com/citations?user=iZ3hsxQAAAAJ) / 40055 / 101 / hRank2148 / National University of Singapore 
-
-2087.[Erich P Ippen](https://scholar.google.com/citations?user=5RfBYzcAAAAJ) / 40049 / 107 / hRank1650 / Massachusetts Institute of Technology MIT 
-
-2088.[P L M Podesta Lerma](https://scholar.google.com/citations?user=60YevD0AAAAJ) / 40028 / 105 / hRank1803 / Universidad Autonoma de Sinaloa 
-
-2089.[Mark Griffiths](https://scholar.google.com/citations?user=Ptx0xPkAAAAJ) / 39970 / 102 / hRank2060 / Nottingham Trent University 
-
-2090.[J Apperley](https://scholar.google.com/citations?user=ue1x7_oAAAAJ) / 39930 / 101 / hRank2149 / Imperial College London 
-
-2091.[Van C Mow](https://scholar.google.com/citations?user=rLSUeLsAAAAJ) / 39922 / 108 / hRank1573 / Columbia University 
-
-2092.[Jonathan Sprent](https://scholar.google.com/citations?user=qfyLU2IAAAAJ) / 39890 / 107 / hRank1651 / Garvan Institute of Medical Research 
-
-2093.[Jan Feijen](https://scholar.google.com/citations?user=ZyZ0TjMAAAAJ) / 39878 / 106 / hRank1721 / University of Twente 
-
-2094.[John P Cooke](https://scholar.google.com/citations?user=PVBfmaQAAAAJ) / 39812 / 105 / hRank1804 / Houston Methodist Research Institute 
-
-2095.[Tiziano Barbui](https://scholar.google.com/citations?user=9gf7pa4AAAAJ) / 39785 / 104 / hRank1888 / Fondazione per la Ricerca Ospedale Maggiore di Bergamo 
-
-2096.[W Van Mechelen](https://scholar.google.com/citations?user=x2A0wesAAAAJ) / 39761 / 102 / hRank2061 / VU University Medical Center 
-
-2097.[Ignacio E Grossmann](https://scholar.google.com/citations?user=fiZryxEAAAAJ) / 39724 / 107 / hRank1652 / Carnegie Mellon University 
-
-2098.[Jan Conrad](https://scholar.google.com/citations?user=tIIHl4EAAAAJ) / 39706 / 107 / hRank1653 / Stockholm University 
-
-2099.[Xandra O Breakefield](https://scholar.google.com/citations?user=X2FA3NoAAAAJ) / 39699 / 107 / hRank1654 / Harvard Medical School; Massachusetts General Hospital 
-
-2100.[William Eaton](https://scholar.google.com/citations?user=DD3XK0EAAAAJ) / 39661 / 103 / hRank1975 / Johns Hopkins Bloomberg School of Public Health 
-
-2101.[Jeffrey E Lee](https://scholar.google.com/citations?user=Wqz_FPgAAAAJ) / 39654 / 102 / hRank2062 / University of Texas MD Anderson Cancer Center 
-
-2102.[Mark A Kay](https://scholar.google.com/citations?user=yj3SlSwAAAAJ) / 39627 / 102 / hRank2063 / Stanford University 
-
-2103.[Masashi Hazumi](https://scholar.google.com/citations?user=nh21iAgAAAAJ) / 39592 / 104 / hRank1889 / KEK Japan 
-
-2104.[Pasquale Lubrano](https://scholar.google.com/citations?user=X56TXvEAAAAJ) / 39581 / 106 / hRank1722 / Istituto Nazionale di Fisica Nucleare Perugia 
-
-2105.[Kenneth Timmis](https://scholar.google.com/citations?user=4IeelMIAAAAJ) / 39553 / 104 / hRank1890 / T U Braunschweig 
-
-2106.[F M M Morel](https://scholar.google.com/citations?user=PTuX4GAAAAAJ) / 39549 / 104 / hRank1891 / Princeton University 
-
-2107.[Motoharu Seiki](https://scholar.google.com/citations?user=bOF6NXUAAAAJ) / 39541 / 106 / hRank1723 / University of Tokyo 
-
-2108.[Matthew Falagas](https://scholar.google.com/citations?user=_cZ26O4AAAAJ) / 39519 / 104 / hRank1892 / Alfa Institute of Biomedical Sciences; Tufts University 
-
-2109.[Nicola Giglietto](https://scholar.google.com/citations?user=MMGH5UgAAAAJ) / 39498 / 107 / hRank1655 / Istituto Nazionale di Fisica Nucleare 
-
-2110.[Matthew W Gillman](https://scholar.google.com/citations?user=PX6Gdn0AAAAJ) / 39478 / 106 / hRank1724 / Harvard Medical School 
-
-2111.[B C Fauser](https://scholar.google.com/citations?user=j1e6YEUAAAAJ) / 39478 / 105 / hRank1805 / University Medical Center Utrecht 
-
-2112.[Riitta Hari](https://scholar.google.com/citations?user=7pA__yMAAAAJ) / 39475 / 111 / hRank1358 / Aalto University 
-
-2113.[Michael Goggins](https://scholar.google.com/citations?user=TMUOoJ8AAAAJ) / 39444 / 107 / hRank1656 / Johns Hopkins University 
-
-2114.[Dun Xian Tan #](https://scholar.google.com/citations?user=Yyi5308AAAAJ) / 39443 / 104 / hRank1893 / University of Texas Health Science Center San Antonio 
-
-2115.[Steve A Kay](https://scholar.google.com/citations?user=55sPPYMAAAAJ) / 39441 / 105 / hRank1806 / University of Southern California 
-
-2116.[Jean Louis Mandel](https://scholar.google.com/citations?user=T_59g1oAAAAJ) / 39413 / 101 / hRank2150 / Collège de France 
-
-2117.[Thomas Elbert](https://scholar.google.com/citations?user=BdrKCo0AAAAJ) / 39406 / 100 / hRank2229 / University of Konstanz 
-
-2118.[Cecilia Favuzzi](https://scholar.google.com/citations?user=jnBZ9-oAAAAJ) / 39328 / 109 / hRank1484 / Università degli Studi e Politecnico di Bari; Istituto Nazionale di Fisica Nucleare 
-
-2119.[Emeran A Mayer](https://scholar.google.com/citations?user=8AZjP3MAAAAJ) / 39316 / 101 / hRank2151 / University of California Los Angeles 
-
-2120.[Andrew Prentice](https://scholar.google.com/citations?user=fFEv8msAAAAJ) / 39289 / 100 / hRank2230 / MRC International Nutrition Unit 
-
-2121.[Val C Sheffield ](https://scholar.google.com/citations?user=qTI2cXYAAAAJ) / 39266 / 102 / hRank2064 / University of Iowa 
-
-2122.[Bernd Nilius](https://scholar.google.com/citations?user=NyeDiwEAAAAJ) / 39264 / 102 / hRank2065 / KU University of Leuven 
-
-2123.[John Trowsdale](https://scholar.google.com/citations?user=oKOfAl4AAAAJ) / 39256 / 105 / hRank1807 / University of Cambridge 
-
-2124.[Russell Hemley](https://scholar.google.com/citations?user=zTGJxGwAAAAJ) / 39242 / 107 / hRank1657 / Carnegie Institution of Washington 
-
-2125.[Eric Arthur Newsholme](https://scholar.google.com/citations?user=YVGIY0QAAAAJ) / 39242 / 101 / hRank2152 / Merton College Oxford 
-
-2126.[Paolo M Comoglio](https://scholar.google.com/citations?user=x6cT9mEAAAAJ) / 39226 / 108 / hRank1574 / Candiolo Cancer Institute IRCCS 
-
-2127.[William E Pelham](https://scholar.google.com/citations?user=92cl_sIAAAAJ) / 39222 / 106 / hRank1725 / Florida International University 
-
-2128.[M Horowitz](https://scholar.google.com/citations?user=PJ62CYoAAAAJ) / 39094 / 104 / hRank1894 / University of Adelaide 
-
-2129.[Wim Hennink](https://scholar.google.com/citations?user=SRhkfscAAAAJ) / 38992 / 101 / hRank2153 / Utrecht University 
-
-2130.[Lloyd A Greene](https://scholar.google.com/citations?user=9af4W04AAAAJ) / 38972 / 106 / hRank1726 / Columbia University 
-
-2131.[Pim Cuijpers](https://scholar.google.com/citations?user=N08XHUAAAAAJ) / 38902 / 106 / hRank1727 / VU University Amsterdam 
-
-2132.[Jacques Montplaisir](https://scholar.google.com/citations?user=tG0cnPEAAAAJ) / 38856 / 106 / hRank1728 / Université de Montréal 
-
-2133.[Ali Alali](https://scholar.google.com/citations?user=hLmRKRAAAAAJ) / 38728 / 110 / hRank1418 /   
-
-2134.[Thomas Shenk](https://scholar.google.com/citations?user=TlIOwTkAAAAJ) / 38691 / 108 / hRank1575 / Princeton University 
-
-2135.[John L Wallace](https://scholar.google.com/citations?user=V7wJfh4AAAAJ) / 38665 / 106 / hRank1729 / Antibe Therapeutics Inc; University of Calgary 
-
-2136.[Klaus Mosbach](https://scholar.google.com/citations?user=B4FVtawAAAAJ) / 38644 / 105 / hRank1808 / Lund University 
-
-2137.[Frances Arnold](https://scholar.google.com/citations?user=wil5NhcAAAAJ) / 38618 / 108 / hRank1576 / California Institute of Technology 
-
-2138.[Bart De Strooper](https://scholar.google.com/citations?user=3jx9ldcAAAAJ) / 38571 / 104 / hRank1895 / KU University of Leuven; VIB 
-
-2139.[Eric Courchesne](https://scholar.google.com/citations?user=8pYZH6sAAAAJ) / 38540 / 105 / hRank1809 / University of California San Diego 
-
-2140.[Axel Meyer](https://scholar.google.com/citations?user=qf6eWtgAAAAJ) / 38488 / 103 / hRank1976 / Universität Konstanz 
-
-2141.[Douglas C Bauer](https://scholar.google.com/citations?user=vcuxuI0AAAAJ) / 38375 / 100 / hRank2231 / University of California San Francisco 
-
-2142.[David B Tanner](https://scholar.google.com/citations?user=cdI5QFMAAAAJ) / 38330 / 101 / hRank2154 / University of Florida 
-
-2143.[Morris Moscovitch](https://scholar.google.com/citations?user=_P14imQAAAAJ) / 38237 / 106 / hRank1730 / University of Toronto 
-
-2144.[Zhigang Suo](https://scholar.google.com/citations?user=GlBl-VUAAAAJ) / 38188 / 106 / hRank1731 / Harvard University; Princeton  University; UCSB 
-
-2145.[James A Wells](https://scholar.google.com/citations?user=QSqqTVgAAAAJ) / 38180 / 102 / hRank2066 / University of California San Francisco 
-
-2146.[Fred Finkelman](https://scholar.google.com/citations?user=9rHWzH4AAAAJ) / 38118 / 102 / hRank2067 / University of Cincinnati 
-
-2147.[Chris Somerville](https://scholar.google.com/citations?user=CXXYxf4AAAAJ) / 38113 / 110 / hRank1419 / University of California Berkeley 
-
-2148.[Mauricio Terrones](https://scholar.google.com/citations?user=tX4aXC0AAAAJ) / 38108 / 102 / hRank2068 / Pennsylvania State University 
-
-2149.[Krzysztof Palczewski](https://scholar.google.com/citations?user=ne8r7f8AAAAJ) / 38072 / 105 / hRank1810 /   
-
-2150.[Jonathan A Cooper](https://scholar.google.com/citations?user=9XQKf_UAAAAJ) / 38044 / 100 / hRank2232 / Fred Hutchinson Cancer Research Center 
-
-2151.[Bo Barker Jørgensen](https://scholar.google.com/citations?user=1mL6lcsAAAAJ) / 38033 / 111 / hRank1359 / Aarhus University 
-
-2152.[Benjamin Lahey](https://scholar.google.com/citations?user=I4jsKh0AAAAJ) / 37953 / 109 / hRank1485 / University of Chicago 
-
-2153.[Magnus Ingelman Sundberg](https://scholar.google.com/citations?user=KYD3usIAAAAJ) / 37913 / 103 / hRank1977 / Karolinska Institute 
-
-2154.[R S J Sparks](https://scholar.google.com/citations?user=Jxzp1NIAAAAJ) / 37839 / 109 / hRank1486 / University of Bristol 
-
-2155.[Richard Mushotzky](https://scholar.google.com/citations?user=g4OAdfgAAAAJ) / 37721 / 102 / hRank2069 / University of Maryland College Park 
-
-2156.[Christian Weber](https://scholar.google.com/citations?user=2TEF2q8AAAAJ) / 37702 / 102 / hRank2070 / LMU München 
-
-2157.[Berrie Giebels](https://scholar.google.com/citations?user=Q0LxuhIAAAAJ) / 37602 / 100 / hRank2233 / Ecole Polytechnique; CNRS; IN2P3 
-
-2158.[Alan Hofmann](https://scholar.google.com/citations?user=g7t-iVcAAAAJ) / 37595 / 101 / hRank2155 / University of California San Diego 
-
-2159.[Jeff Palmer](https://scholar.google.com/citations?user=JPM3RdEAAAAJ) / 37529 / 110 / hRank1420 / Indiana University  
-
-2160.[Günther Deuschl](https://scholar.google.com/citations?user=SNnXK9kAAAAJ) / 37472 / 101 / hRank2156 / Christian-Albrechts University Kiel 
-
-2161.[Marinos Dalakas](https://scholar.google.com/citations?user=LAJBcVMAAAAJ) / 37452 / 101 / hRank2157 / National and Kapodistrian University of Athens 
-
-2162.[Martha E Shenton](https://scholar.google.com/citations?user=bUGiGKcAAAAJ) / 37446 / 103 / hRank1978 / Brigham and Women's Hospital Harvard Medical School 
-
-2163.[Robert Lamb](https://scholar.google.com/citations?user=UyIBJikAAAAJ) / 37444 / 104 / hRank1896 / Northwestern University 
-
-2164.[Gerald Hart](https://scholar.google.com/citations?user=PgQ_b2IAAAAJ) / 37364 / 105 / hRank1811 / Johns Hopkins University 
-
-2165.[M N Mazziotta](https://scholar.google.com/citations?user=9Qadn0oAAAAJ) / 37347 / 105 / hRank1812 /   
-
-2166.[John H Morrison](https://scholar.google.com/citations?user=m3UACVAAAAAJ) / 37230 / 111 / hRank1360 / Icahn School of Medicine at Mount Sinai 
-
-2167.[Kerry S Courneya](https://scholar.google.com/citations?user=yFngoT4AAAAJ) / 37216 / 103 / hRank1979 / University of Alberta 
-
-2168.[Arumugam Manthiram](https://scholar.google.com/citations?user=DGy5QdUAAAAJ) / 37184 / 100 / hRank2234 / University of Texas at Austin 
-
-2169.[Peng Shi](https://scholar.google.com/citations?user=EGx1iH0AAAAJ) / 37170 / 104 / hRank1897 / University of Adelaide 
-
-2170.[Jean Claude Reubi](https://scholar.google.com/citations?user=AInmHUkAAAAJ) / 37120 / 106 / hRank1732 / University of Bern 
-
-2171.[Jack Wands](https://scholar.google.com/citations?user=WPwXQlEAAAAJ) / 37111 / 101 / hRank2158 / Brown University 
-
-2172.[Ellen Bialystok](https://scholar.google.com/citations?user=Z2sW6IYAAAAJ) / 37082 / 100 / hRank2235 / York University 
-
-2173.[Kam w Leong](https://scholar.google.com/citations?user=BhIIVrQAAAAJ) / 37077 / 100 / hRank2236 / Columbia University 
-
-2174.[Stephen Badylak](https://scholar.google.com/citations?user=pCV23SkAAAAJ) / 37050 / 106 / hRank1733 / University of Pittsburgh 
-
-2175.[Gino Tosti](https://scholar.google.com/citations?user=xKAeCmQAAAAJ) / 37035 / 103 / hRank1980 / Università di Perugia 
-
-2176.[Ian T Baldwin](https://scholar.google.com/citations?user=MVeVpjUAAAAJ) / 36952 / 102 / hRank2071 / Max Planck Gesellschaft MPG 
-
-2177.[Bruce Stillman](https://scholar.google.com/citations?user=ANthHuAAAAAJ) / 36794 / 100 / hRank2237 / Cold Spring Harbor Laboratory 
-
-2178.[Christopher A Walsh](https://scholar.google.com/citations?user=ujuRgZ8AAAAJ) / 36773 / 102 / hRank2072 / Boston Children's Hospital 
-
-2179.[Anil Sood](https://scholar.google.com/citations?user=YZnmHT0AAAAJ) / 36650 / 100 / hRank2238 /   
-
-2180.[Rosario Rizzuto](https://scholar.google.com/citations?user=OW0gQfUAAAAJ) / 36643 / 100 / hRank2239 / University of Padova 
-
-2181.[Nathana Fox](https://scholar.google.com/citations?user=mVlRLMEAAAAJ) / 36568 / 109 / hRank1487 / University of Maryland College Park 
-
-2182.[Lawrence Pinsky](https://scholar.google.com/citations?user=TQrTBgcAAAAJ) / 36552 / 101 / hRank2159 / University of Houston 
-
-2183.[Gerardo Herrera Corral](https://scholar.google.com/citations?user=TfyamfgAAAAJ) / 36518 / 102 / hRank2073 / CINVESTAV IPN 
-
-2184.[J B Furness](https://scholar.google.com/citations?user=JRQaob8AAAAJ) / 36513 / 103 / hRank1981 / Florey Institute of Neuroscience and Mental Health; University of Melbourne 
-
-2185.[Ole Petter Ottersen](https://scholar.google.com/citations?user=wHeG7X8AAAAJ) / 36496 / 100 / hRank2240 / University of Oslo 
-
-2186.[Andreas Pluckthun](https://scholar.google.com/citations?user=yKyVJuQAAAAJ) / 36488 / 110 / hRank1421 / Universität  
-
-2187.[Thomas Kensler](https://scholar.google.com/citations?user=XELPPqIAAAAJ) / 36409 / 103 / hRank1982 / Johns Hopkins University 
-
-2188.[Mohamed H Sayegh](https://scholar.google.com/citations?user=D58c7QMAAAAJ) / 36250 / 101 / hRank2160 / American University of Beirut 
-
-2189.[William Figg](https://scholar.google.com/citations?user=ntIiWhEAAAAJ) / 36173 / 104 / hRank1898 / National Cancer Institute NIH 
-
-2190.[Shu Hong Yu](https://scholar.google.com/citations?user=pcQ8ebEAAAAJ) / 36075 / 105 / hRank1813 / University of Science and Technology of China 
-
-2191.[Stefan Rose John](https://scholar.google.com/citations?user=tXxHtaYAAAAJ) / 36036 / 100 / hRank2241 / University of Kiel 
-
-2192.[Muin J Khoury](https://scholar.google.com/citations?user=hmsse84AAAAJ) / 36004 / 103 / hRank1983 / Centers for Disease Control and Prevention 
-
-2193.[Carlos Dieguez](https://scholar.google.com/citations?user=y-GukkwAAAAJ) / 36002 / 100 / hRank2242 / University of Santiago de Compostela 
-
-2194.[S B McMahon](https://scholar.google.com/citations?user=Qz9HihUAAAAJ) / 35992 / 101 / hRank2161 / King's College London 
-
-2195.[Salvatore Panico](https://scholar.google.com/citations?user=5t9cSMUAAAAJ) / 35984 / 100 / hRank2243 / Università Federico II di Napoli 
-
-2196.[Denisa D Wagner](https://scholar.google.com/citations?user=j2IL_E0AAAAJ) / 35930 / 105 / hRank1814 / Harvard Medical School 
-
-2197.[Asrar B Malik](https://scholar.google.com/citations?user=MQ8Lnb4AAAAJ) / 35915 / 104 / hRank1899 / University of Illinois at Chicago 
-
-2198.[Neal Rosen](https://scholar.google.com/citations?user=q5RyRCMAAAAJ) / 35843 / 102 / hRank2074 / Memorial Sloan Kettering Cancer Center 
-
-2199.[Constantine Lyketsos](https://scholar.google.com/citations?user=M7JsrwcAAAAJ) / 35834 / 100 / hRank2244 / Johns Hopkins University 
-
-2200.[Massimiliano Razzano](https://scholar.google.com/citations?user=MifxHQgAAAAJ) / 35787 / 101 / hRank2162 /   
-
-2201.[Jack Gauldie](https://scholar.google.com/citations?user=2I2wcTMAAAAJ) / 35708 / 100 / hRank2245 / McMaster University 
-
-2202.[Gordana Vunjak Novakovic](https://scholar.google.com/citations?user=5xUWSSIAAAAJ) / 35677 / 108 / hRank1577 / Columbia University 
-
-2203.[Robert John Aitken](https://scholar.google.com/citations?user=cJ9WRccAAAAJ) / 35599 / 100 / hRank2246 / University of Newcastle 
-
-2204.[Glyn Lewis](https://scholar.google.com/citations?user=r22Ss_gAAAAJ) / 35532 / 101 / hRank2163 / University College London 
-
-2205.[Chris Hawkesworth](https://scholar.google.com/citations?user=0hJNQaMAAAAJ) / 35493 / 110 / hRank1422 / University of Bristol 
-
-2206.[Philippe Gros](https://scholar.google.com/citations?user=Lq29RWUAAAAJ) / 35468 / 100 / hRank2247 /   
-
-2207.[James L Manley](https://scholar.google.com/citations?user=NSz6MSwAAAAJ) / 35433 / 103 / hRank1984 / Columbia University 
-
-2208.[Jerry L Workman](https://scholar.google.com/citations?user=wjGU0FUAAAAJ) / 35286 / 100 / hRank2248 / Stowers Institute 
-
-2209.[Emanuele Daddi](https://scholar.google.com/citations?user=7V-EknkAAAAJ) / 35279 / 102 / hRank2075 / CEA Saclay 
-
-2210.[John T Fallon](https://scholar.google.com/citations?user=ztKdZ8YAAAAJ) / 35255 / 103 / hRank1985 / New York Medical College 
-
-2211.[Dmitri Golberg](https://scholar.google.com/citations?user=nX-x5JMAAAAJ) / 35243 / 100 / hRank2249 / National Institute for Materials Science Japan 
-
-2212.[Arkady Tseytlin](https://scholar.google.com/citations?user=NjJF8vQAAAAJ) / 35164 / 105 / hRank1815 / Imperial College London 
-
-2213.[Maria Elena Monzani](https://scholar.google.com/citations?user=lqdoPo4AAAAJ) / 35086 / 103 / hRank1986 / SLAC National Accelerator Laboratory Stanford University 
-
-2214.[Stefano Ciprini](https://scholar.google.com/citations?user=G_xr2IwAAAAJ) / 35024 / 103 / hRank1987 / ASI Roma; INFN 
-
-2215.[Michael Givskov](https://scholar.google.com/citations?user=lrRJ1moAAAAJ) / 34932 / 101 / hRank2164 / University of Copenhagen 
-
-2216.[Robert Edelman](https://scholar.google.com/citations?user=crVI8pAAAAAJ) / 34860 / 104 / hRank1900 / NorthShore University HealthSystem 
-
-2217.[Sharon Vaughn](https://scholar.google.com/citations?user=N8lIVtcAAAAJ) / 34813 / 100 / hRank2250 / University of Texas 
-
-2218.[William G Iacono](https://scholar.google.com/citations?user=U23vhfAAAAAJ) / 34773 / 101 / hRank2165 / University of Minnesota 
-
-2219.[Thomas Smyrk](https://scholar.google.com/citations?user=zJpYu3wAAAAJ) / 34742 / 103 / hRank1988 / Mayo Clinic 
-
-2220.[Piergiorgio Fusco](https://scholar.google.com/citations?user=2iQL1soAAAAJ) / 34742 / 102 / hRank2076 / Bari University; INFN Bari 
-
-2221.[Janet Treasure](https://scholar.google.com/citations?user=lkv0qDMAAAAJ) / 34609 / 102 / hRank2077 / King's College London 
-
-2222.[Søren Molin](https://scholar.google.com/citations?user=Oth1oNMAAAAJ) / 34596 / 101 / hRank2166 / Technical University of Denmark 
-
-2223.[William E Dietrich](https://scholar.google.com/citations?user=zABzj78AAAAJ) / 34589 / 104 / hRank1901 / University of California Berkeley 
-
-2224.[Maiken Nedergaard](https://scholar.google.com/citations?user=UtEXxxQAAAAJ) / 34587 / 100 / hRank2251 / University of Rochester 
-
-2225.[Jeffrey Benovic](https://scholar.google.com/citations?user=cjyugH0AAAAJ) / 34581 / 106 / hRank1734 / Thomas Jefferson University 
-
-2226.[Franz Himpsel](https://scholar.google.com/citations?user=LDfBnQEAAAAJ) / 34485 / 102 / hRank2078 / University of Wisconsin Madison 
-
-2227.[Hergen Spits](https://scholar.google.com/citations?user=4BTHrdIAAAAJ) / 34477 / 100 / hRank2252 / Amsterdam Academic Medical Centre; AIMM therapeutics 
-
-2228.[Kenneth Offit](https://scholar.google.com/citations?user=CPFXrg4AAAAJ) / 34456 / 102 / hRank2079 / Memorial Sloan Kettering Cancer Center 
-
-2229.[Helen Christensen](https://scholar.google.com/citations?user=cHImW7cAAAAJ) / 34380 / 102 / hRank2080 / University of New South Wales 
-
-2230.[Michael D Rugg](https://scholar.google.com/citations?user=ONum1r4AAAAJ) / 34217 / 101 / hRank2167 / University of Texas at Dallas 
-
-2231.[Gerald Weissmann](https://scholar.google.com/citations?user=_-SYHnwAAAAJ) / 34189 / 100 / hRank2253 / New York University 
-
-2232.[Renato V Iozzo](https://scholar.google.com/citations?user=NkarXqYAAAAJ) / 34107 / 101 / hRank2168 / Kimmel Cancer Center; Thomas Jefferson University 
-
-2233.[Cheryl Perry](https://scholar.google.com/citations?user=sP8kxt0AAAAJ) / 34104 / 100 / hRank2254 / University of Minnesota; University of Texas 
-
-2234.[Russell S Phillips](https://scholar.google.com/citations?user=5uq-imoAAAAJ) / 33989 / 100 / hRank2255 / Beth Israel Deaconess Medical Center 
-
-2235.[Gareth J Barker](https://scholar.google.com/citations?user=PfvHROsAAAAJ) / 33933 / 105 / hRank1816 / King's College London 
-
-2236.[Da Wen Sun](https://scholar.google.com/citations?user=_65T63MAAAAJ) / 33913 / 101 / hRank2169 / University College Dublin 
-
-2237.[Zaverio M Ruggeri](https://scholar.google.com/citations?user=-rLeelQAAAAJ) / 33871 / 103 / hRank1989 / Scripps Research Institute 
-
-2238.[C Blitterswijk](https://scholar.google.com/citations?user=Jvicpc8AAAAJ) / 33847 / 102 / hRank2081 / Maastricht University 
-
-2239.[Anseth Kristi](https://scholar.google.com/citations?user=a7FSC6MAAAAJ) / 33810 / 101 / hRank2170 / University of Colorado; HHMI 
-
-2240.[Joshua S Bloom](https://scholar.google.com/citations?user=fHkUYk0AAAAJ) / 33744 / 100 / hRank2256 / University of California Berkeley; Wise.io 
-
-2241.[Gerd Heusch](https://scholar.google.com/citations?user=it-pACoAAAAJ) / 33710 / 101 / hRank2171 / Universität Duisburg-Essen 
-
-2242.[Francesco Loparco](https://scholar.google.com/citations?user=gDGvjhAAAAAJ) / 33361 / 102 / hRank2082 / Istituto Nazionale di Fisica Nucleare 
-
-2243.[Silvia Rainò](https://scholar.google.com/citations?user=aMa7MvsAAAAJ) / 33314 / 102 / hRank2083 / Università degli Studi di Bari 
-
-2244.[Daniel G Tenen](https://scholar.google.com/citations?user=dhm8UsEAAAAJ) / 33039 / 101 / hRank2172 / National University of Singapore 
-
-2245.[Robert H Singer](https://scholar.google.com/citations?user=lV3oTAIAAAAJ) / 33027 / 102 / hRank2084 / Albert Einstein College of Medicine 
-
-2246.[Daniel Javitt](https://scholar.google.com/citations?user=4HVG8JkAAAAJ) / 32944 / 102 / hRank2085 / Columbia University 
-
-2247.[Peter Groffman #](https://scholar.google.com/citations?user=JR4TPZMAAAAJ) / 32934 / 102 / hRank2086 / CUNY Brooklyn College Cary Institute of Ecosystem Studies 
-
-2248.[Caryn lerman](https://scholar.google.com/citations?user=Q6jpoYEAAAAJ) / 32572 / 103 / hRank1990 / University of Pennsylvania 
-
-2249.[Alan F Cowman](https://scholar.google.com/citations?user=stz-mSwAAAAJ) / 32531 / 101 / hRank2173 / Walter and Eliza Hall Institute of Medical Research 
-
-2250.[A A Hyman](https://scholar.google.com/citations?user=U_ZkarMAAAAJ) / 32400 / 103 / hRank1991 / Max Planck Gesellschaft MPG 
-
-2251.[Staffan Kjelleberg](https://scholar.google.com/citations?user=5fFWDj4AAAAJ) / 32327 / 102 / hRank2087 / University of New South Wales 
-
-2252.[K Daniel O'Leary](https://scholar.google.com/citations?user=Ngb-x3MAAAAJ) / 31999 / 102 / hRank2088 / Stony Brook University 
-
-2253.[John Schiller](https://scholar.google.com/citations?user=7vYiuF0AAAAJ) / 31903 / 100 / hRank2257 / National Cancer Institute NIH 
-
-2254.[William W Thatcher](https://scholar.google.com/citations?user=kmg5jhoAAAAJ) / 31683 / 101 / hRank2174 / University of Florida 
-
-2255.[John D Scott](https://scholar.google.com/citations?user=mzG58bYAAAAJ) / 31594 / 100 / hRank2258 / University of Washington 
-
-2256.[Elizabeth S Dennis](https://scholar.google.com/citations?user=JH2zKvYAAAAJ) / 31301 / 102 / hRank2089 / CSIRO  
-
-2257.[Marco Ajello](https://scholar.google.com/citations?user=XtngxB8AAAAJ) / 31199 / 102 / hRank2090 / Clemson University 
-
-2258.[Steve Graham](https://scholar.google.com/citations?user=Gq8C7T8AAAAJ) / 30947 / 101 / hRank2175 / Arizona State University 
+20
