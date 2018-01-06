@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IMDB Documentaries Ranking
+title: IMDB Documentary Ranking
 date: 2018-01-06
 categories: blog
 tags: [VideoList]
