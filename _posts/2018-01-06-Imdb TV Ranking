@@ -1,0 +1,1768 @@
+---
+layout: post
+title: IMDB TV Ranking
+date: 2018-01-06
+categories: blog
+tags: [VideoList]
+description: 
+---
+
+Reference1: [http://www.imdb.com/search/title?title_type=tv_series&num_votes=10000,&count=250&sort=num_votes,desc&view=advanced&page=1&ref_=adv_prv](http://www.imdb.com/search/title?title_type=tv_series&num_votes=10000,&count=250&sort=num_votes,desc&view=advanced&page=1&ref_=adv_prv)
+
+Reference2: [http://www.imdb.com/chart/toptv?ref_=tt_awd](http://www.imdb.com/chart/toptv?ref_=tt_awd)
+
+
+
+1.[Game of Thrones](http://www.imdb.com/title/tt0944947/). 9.5 / 1273244 / cRank1 / year.2011–  /  
+
+2.[Breaking Bad](http://www.imdb.com/title/tt0903747/). 9.5 / 1047405 / cRank2 / year.2008–2013 /  
+
+3.[Sherlock](http://www.imdb.com/title/tt1475582/). 9.2 / 618200 / cRank4 / year.2010–  /  
+
+4.[Band of Brothers](http://http://www.imdb.com/title/tt0185906/). 9.5 / 276729 / cRank21 / year.2001 / supplementary
+
+5.[Friends](http://www.imdb.com/title/tt0108778/). 8.9 / 566744 / cRank6 / year.1994–2004 /  
+
+6.[Stranger Things](http://www.imdb.com/title/tt4574334/). 9.0 / 428133 / cRank9 / year.2016–  /  
+
+7.[The Walking Dead](http://www.imdb.com/title/tt1520211/). 8.5 / 723900 / cRank3 / year.2010–  /  
+
+8.[True Detective](http://www.imdb.com/title/tt2356777/). 9.0 / 383161 / cRank13 / year.2014–  /  
+
+9.[Dexter](http://www.imdb.com/title/tt0773262/). 8.7 / 553731 / cRank7 / year.2006–2013 /  
+
+10.[The Wire](http://www.imdb.com/title/tt0306414/). 9.3 / 218664 / cRank37 / year.2002–2008 /  
+
+11.[Koombiyo](http://www.imdb.com/title/tt7450814/). 9.9 / 10919 / cRank803 / year.2017–  /  
+
+12.[House of Cards](http://www.imdb.com/title/tt1856010/). 8.9 / 387852 / cRank12 / year.2013–  /  
+
+13.[The Filthy Frank Show](http://www.imdb.com/title/tt4202274/). 9.8 / 29091 / cRank369 / year.2011–  /  
+
+14.[Rick and Morty](http://www.imdb.com/title/tt2861424/). 9.3 / 185355 / cRank49 / year.2013–  /  
+
+15.[The Sopranos](http://www.imdb.com/title/tt0141842/). 9.2 / 220443 / cRank36 / year.1999–2007 /  
+
+16.[The Big Bang Theory](http://www.imdb.com/title/tt0898266/). 8.3 / 587616 / cRank5 / year.2007–  /  
+
+17.[House](http://www.imdb.com/title/tt0412142/). 8.8 / 343338 / cRank15 / year.2004–2012 /  
+
+18.[How I Met Your Mother](http://www.imdb.com/title/tt0460649/). 8.4 / 498445 / cRank8 / year.2005–2014 /  
+
+19.[Firefly](http://www.imdb.com/title/tt0303461/). 9.1 / 208785 / cRank43 / year.2002–2003 /  
+
+20.[The Simpsons](http://www.imdb.com/title/tt0096697/). 8.8 / 303029 / cRank17 / year.1989–  /  
+
+21.[Fargo](http://www.imdb.com/title/tt2802850/). 9.0 / 227899 / cRank33 / year.2014–  /  
+
+22.[Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/). 9.2 / 159683 / cRank60 / year.2003–2008 /  
+
+23.[Westworld](http://www.imdb.com/title/tt0475784/). 8.9 / 241411 / cRank28 / year.2016–  /  
+
+24.[Lost](http://www.imdb.com/title/tt0411008/). 8.4 / 422831 / cRank10 / year.2004–2010 /  
+
+25.[Arrested Development](http://www.imdb.com/title/tt0367279/). 8.9 / 233481 / cRank31 / year.2003–  /  
+
+26.[Narcos](http://www.imdb.com/title/tt2707408/). 8.9 / 228509 / cRank32 / year.2015–  /  
+
+27.[Prison Break](http://www.imdb.com/title/tt0455275/). 8.4 / 399043 / cRank11 / year.2005–2017 /  
+
+28.[Daredevil](http://www.imdb.com/title/tt3322312/). 8.7 / 278496 / cRank20 / year.2015–  /  
+
+29.[South Park](http://www.imdb.com/title/tt0121955/). 8.7 / 274336 / cRank22 / year.1997–  /  
+
+30.[The Office](http://www.imdb.com/title/tt0386676/). 8.8 / 238702 / cRank29 / year.2005–2013 /  
+
+31.[Suits](http://www.imdb.com/title/tt1632701/). 8.6 / 289263 / cRank18 / year.2011–  /  
+
+32.[Supernatural](http://www.imdb.com/title/tt0460681/). 8.5 / 319996 / cRank16 / year.2005–  /  
+
+33.[Seinfeld](http://www.imdb.com/title/tt0098904/). 8.9 / 198395 / cRank45 / year.1989–1998 /  
+
+34.[Vikings](http://www.imdb.com/title/tt2306299/). 8.6 / 271589 / cRank23 / year.2013–  /  
+
+35.[Modern Family](http://www.imdb.com/title/tt1442437/). 8.5 / 281419 / cRank19 / year.2009–  /  
+
+36.[Black Mirror](http://www.imdb.com/title/tt2085059/). 8.9 / 176591 / cRank52 / year.2011–  /  
+
+37.[Death Note](http://www.imdb.com/title/tt0877057/). 9.0 / 149208 / cRank65 / year.2006–2007 /  
+
+38.[Mr. Robot](http://www.imdb.com/title/tt4158110/). 8.6 / 244187 / cRank26 / year.2015–  /  
+
+39.[Better Call Saul](http://www.imdb.com/title/tt3032476/). 8.7 / 205252 / cRank44 / year.2015–  /  
+
+40.[Homeland](http://www.imdb.com/title/tt1796960/). 8.4 / 258251 / cRank25 / year.2011–  /  
+
+41.[Sons of Anarchy](http://www.imdb.com/title/tt1124373/). 8.6 / 208870 / cRank42 / year.2008–2014 /  
+
+42.[Twin Peaks](http://www.imdb.com/title/tt0098936/). 8.9 / 136581 / cRank75 / year.1990–1991 /  
+
+43.[It's Always Sunny in Philadelphia](http://www.imdb.com/title/tt0472954/). 8.8 / 153596 / cRank64 / year.2005–  /  
+
+44.[Spartacus: War of the Damned](http://www.imdb.com/title/tt1442449/). 8.6 / 190793 / cRank47 / year.2010–2013 /  
+
+45.[The X-Files](http://www.imdb.com/title/tt0106179/). 8.7 / 167561 / cRank55 / year.1993–  /  
+
+46.[Doctor Who](http://www.imdb.com/title/tt0436992/). 8.7 / 167342 / cRank56 / year.2005–  /  
+
+47.[Hannibal](http://www.imdb.com/title/tt2243973/). 8.6 / 183971 / cRank51 / year.2013–2015 /  
+
+48.[Leyla and Mecnun](http://www.imdb.com/title/tt1831164/). 9.2 / 77866 / cRank134 / year.2011–2014 /  
+
+49.[Family Guy](http://www.imdb.com/title/tt0182576/). 8.2 / 262507 / cRank24 / year.1998–  /  
+
+50.[Arrow](http://www.imdb.com/title/tt2193021/). 7.8 / 347202 / cRank14 / year.2012–  /  
+
+51.[Scrubs](http://www.imdb.com/title/tt0285403/). 8.4 / 210801 / cRank41 / year.2001–2010 /  
+
+52.[Mad Men](http://www.imdb.com/title/tt0804503/). 8.6 / 161848 / cRank58 / year.2007–2015 /  
+
+53.[Rome](http://www.imdb.com/title/tt0384766/). 8.8 / 128377 / cRank81 / year.2005–2007 /  
+
+54.[Fringe](http://www.imdb.com/title/tt1119644/). 8.4 / 194240 / cRank46 / year.2008–2013 /  
+
+55.[Futurama](http://www.imdb.com/title/tt0149460/). 8.5 / 176186 / cRank53 / year.1999–2013 /  
+
+56.[Shameless](http://www.imdb.com/title/tt1586680/). 8.7 / 139764 / cRank74 / year.2011–  /  
+
+57.[Orange Is the New Black](http://www.imdb.com/title/tt2372162/). 8.2 / 227271 / cRank34 / year.2013–  /  
+
+58.[American Horror Story](http://www.imdb.com/title/tt1844624/). 8.2 / 223788 / cRank35 / year.2011–  /  
+
+59.[Boardwalk Empire](http://www.imdb.com/title/tt0979432/). 8.6 / 149057 / cRank66 / year.2010–2014 /  
+
+60.[Parks and Recreation](http://www.imdb.com/title/tt1266020/). 8.6 / 148525 / cRank67 / year.2009–2015 /  
+
+61.[Battlestar Galactica](http://www.imdb.com/title/tt0407362/). 8.7 / 131673 / cRank78 / year.2004–2009 /  
+
+62.[Community](http://www.imdb.com/title/tt1439629/). 8.5 / 160739 / cRank59 / year.2009–2015 /  
+
+63.[Downton Abbey](http://www.imdb.com/title/tt1606375/). 8.7 / 128395 / cRank80 / year.2010–2015 /  
+
+64.[The Flash](http://www.imdb.com/title/tt3107288/). 8.0 / 237525 / cRank30 / year.2014–  /  
+
+65.[Freaks and Geeks](http://www.imdb.com/title/tt0193676/). 8.8 / 107714 / cRank90 / year.1999–2000 /  
+
+66.[Peaky Blinders](http://www.imdb.com/title/tt2442560/). 8.8 / 107666 / cRank91 / year.2013–  /  
+
+67.[Fullmetal Alchemist: Brotherhood](http://www.imdb.com/title/tt1355642/). 9.1 / 67938 / cRank159 / year.2009–2010 /  
+
+68.[Entourage](http://www.imdb.com/title/tt0387199/). 8.5 / 144912 / cRank68 / year.2004–2011 /  
+
+69.[24](http://www.imdb.com/title/tt0285331/). 8.4 / 156698 / cRank61 / year.2001–2010 /  
+
+70.[Person of Interest](http://www.imdb.com/title/tt1839578/). 8.5 / 142091 / cRank71 / year.2011–2016 /  
+
+71.[The Vampire Diaries](http://www.imdb.com/title/tt1405406/). 7.8 / 243556 / cRank27 / year.2009–2017 /  
+
+72.[Archer](http://www.imdb.com/title/tt1486217/). 8.7 / 109818 / cRank89 / year.2009–  /  
+
+73.[13 Reasons Why](http://www.imdb.com/title/tt1837492/). 8.4 / 144095 / cRank69 / year.2017–  /  
+
+74.[Californication](http://www.imdb.com/title/tt0904208/). 8.3 / 155637 / cRank63 / year.2007–2014 /  
+
+75.[True Blood](http://www.imdb.com/title/tt0844441/). 7.9 / 211851 / cRank39 / year.2008–2014 /  
+
+76.[Six Feet Under](http://www.imdb.com/title/tt0248654/). 8.7 / 101670 / cRank100 / year.2001–2005 /  
+
+77.[Attack on Titan](http://www.imdb.com/title/tt2560140/). 8.8 / 89205 / cRank116 / year.2013–  /  
+
+78.[TVF Pitchers](http://www.imdb.com/title/tt4742876/). 9.3 / 38806 / cRank284 / year.2015–  /  
+
+79.[Batman: The Animated Series](http://www.imdb.com/title/tt0103359/). 9.0 / 63894 / cRank167 / year.1992–1995 /  
+
+80.[The IT Crowd](http://www.imdb.com/title/tt0487831/). 8.6 / 104835 / cRank93 / year.2006–2013 /  
+
+81.[Spartacus: Gods of the Arena](http://http://www.imdb.com/title/tt1758429/). 8.6 / 104396 / cRank94 / year.2011 / supplementary
+
+82.[Top Gear](http://www.imdb.com/title/tt1628033/). 8.7 / 92383 / cRank109 / year.2002–  /  
+
+83.[Once Upon a Time](http://www.imdb.com/title/tt1843230/). 7.9 / 187649 / cRank48 / year.2011–  /  
+
+84.[Dragon Ball Z](http://www.imdb.com/title/tt0214341/). 8.7 / 90824 / cRank114 / year.1996–2003 /  
+
+85.[Pride and Prejudice](http://http://www.imdb.com/title/tt0112130/). 9.0 / 60596 / cRank176 / year.1995 / supplementary
+
+86.[Heroes](http://www.imdb.com/title/tt0813715/). 7.7 / 211279 / cRank40 / year.II) (2006–2010 /  
+
+87.[The Punisher](http://www.imdb.com/title/tt5675620/). 8.9 / 68546 / cRank156 / year.2017–  /  
+
+88.[Jessica Jones](http://www.imdb.com/title/tt2357547/). 8.2 / 141568 / cRank72 / year.2015–  /  
+
+89.[Oz](http://www.imdb.com/title/tt0118421/). 8.8 / 74724 / cRank144 / year.1997–2003 /  
+
+90.[One Punch Man](http://www.imdb.com/title/tt4508902/). 9.0 / 56177 / cRank192 / year.2015–  /  
+
+91.[Gotham](http://www.imdb.com/title/tt3749900/). 7.9 / 168337 / cRank54 / year.2014–  /  
+
+92.[Cowboy Bebop](http://www.imdb.com/title/tt0213338/). 8.9 / 63633 / cRank169 / year.1998–2003 /  
+
+93.[Last Week Tonight with John Oliver](http://www.imdb.com/title/tt3530232/). 9.0 / 54938 / cRank198 / year.2014–  /  
+
+94.[The Mentalist](http://www.imdb.com/title/tt1196946/). 8.1 / 142514 / cRank70 / year.2008–2015 /  
+
+95.[The Newsroom](http://www.imdb.com/title/tt1870479/). 8.6 / 89050 / cRank117 / year.2012–2014 /  
+
+96.[Grey's Anatomy](http://www.imdb.com/title/tt0413573/). 7.7 / 184770 / cRank50 / year.2005–  /  
+
+97.[Castle](http://www.imdb.com/title/tt1219024/). 8.2 / 126388 / cRank83 / year.2009–2016 /  
+
+98.[The Twilight Zone](http://www.imdb.com/title/tt0052520/). 9.0 / 52162 / cRank206 / year.1959–1964 /  
+
+99.[Curb Your Enthusiasm](http://www.imdb.com/title/tt0264235/). 8.7 / 76864 / cRank137 / year.2000–  /  
+
+100.[Fawlty Towers](http://www.imdb.com/title/tt0072500/). 8.8 / 67944 / cRank158 / year.1975–1979 /  
+
+101.[Silicon Valley](http://www.imdb.com/title/tt2575988/). 8.6 / 85435 / cRank122 / year.2014–  /  
+
+102.[The Blacklist](http://www.imdb.com/title/tt2741602/). 8.1 / 134036 / cRank76 / year.2013–  /  
+
+103.[Sense8](http://www.imdb.com/title/tt2431438/). 8.4 / 102046 / cRank99 / year.2015–2018 /  
+
+104.[Deadwood](http://www.imdb.com/title/tt0348914/). 8.7 / 74239 / cRank146 / year.2004–2006 /  
+
+105.[That '70s Show](http://www.imdb.com/title/tt0165598/). 8.1 / 129017 / cRank79 / year.1998–2006 /  
+
+106.[The Night Of](http://http://www.imdb.com/title/tt2401256/). 8.6 / 80700 / cRank128 / year.2016 / supplementary
+
+107.[Chuck](http://www.imdb.com/title/tt0934814/). 8.2 / 114757 / cRank87 / year.2007–2012 /  
+
+108.[Criminal Minds](http://www.imdb.com/title/tt0452046/). 8.1 / 123369 / cRank84 / year.2005–  /  
+
+109.[Luther](http://www.imdb.com/title/tt1474684/). 8.5 / 86254 / cRank120 / year.2010–2018 /  
+
+110.[The Office](http://www.imdb.com/title/tt0290978/). 8.6 / 77673 / cRank136 / year.2001–2003 /  
+
+111.[White Collar](http://www.imdb.com/title/tt1358522/). 8.3 / 103201 / cRank98 / year.2009–2014 /  
+
+112.[Taboo](http://www.imdb.com/title/tt3647998/). 8.6 / 76127 / cRank139 / year.2017–  /  
+
+113.[The Legend of Korra](http://www.imdb.com/title/tt1695360/). 8.6 / 75920 / cRank141 / year.2012–2014 /  
+
+114.[Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/). 8.6 / 75918 / cRank142 / year.1987–1994 /  
+
+115.[Buffy the Vampire Slayer](http://www.imdb.com/title/tt0118276/). 8.2 / 110457 / cRank88 / year.1997–2003 /  
+
+116.[New Girl](http://www.imdb.com/title/tt1826940/). 7.7 / 155706 / cRank62 / year.2011–  /  
+
+117.[Monty Python's Flying Circus](http://www.imdb.com/title/tt0063929/). 8.9 / 51319 / cRank209 / year.1969–1974 /  
+
+118.[The 100](http://www.imdb.com/title/tt2661044/). 7.8 / 141564 / cRank73 / year.2014–  /  
+
+119.[Two and a Half Men](http://www.imdb.com/title/tt0369179/). 7.1 / 213283 / cRank38 / year.2003–2015 /  
+
+120.[Justified](http://www.imdb.com/title/tt1489428/). 8.6 / 70850 / cRank153 / year.2010–2015 /  
+
+121.[Orphan Black](http://www.imdb.com/title/tt2234222/). 8.4 / 84567 / cRank124 / year.2013–2017 /  
+
+122.[Agents of S.H.I.E.L.D.](http://www.imdb.com/title/tt2364582/). 7.5 / 163926 / cRank57 / year.2013–  /  
+
+123.[Mr. Bean](http://www.imdb.com/title/tt0096657/). 8.5 / 75951 / cRank140 / year.1990–1995 /  
+
+124.[The Shield](http://www.imdb.com/title/tt0286486/). 8.7 / 61211 / cRank173 / year.2002–2008 /  
+
+125.[The Originals](http://www.imdb.com/title/tt2632424/). 8.3 / 90937 / cRank113 / year.2013–  /  
+
+126.[30 Rock](http://www.imdb.com/title/tt0496424/). 8.2 / 98214 / cRank103 / year.2006–2013 /  
+
+127.[Brooklyn Nine-Nine](http://www.imdb.com/title/tt2467372/). 8.3 / 90024 / cRank115 / year.2013–  /  
+
+128.[Making a Murderer](http://www.imdb.com/title/tt5189670/). 8.7 / 60162 / cRank177 / year.2015–  /  
+
+129.[Bones](http://www.imdb.com/title/tt0460627/). 7.9 / 122649 / cRank85 / year.2005–2017 /  
+
+130.[Louie](http://www.imdb.com/title/tt1492966/). 8.6 / 66700 / cRank161 / year.2010–  /  
+
+131.[Mindhunter](http://www.imdb.com/title/tt5290382/). 8.7 / 59372 / cRank180 / year.2017–  /  
+
+132.[Outlander](http://www.imdb.com/title/tt3006802/). 8.5 / 73009 / cRank149 / year.2014–  /  
+
+133.[Lucifer](http://www.imdb.com/title/tt4052886/). 8.2 / 95749 / cRank107 / year.2015–  /  
+
+134.[The West Wing](http://www.imdb.com/title/tt0200276/). 8.8 / 50366 / cRank212 / year.1999–2006 /  
+
+135.[Penny Dreadful](http://www.imdb.com/title/tt2628232/). 8.2 / 91499 / cRank111 / year.2014–2016 /  
+
+136.[Malcolm in the Middle](http://www.imdb.com/title/tt0212671/). 8.0 / 103850 / cRank95 / year.2000–2006 /  
+
+137.[Misfits](http://www.imdb.com/title/tt1548850/). 8.3 / 80954 / cRank127 / year.2009–2013 /  
+
+138.[Big Little Lies](http://http://www.imdb.com/title/tt3920596/). 8.6 / 59500 / cRank178 / year.2017-2018 / supplementary
+
+139.[Psych](http://www.imdb.com/title/tt0491738/). 8.4 / 72066 / cRank151 / year.2006–2014 /  
+
+140.[Pretty Little Liars](http://www.imdb.com/title/tt1578873/). 7.6 / 132362 / cRank77 / year.2010–2017 /  
+
+141.[Stargate SG-1](http://www.imdb.com/title/tt0118480/). 8.4 / 71367 / cRank152 / year.1997–2007 /  
+
+142.[How to Get Away with Murder](http://www.imdb.com/title/tt3205802/). 8.2 / 84657 / cRank123 / year.2014–  /  
+
+143.[Adventure Time](http://www.imdb.com/title/tt1305826/). 8.6 / 57079 / cRank189 / year.2010–2018 /  
+
+144.[Lie to Me](http://www.imdb.com/title/tt1235099/). 8.0 / 96972 / cRank104 / year.2009–2011 /  
+
+145.[This Is Us](http://www.imdb.com/title/tt5555260/). 8.8 / 44993 / cRank241 / year.2016–  /  
+
+146.[Revenge](http://www.imdb.com/title/tt1837642/). 7.9 / 103409 / cRank96 / year.2011–2015 /  
+
+147.[Banshee](http://www.imdb.com/title/tt2017109/). 8.4 / 68359 / cRank157 / year.2013–2016 /  
+
+148.[The Crown](http://www.imdb.com/title/tt4786824/). 8.7 / 49937 / cRank215 / year.2016–  /  
+
+149.[Dragon Ball Z](http://www.imdb.com/title/tt0121220/). 8.7 / 49846 / cRank217 / year.1989–1996 /  
+
+150.[Gravity Falls](http://www.imdb.com/title/tt1865718/). 8.9 / 37677 / cRank296 / year.2012–2016 /  
+
+151.[The Fresh Prince of Bel-Air](http://www.imdb.com/title/tt0098800/). 7.9 / 99380 / cRank102 / year.1990–1996 /  
+
+152.[The Killing](http://www.imdb.com/title/tt1637727/). 8.2 / 78787 / cRank132 / year.2011–2014 /  
+
+153.[Black Sails](http://www.imdb.com/title/tt2375692/). 8.3 / 72164 / cRank150 / year.2014–2017 /  
+
+154.[Weeds](http://www.imdb.com/title/tt0439100/). 8.0 / 91907 / cRank110 / year.2005–2012 /  
+
+155.[The Grand Tour](http://www.imdb.com/title/tt5712554/). 8.8 / 42495 / cRank257 / year.2016–  /  
+
+156.[Married with Children](http://www.imdb.com/title/tt0092400/). 8.1 / 84108 / cRank126 / year.1986–1997 /  
+
+157.[The Inbetweeners](http://www.imdb.com/title/tt1220617/). 8.4 / 64740 / cRank165 / year.2008–2010 /  
+
+158.[Friday Night Lights](http://www.imdb.com/title/tt0758745/). 8.7 / 47234 / cRank228 / year.2006–2011 /  
+
+159.[NCIS](http://www.imdb.com/title/tt0364845/). 7.9 / 96570 / cRank105 / year.2003–  /  
+
+160.[Fullmetal Alchemist](http://www.imdb.com/title/tt0421357/). 8.7 / 46412 / cRank232 / year.2003–2004 /  
+
+161.[Only Fools and Horses....](http://www.imdb.com/title/tt0081912/). 8.9 / 35975 / cRank310 / year.1981–2003 /  
+
+162.[Bates Motel](http://www.imdb.com/title/tt2188671/). 8.2 / 74562 / cRank145 / year.2013–2017 /  
+
+163.[Gossip Girl](http://www.imdb.com/title/tt0397442/). 7.4 / 128245 / cRank82 / year.2007–2012 /  
+
+164.[Teen Wolf](http://www.imdb.com/title/tt1567432/). 7.7 / 105197 / cRank92 / year.2011–2017 /  
+
+165.[Naruto: Shippûden](http://www.imdb.com/title/tt0988824/). 8.5 / 55204 / cRank196 / year.2007–2017 /  
+
+166.[Gilmore Girls](http://www.imdb.com/title/tt0238784/). 8.1 / 78691 / cRank133 / year.2000–2007 /  
+
+167.[One Piece](http://www.imdb.com/title/tt0388629/). 8.6 / 48891 / cRank221 / year.1999–  /  
+
+168.[Blackadder Goes Forth](http://www.imdb.com/title/tt0096548/). 8.8 / 38464 / cRank289 / year.1989 /  
+
+169.[Broadchurch](http://www.imdb.com/title/tt2249364/). 8.4 / 58788 / cRank184 / year.2013–2017 /  
+
+170.[Grimm](http://www.imdb.com/title/tt1830617/). 7.8 / 94646 / cRank108 / year.2011–2017 /  
+
+171.[Veronica Mars](http://www.imdb.com/title/tt0412253/). 8.4 / 58164 / cRank187 / year.2004–2007 /  
+
+172.[The Handmaid's Tale](http://www.imdb.com/title/tt5834204/). 8.6 / 47253 / cRank227 / year.2017–  /  
+
+173.[Flight of the Conchords](http://www.imdb.com/title/tt0863046/). 8.6 / 47232 / cRank229 / year.2007–2009 /  
+
+174.[Legion](http://www.imdb.com/title/tt5114356/). 8.5 / 52314 / cRank205 / year.2017–  /  
+
+175.[Chappelle's Show](http://www.imdb.com/title/tt0353049/). 8.7 / 41539 / cRank268 / year.2003–2006 /  
+
+176.[Elementary](http://www.imdb.com/title/tt2191671/). 7.9 / 84384 / cRank125 / year.2012–  /  
+
+177.[Ash vs Evil Dead](http://www.imdb.com/title/tt4189022/). 8.6 / 44929 / cRank243 / year.2015–  /  
+
+178.[American Crime Story](http://www.imdb.com/title/tt2788432/). 8.5 / 49630 / cRank218 / year.2016–  /  
+
+179.[My Name Is Earl](http://www.imdb.com/title/tt0460091/). 7.8 / 87733 / cRank119 / year.2005–2009 /  
+
+180.[Star Trek](http://www.imdb.com/title/tt0060028/). 8.3 / 59470 / cRank179 / year.1966–1969 /  
+
+181.[Skins](http://www.imdb.com/title/tt0840196/). 8.2 / 64504 / cRank166 / year.2007–2013 /  
+
+182.[The Americans](http://www.imdb.com/title/tt2149175/). 8.3 / 59124 / cRank183 / year.2013–  /  
+
+183.[Ray Donovan](http://www.imdb.com/title/tt2249007/). 8.3 / 58588 / cRank186 / year.2013–  /  
+
+184.[Spaced](http://www.imdb.com/title/tt0187664/). 8.6 / 43353 / cRank253 / year.1999–2001 /  
+
+185.[Smallville](http://www.imdb.com/title/tt0279600/). 7.5 / 103298 / cRank97 / year.2001–2011 /  
+
+186.[Ozark](http://www.imdb.com/title/tt5071412/). 8.4 / 52160 / cRank207 / year.2017–  /  
+
+187.[The Good Wife](http://www.imdb.com/title/tt1442462/). 8.3 / 56843 / cRank191 / year.2009–2016 /  
+
+188.[Desperate Housewives](http://www.imdb.com/title/tt0410975/). 7.5 / 100578 / cRank101 / year.2004–2012 /  
+
+189.[SpongeBob SquarePants](http://www.imdb.com/title/tt0206512/). 8.1 / 65906 / cRank163 / year.1999–  /  
+
+190.[Dragon Ball](http://www.imdb.com/title/tt0280249/). 8.6 / 41262 / cRank270 / year.1995–2003 /  
+
+191.[Black Books](http://www.imdb.com/title/tt0262150/). 8.5 / 45345 / cRank239 / year.2000–2004 /  
+
+192.[Peep Show](http://www.imdb.com/title/tt0387764/). 8.6 / 40422 / cRank273 / year.2003–2015 /  
+
+193.[Pushing Daisies](http://www.imdb.com/title/tt0925266/). 8.4 / 48820 / cRank222 / year.2007–2009 /  
+
+194.[Generation Kill](http://http://www.imdb.com/title/tt0995832/). 8.6 / 38996 / cRank282 / year.2008 / supplementary
+
+195.[Da Vinci's Demons](http://www.imdb.com/title/tt2094262/). 8.0 / 66498 / cRank162 / year.2013–2015 /  
+
+196.[The Daily Show](http://www.imdb.com/title/tt0115147/). 8.6 / 38755 / cRank285 / year.1996–  /  
+
+197.[Black-Adder II](http://www.imdb.com/title/tt0088484/). 8.7 / 34383 / cRank324 / year.1986 /  
+
+198.[The Bridge](http://www.imdb.com/title/tt1733785/). 8.6 / 38295 / cRank291 / year.2011–  /  
+
+199.[The Leftovers](http://www.imdb.com/title/tt2699128/). 8.2 / 55797 / cRank194 / year.2014–2017 /  
+
+200.[Master of None](http://www.imdb.com/title/tt4635276/). 8.4 / 46604 / cRank231 / year.2015–  /  
+
+201.[American Dad!](http://www.imdb.com/title/tt0397306/). 7.4 / 96248 / cRank106 / year.2005–  /  
+
+202.[BoJack Horseman](http://www.imdb.com/title/tt3398228/). 8.4 / 46231 / cRank233 / year.2014–  /  
+
+203.[Coupling](http://www.imdb.com/title/tt0237123/). 8.6 / 37816 / cRank295 / year.2000–2004 /  
+
+204.[Dr. Horrible's Sing-Along Blog](http://http://www.imdb.com/title/tt1227926/). 8.6 / 37676 / cRank297 / year.2008 / supplementary
+
+205.[Code Geass: Lelouch of the Rebellion](http://www.imdb.com/title/tt0994314/). 8.7 / 33703 / cRank329 / year.2006–2012 /  
+
+206.[Law & Order: Special Victims Unit](http://www.imdb.com/title/tt0203259/). 8.1 / 59326 / cRank181 / year.1999–  /  
+
+207.[The Fall](http://www.imdb.com/title/tt2294189/). 8.2 / 53378 / cRank201 / year.I) (2013–  /  
+
+208.[Burn Notice](http://www.imdb.com/title/tt0810788/). 8.0 / 62007 / cRank172 / year.2007–2013 /  
+
+209.[The Tudors](http://www.imdb.com/title/tt0758790/). 8.1 / 56956 / cRank190 / year.2007–2010 /  
+
+210.[Undercover](http://www.imdb.com/title/tt1909015/). 8.9 / 24998 / cRank424 / year.2011–  /  
+
+211.[MythBusters](http://www.imdb.com/title/tt0383126/). 8.3 / 47647 / cRank226 / year.2003–  /  
+
+212.[Frasier](http://www.imdb.com/title/tt0106004/). 8.0 / 60747 / cRank175 / year.1993–2004 /  
+
+213.[Luke Cage](http://www.imdb.com/title/tt3322314/). 7.6 / 79643 / cRank129 / year.2016–  /  
+
+214.[Blue Mountain State](http://www.imdb.com/title/tt1344204/). 8.4 / 42853 / cRank254 / year.2010–2011 /  
+
+215.[The World at War](http://www.imdb.com/title/tt0071075/). 9.2 / 15094 / cRank641 / year.1973–1976 /  
+
+216.[Dark](http://www.imdb.com/title/tt5753856/). 8.8 / 27659 / cRank382 / year.2017–  /  
+
+217.[M*A*S*H](http://www.imdb.com/title/tt0068098/). 8.4 / 42461 / cRank258 / year.1972–1983 /  
+
+218.[Dragon Ball](http://www.imdb.com/title/tt0088509/). 8.6 / 34747 / cRank320 / year.1986–1989 /  
+
+219.[Agent Carter](http://www.imdb.com/title/tt3475734/). 8.0 / 59230 / cRank182 / year.2015–2016 /  
+
+220.[Whose Line Is It Anyway?](http://www.imdb.com/title/tt0163507/). 8.6 / 34438 / cRank323 / year.1998–2007 /  
+
+221.[Forever](http://www.imdb.com/title/tt3487382/). 8.3 / 46028 / cRank235 / year.2014–2015 /  
+
+222.[Carnivàle](http://www.imdb.com/title/tt0319969/). 8.5 / 37646 / cRank298 / year.2003–2005 /  
+
+223.[Eastbound & Down](http://www.imdb.com/title/tt0866442/). 8.3 / 44896 / cRank244 / year.2009–2013 /  
+
+224.[Glee](http://www.imdb.com/title/tt1327801/). 6.7 / 121286 / cRank86 / year.2009–2015 /  
+
+225.[Extras](http://www.imdb.com/title/tt0445114/). 8.3 / 44799 / cRank245 / year.2005–2007 /  
+
+226.[Stargate: Atlantis](http://www.imdb.com/title/tt0374455/). 8.1 / 52890 / cRank204 / year.2004–2009 /  
+
+227.[CSI: Crime Scene Investigation](http://www.imdb.com/title/tt0247082/). 7.7 / 70130 / cRank155 / year.2000–2015 /  
+
+228.[Merlin](http://www.imdb.com/title/tt1199099/). 7.9 / 60936 / cRank174 / year.2008–2012 /  
+
+229.[Naruto](http://www.imdb.com/title/tt0409591/). 8.2 / 48271 / cRank224 / year.2002–2007 /  
+
+230.[Black Adder the Third](http://www.imdb.com/title/tt0092324/). 8.6 / 33067 / cRank333 / year.1987 /  
+
+231.[The Expanse](http://www.imdb.com/title/tt3230854/). 8.3 / 44176 / cRank248 / year.2015–  /  
+
+232.[The Following](http://www.imdb.com/title/tt2071645/). 7.5 / 77841 / cRank135 / year.2013–2015 /  
+
+233.[The Man in the High Castle](http://www.imdb.com/title/tt1740299/). 8.1 / 51514 / cRank208 / year.2015–  /  
+
+234.[Angel](http://www.imdb.com/title/tt0162065/). 8.0 / 55535 / cRank195 / year.1999–2004 /  
+
+235.[Justice League](http://www.imdb.com/title/tt0275137/). 8.6 / 32108 / cRank337 / year.2001–2004 /  
+
+236.[Monk](http://www.imdb.com/title/tt0312172/). 8.0 / 54477 / cRank199 / year.2002–2009 /  
+
+237.[Neon Genesis Evangelion](http://www.imdb.com/title/tt0112159/). 8.6 / 31779 / cRank339 / year.1995–1996 /  
+
+238.[Steins;Gate](http://www.imdb.com/title/tt1910272/). 8.8 / 25141 / cRank421 / year.2011–  /  
+
+239.[The Knick](http://www.imdb.com/title/tt2937900/). 8.5 / 35109 / cRank317 / year.2014–2015 /  
+
+240.[Marco Polo](http://www.imdb.com/title/tt2189461/). 8.1 / 49887 / cRank216 / year.2014–2016 /  
+
+241.[Hell on Wheels](http://www.imdb.com/title/tt1699748/). 8.3 / 41972 / cRank262 / year.2011–2016 /  
+
+242.[Boston Legal](http://www.imdb.com/title/tt0402711/). 8.4 / 38144 / cRank293 / year.2004–2008 /  
+
+243.[Samurai Jack](http://www.imdb.com/title/tt0278238/). 8.5 / 34531 / cRank322 / year.2001–2017 /  
+
+244.[The Colbert Report](http://www.imdb.com/title/tt0458254/). 8.5 / 34238 / cRank326 / year.2005–2015 /  
+
+245.[North & South](http://http://www.imdb.com/title/tt0417349/). 8.8 / 24373 / cRank430 / year.2004 / supplementary
+
+246.[Dekalog](http://http://www.imdb.com/title/tt0092337/). 9.1 / 15605 / cRank627 / year.1989–1990 / supplementary
+
+247.[Bob's Burgers](http://www.imdb.com/title/tt1561755/). 8.1 / 47743 / cRank225 / year.2011–  /  
+
+248.[Billions](http://www.imdb.com/title/tt4270492/). 8.4 / 36676 / cRank304 / year.2016–  /  
+
+249.[One Tree Hill](http://www.imdb.com/title/tt0368530/). 7.7 / 62885 / cRank170 / year.2003–2012 /  
+
+250.[Scandal](http://www.imdb.com/title/tt1837576/). 7.8 / 58687 / cRank185 / year.2012–  /  
+
+251.[The O.C.](http://www.imdb.com/title/tt0362359/). 7.5 / 70844 / cRank154 / year.2003–2007 /  
+
+252.[Father Ted](http://www.imdb.com/title/tt0111958/). 8.6 / 29642 / cRank361 / year.1995–1998 /  
+
+253.[Hunter x Hunter](http://www.imdb.com/title/tt2098220/). 8.7 / 26409 / cRank394 / year.2011–2014 /  
+
+254.[Samurai Champloo](http://www.imdb.com/title/tt0423731/). 8.6 / 29387 / cRank363 / year.2004–2005 /  
+
+255.[The League](http://www.imdb.com/title/tt1480684/). 8.3 / 39224 / cRank278 / year.I) (2009–2015 /  
+
+256.[Jericho](http://www.imdb.com/title/tt0805663/). 8.0 / 49948 / cRank214 / year.2006–2008 /  
+
+257.[Preacher](http://www.imdb.com/title/tt5016504/). 8.1 / 46176 / cRank234 / year.2016–  /  
+
+258.[Twin Peaks](http://www.imdb.com/title/tt4093826/). 8.6 / 29111 / cRank367 / year.2017–  /  
+
+259.[Agatha Christie's Poirot](http://www.imdb.com/title/tt0094525/). 8.6 / 28625 / cRank373 / year.1989–2013 /  
+
+260.[Utopia](http://www.imdb.com/title/tt2384811/). 8.5 / 31566 / cRank340 / year.2013–2014 /  
+
+261.[Sex and the City](http://www.imdb.com/title/tt0159206/). 7.0 / 88042 / cRank118 / year.1998–2004 /  
+
+262.[Falling Skies](http://www.imdb.com/title/tt1462059/). 7.2 / 79131 / cRank131 / year.2011–2015 /  
+
+263.[Workaholics](http://www.imdb.com/title/tt1610527/). 8.2 / 40266 / cRank274 / year.2011–2017 /  
+
+264.[Almost Human](http://www.imdb.com/title/tt2654580/). 8.1 / 43643 / cRank250 / year.2013–2014 /  
+
+265.[Fear the Walking Dead](http://www.imdb.com/title/tt3743822/). 7.0 / 85562 / cRank121 / year.2015–  /  
+
+266.[Das Boot](http://http://www.imdb.com/title/tt0081834/). 9.0 / 16335 / cRank604 / year.1985 / supplementary
+
+267.[Doctor Who](http://www.imdb.com/title/tt0056751/). 8.5 / 29789 / cRank357 / year.1963–1989 /  
+
+268.[Over the Garden Wall](http://http://www.imdb.com/title/tt3718778/). 8.9 / 18545 / cRank546 / year.2014 / supplementary
+
+269.[iZombie](http://www.imdb.com/title/tt3501584/). 8.0 / 45377 / cRank237 / year.2015–  /  
+
+270.[X-Men](http://www.imdb.com/title/tt0103584/). 8.5 / 29296 / cRank364 / year.1992–1997 /  
+
+271.[Behzat Ç.: Bir Ankara Polisiyesi](http://www.imdb.com/title/tt1795096/). 8.8 / 20959 / cRank493 / year.2010–2013 /  
+
+272.[The Strain](http://www.imdb.com/title/tt2654620/). 7.4 / 66837 / cRank160 / year.2014–2017 /  
+
+273.[American Gods](http://www.imdb.com/title/tt1898069/). 8.1 / 41659 / cRank267 / year.2017–  /  
+
+274.[The King of Queens](http://www.imdb.com/title/tt0165581/). 7.4 / 65496 / cRank164 / year.1998–2007 /  
+
+275.[QI](http://www.imdb.com/title/tt0380136/). 8.6 / 25617 / cRank413 / year.2003–  /  
+
+276.[The OA](http://www.imdb.com/title/tt4635282/). 7.8 / 50196 / cRank213 / year.2016–  /  
+
+277.[Terminator: The Sarah Connor Chronicles](http://www.imdb.com/title/tt0851851/). 7.7 / 53234 / cRank202 / year.2008–2009 /  
+
+278.[Under the Dome](http://www.imdb.com/title/tt1553656/). 6.7 / 91261 / cRank112 / year.2013–2015 /  
+
+279.[The Last Kingdom](http://www.imdb.com/title/tt4179452/). 8.3 / 33509 / cRank332 / year.2015–  /  
+
+280.[Limitless](http://www.imdb.com/title/tt4422836/). 7.8 / 49285 / cRank219 / year.2015–2016 /  
+
+281.[Flashforward](http://www.imdb.com/title/tt1441135/). 7.6 / 55921 / cRank193 / year.2009–2010 /  
+
+282.[Young Justice](http://www.imdb.com/title/tt1641384/). 8.7 / 22004 / cRank472 / year.2010–  /  
+
+283.[Bleach: Burîchu](http://www.imdb.com/title/tt0434665/). 8.2 / 35504 / cRank311 / year.2004–2012 /  
+
+284.[Continuum](http://www.imdb.com/title/tt1954347/). 7.7 / 50970 / cRank211 / year.I) (2012–2015 /  
+
+285.[Trailer Park Boys](http://www.imdb.com/title/tt0290988/). 8.4 / 29409 / cRank362 / year.2001–2018 /  
+
+286.[The Bugs Bunny Show](http://www.imdb.com/title/tt0053488/). 8.6 / 24018 / cRank438 / year.1960–1975 /  
+
+287.[Impractical Jokers](http://www.imdb.com/title/tt2100976/). 8.6 / 23390 / cRank448 / year.2011–  /  
+
+288.[Nip/Tuck](http://www.imdb.com/title/tt0361217/). 7.7 / 49034 / cRank220 / year.2003–2010 /  
+
+289.[Red Dwarf](http://www.imdb.com/title/tt0094535/). 8.4 / 28306 / cRank379 / year.1988–  /  
+
+290.[The Borgias](http://www.imdb.com/title/tt1582457/). 7.9 / 42282 / cRank259 / year.2011–2013 /  
+
+291.[Dead Like Me](http://www.imdb.com/title/tt0348913/). 8.1 / 36352 / cRank306 / year.2003–2004 /  
+
+292.[Life](http://www.imdb.com/title/tt0874936/). 8.3 / 30635 / cRank350 / year.I) (2007–2009 /  
+
+293.[Saturday Night Live](http://www.imdb.com/title/tt0072562/). 8.1 / 36169 / cRank309 / year.1975–  /  
+
+294.[Eureka](http://www.imdb.com/title/tt0796264/). 7.9 / 41846 / cRank265 / year.2006–2012 /  
+
+295.[Unbreakable Kimmy Schmidt](http://www.imdb.com/title/tt3339966/). 7.8 / 44722 / cRank246 / year.2015–  /  
+
+296.[The Wonder Years](http://www.imdb.com/title/tt0094582/). 8.3 / 30204 / cRank355 / year.1988–1993 /  
+
+297.[John Adams](http://http://www.imdb.com/title/tt0472027/). 8.6 / 22536 / cRank462 / year.2008- / supplementary
+
+298.[Sleepy Hollow](http://www.imdb.com/title/tt2647544/). 7.5 / 53159 / cRank203 / year.2013–2017 /  
+
+299.[Riverdale](http://www.imdb.com/title/tt5420376/). 7.8 / 43616 / cRank251 / year.2017–  /  
+
+300.[Shame](http://www.imdb.com/title/tt5288312/). 8.8 / 17542 / cRank573 / year.2015–2017 /  
+
+301.[2 Broke Girls](http://www.imdb.com/title/tt1845307/). 6.7 / 79383 / cRank130 / year.2011–2017 /  
+
+302.[Bloodline](http://www.imdb.com/title/tt3520702/). 8.1 / 34617 / cRank321 / year.2015–2017 /  
+
+303.[Hawaii Five-0](http://www.imdb.com/title/tt1600194/). 7.4 / 55076 / cRank197 / year.2010–  /  
+
+304.[Courage the Cowardly Dog](http://www.imdb.com/title/tt0220880/). 8.3 / 29029 / cRank370 / year.1999–2002 /  
+
+305.[Boy Meets World](http://www.imdb.com/title/tt0105958/). 8.1 / 34184 / cRank327 / year.1993–2000 /  
+
+306.[Veep](http://www.imdb.com/title/tt1759761/). 8.2 / 31511 / cRank341 / year.2012–  /  
+
+307.[Atlanta](http://www.imdb.com/title/tt4288182/). 8.6 / 21598 / cRank480 / year.2016–  /  
+
+308.[Farscape](http://www.imdb.com/title/tt0187636/). 8.3 / 28794 / cRank371 / year.1999–2003 /  
+
+309.[Blindspot](http://www.imdb.com/title/tt4474344/). 7.5 / 51262 / cRank210 / year.2015–  /  
+
+310.[Girls](http://www.imdb.com/title/tt1723816/). 7.3 / 57435 / cRank188 / year.2012–2017 /  
+
+311.[Iron Fist](http://www.imdb.com/title/tt3322310/). 6.8 / 73986 / cRank147 / year.2017–  /  
+
+312.[Terra Nova](http://www.imdb.com/title/tt1641349/). 6.8 / 73823 / cRank148 / year.2011 /  
+
+313.[Star Trek: Voyager](http://www.imdb.com/title/tt0112178/). 7.7 / 44935 / cRank242 / year.1995–2001 /  
+
+314.[Star Trek: Deep Space Nine](http://www.imdb.com/title/tt0106145/). 7.9 / 39104 / cRank280 / year.1993–1999 /  
+
+315.[Designated Survivor](http://www.imdb.com/title/tt5296406/). 7.8 / 41776 / cRank266 / year.2016–  /  
+
+316.[Nikita](http://www.imdb.com/title/tt1592154/). 7.7 / 44556 / cRank247 / year.2010–2013 /  
+
+317.[Charmed](http://www.imdb.com/title/tt0158552/). 7.1 / 62846 / cRank171 / year.1998–2006 /  
+
+318.[Revolution](http://www.imdb.com/title/tt2070791/). 6.7 / 75717 / cRank143 / year.2012–2014 /  
+
+319.[3rd Rock from the Sun](http://www.imdb.com/title/tt0115082/). 7.8 / 40891 / cRank271 / year.1996–2001 /  
+
+320.[Mystery Science Theater 3000](http://www.imdb.com/title/tt0094517/). 8.6 / 20439 / cRank503 / year.1988–1999 /  
+
+321.[Dexter's Laboratory](http://www.imdb.com/title/tt0115157/). 8.0 / 34783 / cRank319 / year.1996–2003 /  
+
+322.[Legends of Tomorrow](http://www.imdb.com/title/tt4532368/). 7.0 / 63788 / cRank168 / year.2016–  /  
+
+323.[The Venture Bros.](http://www.imdb.com/title/tt0417373/). 8.6 / 20315 / cRank506 / year.2003–  /  
+
+324.[Leverage](http://www.imdb.com/title/tt1103987/). 7.9 / 37216 / cRank302 / year.2008–2012 /  
+
+325.[ER](http://www.imdb.com/title/tt0108757/). 7.7 / 42637 / cRank255 / year.1994–2009 /  
+
+326.[Berserk](http://www.imdb.com/title/tt0318871/). 8.6 / 20091 / cRank510 / year.1997–1998 /  
+
+327.[Dollhouse](http://www.imdb.com/title/tt1135300/). 7.7 / 42214 / cRank260 / year.2009–2010 /  
+
+328.[SGU Stargate Universe](http://www.imdb.com/title/tt1286039/). 7.7 / 41932 / cRank263 / year.2009–2011 /  
+
+329.[The Adventures of Sherlock Holmes](http://www.imdb.com/title/tt0086661/). 8.8 / 15758 / cRank621 / year.1984–1985 /  
+
+330.[Star Wars: The Clone Wars](http://www.imdb.com/title/tt0458290/). 8.0 / 33781 / cRank328 / year.2008–2015 /  
+
+331.[Cheers](http://www.imdb.com/title/tt0083399/). 7.8 / 38655 / cRank287 / year.1982–1993 /  
+
+332.[Top Gear](http://www.imdb.com/title/tt0163503/). 8.4 / 23974 / cRank439 / year.1978–2002 /  
+
+333.[An Idiot Abroad](http://www.imdb.com/title/tt1702042/). 8.3 / 26009 / cRank402 / year.2010–2012 /  
+
+334.[Supergirl](http://www.imdb.com/title/tt4016454/). 6.5 / 76345 / cRank138 / year.2015–  /  
+
+335.[Hart of Dixie](http://www.imdb.com/title/tt1832979/). 7.8 / 37974 / cRank294 / year.2011–2015 /  
+
+336.[Life on Mars](http://www.imdb.com/title/tt0478942/). 8.3 / 25782 / cRank411 / year.2006–2007 /  
+
+337.[The Last Ship](http://www.imdb.com/title/tt2402207/). 7.5 / 45906 / cRank236 / year.2014–  /  
+
+338.[Wayward Pines](http://www.imdb.com/title/tt2618986/). 7.5 / 45366 / cRank238 / year.2015–  /  
+
+339.[Wilfred](http://www.imdb.com/title/tt1703925/). 7.8 / 37239 / cRank301 / year.2011–2014 /  
+
+340.[Rescue Me](http://www.imdb.com/title/tt0381798/). 8.4 / 23058 / cRank453 / year.2004–2011 /  
+
+341.[The Boondocks](http://www.imdb.com/title/tt0373732/). 8.4 / 22985 / cRank455 / year.2005–2014 /  
+
+342.[Raising Hope](http://www.imdb.com/title/tt1615919/). 8.0 / 32120 / cRank336 / year.2010–2014 /  
+
+343.[The Black Adder](http://www.imdb.com/title/tt0084988/). 8.1 / 29658 / cRank360 / year.1982–1983 /  
+
+344.[Constantine](http://www.imdb.com/title/tt3489184/). 7.6 / 41868 / cRank264 / year.2014–2015 /  
+
+345.[Happy Valley](http://www.imdb.com/title/tt3428912/). 8.5 / 20643 / cRank499 / year.2014–  /  
+
+346.[Party Down](http://www.imdb.com/title/tt1073507/). 8.3 / 24760 / cRank429 / year.2009–2010 /  
+
+347.[Permanent Roommates](http://www.imdb.com/title/tt4156586/). 8.7 / 16338 / cRank603 / year.2014–  /  
+
+348.[Southland](http://www.imdb.com/title/tt1299368/). 8.4 / 22265 / cRank466 / year.2009–2013 /  
+
+349.[I, Claudius](http://http://www.imdb.com/title/tt0074006/). 8.9 / 12647 / cRank730 / year.1976 / supplementary
+
+350.[Warehouse 13](http://www.imdb.com/title/tt1132290/). 7.6 / 40718 / cRank272 / year.2009–2014 /  
+
+351.[Regular Show](http://www.imdb.com/title/tt1710308/). 8.4 / 22104 / cRank469 / year.2009–2017 /  
+
+352.[Everybody Loves Raymond](http://www.imdb.com/title/tt0115167/). 7.1 / 53828 / cRank200 / year.1996–2005 /  
+
+353.[Robot Chicken](http://www.imdb.com/title/tt0437745/). 7.8 / 35340 / cRank315 / year.2001–  /  
+
+354.[Parenthood](http://www.imdb.com/title/tt1416765/). 8.2 / 26149 / cRank398 / year.2010–2015 /  
+
+355.[Strike Back](http://www.imdb.com/title/tt1492179/). 8.3 / 23969 / cRank440 / year.2010–2017 /  
+
+356.[Masters of Sex](http://www.imdb.com/title/tt2137109/). 8.0 / 30506 / cRank352 / year.2013–2016 /  
+
+357.[Torchwood](http://www.imdb.com/title/tt0485301/). 7.8 / 35192 / cRank316 / year.2006–2011 /  
+
+358.[Bosch](http://www.imdb.com/title/tt3502248/). 8.3 / 23832 / cRank443 / year.2014–  /  
+
+359.[Alias](http://www.imdb.com/title/tt0285333/). 7.6 / 39823 / cRank276 / year.2001–2006 /  
+
+360.[The Young Pope](http://www.imdb.com/title/tt3655448/). 8.4 / 21638 / cRank478 / year.2016–  /  
+
+361.[Gomorrah](http://www.imdb.com/title/tt2049116/). 8.7 / 15802 / cRank620 / year.2014–  /  
+
+362.[Awkward.](http://www.imdb.com/title/tt1663676/). 7.6 / 39197 / cRank279 / year.2011–2016 /  
+
+363.[The Shannara Chronicles](http://www.imdb.com/title/tt1051220/). 7.4 / 43918 / cRank249 / year.2016–  /  
+
+364.[Isler Güçler](http://www.imdb.com/title/tt2311418/). 8.6 / 16970 / cRank588 / year.2012–2013 /  
+
+365.[Longmire](http://www.imdb.com/title/tt1836037/). 8.3 / 22498 / cRank463 / year.2012–2017 /  
+
+366.[The Thick of It](http://www.imdb.com/title/tt0459159/). 8.7 / 14908 / cRank650 / year.2005–2012 /  
+
+367.[The Last Man on Earth](http://www.imdb.com/title/tt3230454/). 7.4 / 42153 / cRank261 / year.2015–  /  
+
+368.[Babylon 5](http://www.imdb.com/title/tt0105946/). 8.2 / 24147 / cRank434 / year.1994–1998 /  
+
+369.[Generation War](http://http://www.imdb.com/title/tt1883092/). 8.5 / 18288 / cRank553 / year.2013 / supplementary
+
+370.[Broad City](http://www.imdb.com/title/tt2578560/). 8.4 / 20015 / cRank512 / year.2014–  /  
+
+371.[The Secret Circle](http://www.imdb.com/title/tt1837654/). 7.4 / 41388 / cRank269 / year.2011–2012 /  
+
+372.[Humans](http://www.imdb.com/title/tt4122068/). 8.0 / 27919 / cRank381 / year.2015–  /  
+
+373.[Into the Badlands](http://www.imdb.com/title/tt3865236/). 8.1 / 25822 / cRank409 / year.2015–  /  
+
+374.[Rectify](http://www.imdb.com/title/tt2183404/). 8.4 / 19868 / cRank517 / year.2013–2016 /  
+
+375.[The Killing](http://www.imdb.com/title/tt0826760/). 8.4 / 19864 / cRank518 / year.2007–2012 /  
+
+376.[Power](http://www.imdb.com/title/tt3281796/). 8.2 / 23573 / cRank445 / year.I) (2014–  /  
+
+377.[A Series of Unfortunate Events](http://www.imdb.com/title/tt4834206/). 7.9 / 29673 / cRank359 / year.2017–  /  
+
+378.[Damages](http://www.imdb.com/title/tt0914387/). 8.1 / 25486 / cRank415 / year.2007–2012 /  
+
+379.[Studio 60 on the Sunset Strip](http://www.imdb.com/title/tt0485842/). 8.3 / 21283 / cRank486 / year.2006–2007 /  
+
+380.[Bored to Death](http://www.imdb.com/title/tt1255913/). 7.9 / 29112 / cRank366 / year.2009–2011 /  
+
+381.[Reign](http://www.imdb.com/title/tt2710394/). 7.6 / 35398 / cRank312 / year.2013–2017 /  
+
+382.[Halt and Catch Fire](http://www.imdb.com/title/tt2543312/). 8.3 / 20994 / cRank492 / year.2014–2017 /  
+
+383.[The Affair](http://www.imdb.com/title/tt2699110/). 8.0 / 26647 / cRank392 / year.2014–  /  
+
+384.[Better Off Ted](http://www.imdb.com/title/tt1235547/). 8.2 / 22720 / cRank457 / year.2009–2010 /  
+
+385.[Touch](http://www.imdb.com/title/tt1821681/). 7.4 / 39404 / cRank277 / year.2012–2013 /  
+
+386.[I Love Lucy](http://www.imdb.com/title/tt0043208/). 8.4 / 19010 / cRank537 / year.1951–1957 /  
+
+387.[The Middle](http://www.imdb.com/title/tt1442464/). 7.5 / 37096 / cRank303 / year.2009–  /  
+
+388.[Dirk Gently's Holistic Detective Agency](http://www.imdb.com/title/tt4047038/). 8.3 / 20743 / cRank496 / year.2016–2017 /  
+
+389.[Ezel](http://www.imdb.com/title/tt1534360/). 8.5 / 17099 / cRank585 / year.2009–2011 /  
+
+390.[Godless](http://http://www.imdb.com/title/tt5516154/). 8.5 / 17006 / cRank587 / year.2017- / supplementary
+
+391.[Empire](http://www.imdb.com/title/tt3228904/). 7.7 / 32274 / cRank335 / year.2015–  /  
+
+392.['Allo 'Allo](http://www.imdb.com/title/tt0086659/). 8.3 / 20498 / cRank502 / year.1982–1992 /  
+
+393.[Sarabhai vs Sarabhai](http://www.imdb.com/title/tt1518542/). 8.8 / 12090 / cRank745 / year.2004–2017 /  
+
+394.[DuckTales](http://www.imdb.com/title/tt0092345/). 8.1 / 24072 / cRank435 / year.1987–1990 /  
+
+395.[The 4400](http://www.imdb.com/title/tt0389564/). 7.4 / 38431 / cRank290 / year.2004–2007 /  
+
+396.[Elfen Lied](http://www.imdb.com/title/tt0480489/). 8.1 / 23800 / cRank444 / year.2004 /  
+
+397.[Will & Grace](http://www.imdb.com/title/tt0157246/). 7.2 / 42534 / cRank256 / year.1998–  /  
+
+398.[The Good Doctor](http://www.imdb.com/title/tt6470478/). 8.5 / 16651 / cRank597 / year.2017–  /  
+
+399.[Spider-Man](http://www.imdb.com/title/tt0112175/). 8.3 / 20052 / cRank511 / year.1994–1998 /  
+
+400.[Happy Endings](http://www.imdb.com/title/tt1587678/). 7.7 / 31312 / cRank343 / year.2011–2013 /  
+
+401.[Columbo](http://www.imdb.com/title/tt1466074/). 8.2 / 21577 / cRank482 / year.1971–2003 /  
+
+402.[The Muppet Show](http://www.imdb.com/title/tt0074028/). 8.4 / 17983 / cRank559 / year.1976–1981 /  
+
+403.[Star Trek: Enterprise](http://www.imdb.com/title/tt0244365/). 7.5 / 34880 / cRank318 / year.2001–2005 /  
+
+404.[Quantico](http://www.imdb.com/title/tt4428122/). 7.1 / 43378 / cRank252 / year.2015–  /  
+
+405.[Monster](http://www.imdb.com/title/tt0434706/). 8.7 / 13015 / cRank717 / year.2004–2010 /  
+
+406.[Legend of the Seeker](http://www.imdb.com/title/tt0844653/). 7.7 / 30567 / cRank351 / year.2008–2010 /  
+
+407.[Through the Wormhole](http://www.imdb.com/title/tt1513168/). 8.6 / 14511 / cRank665 / year.2010–2017 /  
+
+408.[King of the Hill](http://www.imdb.com/title/tt0118375/). 7.3 / 38808 / cRank283 / year.1997–2010 /  
+
+409.[The Get Down](http://www.imdb.com/title/tt4592410/). 8.4 / 17695 / cRank566 / year.2016–2017 /  
+
+410.[Chicago Fire](http://www.imdb.com/title/tt2261391/). 7.9 / 26590 / cRank393 / year.2012–  /  
+
+411.[MacGyver](http://www.imdb.com/title/tt0088559/). 7.7 / 30356 / cRank353 / year.1985–1992 /  
+
+412.[The Mighty Boosh](http://www.imdb.com/title/tt0416394/). 8.4 / 17517 / cRank575 / year.2003–2007 /  
+
+413.[Lethal Weapon](http://www.imdb.com/title/tt5164196/). 8.1 / 22537 / cRank461 / year.2016–  /  
+
+414.[Phineas and Ferb](http://www.imdb.com/title/tt0852863/). 8.0 / 24262 / cRank433 / year.2007–2015 /  
+
+415.[The Goldbergs](http://www.imdb.com/title/tt2712740/). 8.2 / 20652 / cRank498 / year.2013–  /  
+
+416.[Kardes Payi](http://www.imdb.com/title/tt3671754/). 8.8 / 11228 / cRank786 / year.2014–2015 /  
+
+417.[V](http://www.imdb.com/title/tt1307824/). 6.8 / 48768 / cRank223 / year.2009–2011 /  
+
+418.[Episodes](http://www.imdb.com/title/tt1582350/). 7.8 / 27534 / cRank383 / year.2011–  /  
+
+419.[Man vs. Wild](http://www.imdb.com/title/tt0883772/). 8.2 / 20319 / cRank505 / year.2006–  /  
+
+420.[Quantum Leap](http://www.imdb.com/title/tt0096684/). 8.1 / 21939 / cRank473 / year.1989–1993 /  
+
+421.[Teenage Mutant Ninja Turtles](http://www.imdb.com/title/tt0131613/). 7.9 / 25428 / cRank416 / year.1987–1996 /  
+
+422.[My So-Called Life](http://www.imdb.com/title/tt0108872/). 8.4 / 16908 / cRank591 / year.1994–1995 /  
+
+423.[Drake & Josh](http://www.imdb.com/title/tt0363328/). 7.7 / 29110 / cRank368 / year.2004–2007 /  
+
+424.[Haven](http://www.imdb.com/title/tt1519931/). 7.6 / 31024 / cRank348 / year.2010–2015 /  
+
+425.[Invader ZIM](http://www.imdb.com/title/tt0235923/). 8.4 / 16798 / cRank595 / year.2001–2004 /  
+
+426.[Hustle](http://www.imdb.com/title/tt0379632/). 8.2 / 19977 / cRank514 / year.2004–2012 /  
+
+427.[Rurouni Kenshin: Wandering Samurai](http://www.imdb.com/title/tt0182629/). 8.6 / 13645 / cRank687 / year.1996–1998 /  
+
+428.[The Orville](http://www.imdb.com/title/tt5691552/). 7.9 / 24966 / cRank425 / year.2017–  /  
+
+429.[Jesus of Nazareth](http://http://www.imdb.com/title/tt0075520/). 8.5 / 15071 / cRank645 / year.1977 / supplementary
+
+430.[Scorpion](http://www.imdb.com/title/tt3514324/). 7.2 / 38166 / cRank292 / year.2014–  /  
+
+431.[Anne of Green Gables](http://http://www.imdb.com/title/tt0088727/). 8.4 / 16440 / cRank601 / year.1985 / supplementary
+
+432.[I'm Alan Partridge](http://www.imdb.com/title/tt0129690/). 8.5 / 14792 / cRank653 / year.1997–2002 /  
+
+433.[Star Trek: Discovery](http://www.imdb.com/title/tt5171438/). 7.4 / 33670 / cRank331 / year.2017–  /  
+
+434.[Pinky and the Brain](http://www.imdb.com/title/tt0112123/). 7.9 / 24321 / cRank432 / year.1995–1998 /  
+
+435.[Dragon Ball Z Kai](http://www.imdb.com/title/tt1409055/). 8.4 / 16144 / cRank609 / year.2009–2015 /  
+
+436.[Dark Matter](http://www.imdb.com/title/tt4159076/). 7.5 / 31190 / cRank346 / year.2015–2017 /  
+
+437.[Scooby Doo, Where Are You!](http://www.imdb.com/title/tt0063950/). 7.9 / 23925 / cRank441 / year.1969–1970 /  
+
+438.[Poldark](http://www.imdb.com/title/tt3636060/). 8.4 / 15900 / cRank616 / year.2015–  /  
+
+439.[Ghost in the Shell: Stand Alone Complex](http://www.imdb.com/title/tt0346314/). 8.5 / 14358 / cRank671 / year.2002–2005 /  
+
+440.[Law & Order](http://www.imdb.com/title/tt0098844/). 7.7 / 27058 / cRank386 / year.1990–2010 /  
+
+441.[Trigun](http://www.imdb.com/title/tt0251439/). 8.4 / 15663 / cRank624 / year.1998 /  
+
+442.[Wentworth Prison](http://www.imdb.com/title/tt2433738/). 8.7 / 11455 / cRank778 / year.2013–  /  
+
+443.[Grace and Frankie](http://www.imdb.com/title/tt3609352/). 8.2 / 18646 / cRank543 / year.2015–  /  
+
+444.[Daria](http://www.imdb.com/title/tt0118298/). 8.1 / 20191 / cRank508 / year.1997–2001 /  
+
+445.[12 Monkeys](http://www.imdb.com/title/tt3148266/). 7.6 / 28396 / cRank376 / year.2015–  /  
+
+446.[The A-Team](http://www.imdb.com/title/tt0084967/). 7.6 / 28386 / cRank377 / year.1983–1987 /  
+
+447.[The Golden Girls](http://www.imdb.com/title/tt0088526/). 7.8 / 24765 / cRank428 / year.1985–1992 /  
+
+448.[Lilyhammer](http://www.imdb.com/title/tt1958961/). 8.0 / 21459 / cRank483 / year.2012–2014 /  
+
+449.[The Exorcist](http://www.imdb.com/title/tt5368542/). 8.2 / 18315 / cRank552 / year.2016–  /  
+
+450.[Batman Beyond](http://www.imdb.com/title/tt0147746/). 8.1 / 19843 / cRank520 / year.1999–2001 /  
+
+451.[Atypical](http://www.imdb.com/title/tt6315640/). 8.4 / 15330 / cRank631 / year.2017–  /  
+
+452.[Full House](http://www.imdb.com/title/tt0092359/). 6.7 / 45333 / cRank240 / year.1987–1995 /  
+
+453.[Chicago P.D.](http://www.imdb.com/title/tt2805096/). 8.2 / 18202 / cRank554 / year.2014–  /  
+
+454.[Steven Universe](http://www.imdb.com/title/tt3061046/). 8.4 / 15217 / cRank636 / year.2013–  /  
+
+455.[CSI: NY](http://www.imdb.com/title/tt0395843/). 7.0 / 39044 / cRank281 / year.2004–2013 /  
+
+456.[Horace and Pete](http://www.imdb.com/title/tt5425186/). 8.7 / 11104 / cRank793 / year.2016 /  
+
+457.[The Kingdom](http://http://www.imdb.com/title/tt0108906/). 8.4 / 15094 / cRank642 / year.1994-1997 / supplementary
+
+458.[You're the Worst](http://www.imdb.com/title/tt3228420/). 8.2 / 17993 / cRank558 / year.2014–  /  
+
+459.[Hellsing Ultimate](http://www.imdb.com/title/tt0495212/). 8.4 / 15015 / cRank647 / year.2006–2012 /  
+
+460.[Queer as Folk](http://www.imdb.com/title/tt0262985/). 8.3 / 16406 / cRank602 / year.2000–2005 /  
+
+461.[The Sinner](http://www.imdb.com/title/tt6048596/). 8.0 / 20577 / cRank500 / year.2017 /  
+
+462.[Conan](http://www.imdb.com/title/tt1637574/). 8.1 / 19014 / cRank535 / year.2010–  /  
+
+463.[Borgen](http://www.imdb.com/title/tt1526318/). 8.5 / 13294 / cRank703 / year.2010–2013 /  
+
+464.[Hey Arnold!](http://www.imdb.com/title/tt0115200/). 7.7 / 25224 / cRank419 / year.1996–2004 /  
+
+465.[The Returned](http://www.imdb.com/title/tt2521668/). 8.2 / 17429 / cRank577 / year.2012–  /  
+
+466.[Sword Art Online](http://www.imdb.com/title/tt2250192/). 7.8 / 23548 / cRank446 / year.2012–  /  
+
+467.[Cougar Town](http://www.imdb.com/title/tt1441109/). 7.0 / 37380 / cRank300 / year.2009–2015 /  
+
+468.[Lost Girl](http://www.imdb.com/title/tt1429449/). 7.7 / 25087 / cRank422 / year.2010–2016 /  
+
+469.[Home Improvement](http://www.imdb.com/title/tt0101120/). 7.2 / 33694 / cRank330 / year.1991–1999 /  
+
+470.[The Marvelous Mrs. Maisel](http://http://www.imdb.com/title/tt5788792/). 9.0 / 7191 / cRank865 / year.2017 / supplementary
+
+471.[Everybody Hates Chris](http://www.imdb.com/title/tt0460637/). 7.4 / 30112 / cRank356 / year.2005–2009 /  
+
+472.[Mozart in the Jungle](http://www.imdb.com/title/tt3502172/). 8.2 / 17330 / cRank578 / year.2014–  /  
+
+473.[Garth Marenghi's Darkplace](http://www.imdb.com/title/tt0397150/). 8.5 / 13135 / cRank714 / year.2004–  /  
+
+474.[Goliath](http://www.imdb.com/title/tt4687880/). 8.3 / 15750 / cRank622 / year.2016–  /  
+
+475.[Ballers](http://www.imdb.com/title/tt2891574/). 7.6 / 26368 / cRank395 / year.2015–  /  
+
+476.[Alcatraz](http://www.imdb.com/title/tt1728102/). 7.0 / 36550 / cRank305 / year.2012 /  
+
+477.[Call the Midwife](http://www.imdb.com/title/tt1983079/). 8.4 / 14203 / cRank674 / year.2012–  /  
+
+478.[Kyle XY](http://www.imdb.com/title/tt0756509/). 7.6 / 26087 / cRank399 / year.2006–2009 /  
+
+479.[The Tomorrow People](http://www.imdb.com/title/tt2660734/). 7.3 / 31063 / cRank347 / year.2013–2014 /  
+
+480.[Defiance](http://www.imdb.com/title/tt2189221/). 7.0 / 36276 / cRank307 / year.2013–2015 /  
+
+481.[Rizzoli & Isles](http://www.imdb.com/title/tt1551632/). 7.6 / 25883 / cRank405 / year.2010–2016 /  
+
+482.[Top of the Lake](http://www.imdb.com/title/tt2103085/). 7.6 / 25841 / cRank407 / year.2013–  /  
+
+483.[Scenes from a Marriage](http://http://www.imdb.com/title/tt0070644/). 8.5 / 12748 / cRank727 / year.1973 / supplementary
+
+484.[Tokyo Ghoul](http://www.imdb.com/title/tt3741634/). 8.1 / 18137 / cRank555 / year.2014 /  
+
+485.[CSI: Miami](http://www.imdb.com/title/tt0313043/). 6.4 / 47010 / cRank230 / year.2002–2012 /  
+
+486.[Derek](http://www.imdb.com/title/tt2616280/). 8.0 / 19403 / cRank528 / year.2012–2014 /  
+
+487.[Late Night with Conan O'Brien](http://www.imdb.com/title/tt0106052/). 8.3 / 15150 / cRank638 / year.1993–2009 /  
+
+488.[The Flintstones](http://www.imdb.com/title/tt0053502/). 7.5 / 26977 / cRank388 / year.1960–1966 /  
+
+489.[Beauty and the Beast](http://www.imdb.com/title/tt2193041/). 7.2 / 31895 / cRank338 / year.2012–2016 /  
+
+490.[Alfred Hitchcock Presents](http://www.imdb.com/title/tt0047708/). 8.6 / 11246 / cRank785 / year.1955–1962 /  
+
+491.[The Unit](http://www.imdb.com/title/tt0460690/). 8.1 / 17749 / cRank563 / year.2006–2009 /  
+
+492.[Being Human](http://www.imdb.com/title/tt1349938/). 7.8 / 21844 / cRank474 / year.2008–2013 /  
+
+493.[NCIS: Los Angeles](http://www.imdb.com/title/tt1378167/). 6.7 / 40099 / cRank275 / year.2009–  /  
+
+494.[Hemlock Grove](http://www.imdb.com/title/tt2309295/). 7.2 / 31330 / cRank342 / year.2013–2015 /  
+
+495.[From the Earth to the Moon](http://http://www.imdb.com/title/tt0120570/). 8.8 / 8782 / cRank858 / year.1998 / supplementary
+
+496.[The Bugs Bunny/Looney Tunes Comedy Hour](http://www.imdb.com/title/tt0088491/). 8.4 / 13479 / cRank694 / year.1985–1986 /  
+
+497.[Pokémon](http://www.imdb.com/title/tt0176385/). 7.5 / 26231 / cRank396 / year.1997–  /  
+
+498.[Reaper](http://www.imdb.com/title/tt0955322/). 7.8 / 21620 / cRank479 / year.2007–2009 /  
+
+499.[Roots](http://http://www.imdb.com/title/tt0075572/). 8.4 / 13376 / cRank699 / year.1977 / supplementary
+
+500.[Parasyte: The Maxim](http://www.imdb.com/title/tt3358020/). 8.5 / 12117 / cRank742 / year.2014–  /  
+
+501.[Ed, Edd n Eddy](http://www.imdb.com/title/tt0184111/). 7.5 / 26030 / cRank401 / year.1999–2008 /  
+
+502.[The Powerpuff Girls](http://www.imdb.com/title/tt0175058/). 7.3 / 29168 / cRank365 / year.1998–2005 /  
+
+503.[Rugrats](http://www.imdb.com/title/tt0101188/). 7.5 / 25855 / cRank406 / year.1990–2006 /  
+
+504.[The Magicians](http://www.imdb.com/title/tt4254242/). 7.5 / 25827 / cRank408 / year.2015–  /  
+
+505.[Jane the Virgin](http://www.imdb.com/title/tt3566726/). 7.8 / 21262 / cRank487 / year.2014–  /  
+
+506.[The Adventures of Tintin](http://www.imdb.com/title/tt0179552/). 8.3 / 14425 / cRank669 / year.1991–1992 /  
+
+507.[Dark Angel](http://www.imdb.com/title/tt0204993/). 7.4 / 27190 / cRank384 / year.2000–2002 /  
+
+508.[Love](http://www.imdb.com/title/tt4061080/). 7.7 / 22619 / cRank460 / year.2016–  /  
+
+509.[The Cosby Show](http://www.imdb.com/title/tt0086687/). 7.4 / 27179 / cRank385 / year.1984–1992 /  
+
+510.[Police Squad!](http://www.imdb.com/title/tt0083466/). 8.5 / 11908 / cRank755 / year.1982 /  
+
+511.[Numb3rs](http://www.imdb.com/title/tt0433309/). 6.9 / 35354 / cRank314 / year.2005–2010 /  
+
+512.[Don't Trust the B---- in Apartment 23](http://www.imdb.com/title/tt1819509/). 7.3 / 28682 / cRank372 / year.2012–2013 /  
+
+513.[The Fosters](http://www.imdb.com/title/tt2262532/). 7.9 / 19634 / cRank523 / year.2013–  /  
+
+514.[Absolutely Fabulous](http://www.imdb.com/title/tt0105929/). 8.2 / 15546 / cRank628 / year.1992–2012 /  
+
+515.[The Angry Video Game Nerd](http://www.imdb.com/title/tt1230180/). 8.5 / 11803 / cRank760 / year.2004–  /  
+
+516.[Rules of Engagement](http://www.imdb.com/title/tt0790772/). 7.3 / 28458 / cRank375 / year.2007–2013 /  
+
+517.[Santa Clarita Diet](http://www.imdb.com/title/tt5580540/). 7.7 / 22367 / cRank465 / year.2017–  /  
+
+518.[United States of Tara](http://www.imdb.com/title/tt1001482/). 7.9 / 19436 / cRank527 / year.2009–2011 /  
+
+519.[Awake](http://www.imdb.com/title/tt1839683/). 7.9 / 19312 / cRank529 / year.2012 /  
+
+520.[Switched at Birth](http://www.imdb.com/title/tt1758772/). 7.8 / 20677 / cRank497 / year.2011–2017 /  
+
+521.[Moonlight](http://www.imdb.com/title/tt0955346/). 7.7 / 22066 / cRank470 / year.2007–2008 /  
+
+522.[Blue Bloods](http://www.imdb.com/title/tt1595859/). 7.5 / 24959 / cRank426 / year.2010–  /  
+
+523.[Star Wars: Rebels](http://www.imdb.com/title/tt2930604/). 8.0 / 17821 / cRank561 / year.2014–  /  
+
+524.[Olive Kitteridge](http://http://www.imdb.com/title/tt3012698/). 8.4 / 12738 / cRank728 / year.2014- / supplementary
+
+525.[Devious Maids](http://www.imdb.com/title/tt2226342/). 7.9 / 19148 / cRank532 / year.2013–2016 /  
+
+526.[Summer Heights High](http://www.imdb.com/title/tt0934320/). 8.4 / 12704 / cRank729 / year.2007 /  
+
+527.[The Transformers](http://www.imdb.com/title/tt0086817/). 8.0 / 17674 / cRank569 / year.1984–1987 /  
+
+528.[Feud](http://www.imdb.com/title/tt1984119/). 8.6 / 10307 / cRank833 / year.2017–  /  
+
+529.[Ripper Street](http://www.imdb.com/title/tt2183641/). 8.1 / 16279 / cRank606 / year.2012–  /  
+
+530.[ALF](http://www.imdb.com/title/tt0090390/). 7.4 / 26042 / cRank400 / year.1986–1990 /  
+
+531.[Tyrant](http://www.imdb.com/title/tt2568204/). 7.8 / 20250 / cRank507 / year.2014–  /  
+
+532.[Travelers](http://www.imdb.com/title/tt5651844/). 8.0 / 17528 / cRank574 / year.II) (2016–  /  
+
+533.[In Treatment](http://www.imdb.com/title/tt0835434/). 8.3 / 13724 / cRank686 / year.2008–2010 /  
+
+534.[My Mad Fat Diary](http://www.imdb.com/title/tt2407574/). 8.4 / 12507 / cRank732 / year.2013–  /  
+
+535.[Dracula](http://www.imdb.com/title/tt2296682/). 7.4 / 25887 / cRank404 / year.2013–2014 /  
+
+536.[The Ricky Gervais Show](http://www.imdb.com/title/tt1553644/). 8.3 / 13627 / cRank688 / year.2010–2012 /  
+
+537.[Samurai X: Trust and Betrayal](http://http://www.imdb.com/title/tt0203082/). 8.6 / 10179 / cRank841 / year.1999- / supplementary
+
+538.[House of Cards](http://http://www.imdb.com/title/tt0098825/). 8.6 / 10162 / cRank842 / year.1990 / supplementary
+
+539.[Nurse Jackie](http://www.imdb.com/title/tt1190689/). 7.7 / 21382 / cRank484 / year.2009–2015 /  
+
+540.[Sneaky Pete](http://www.imdb.com/title/tt5011816/). 8.3 / 13571 / cRank691 / year.2015–  /  
+
+541.[Boss](http://www.imdb.com/title/tt1833285/). 8.1 / 16008 / cRank613 / year.2011–2012 /  
+
+542.[Johnny Bravo](http://www.imdb.com/title/tt0118360/). 7.3 / 27018 / cRank387 / year.1997–2004 /  
+
+543.[Endeavour](http://www.imdb.com/title/tt2701582/). 8.6 / 10087 / cRank845 / year.2012–  /  
+
+544.[Tales from the Crypt](http://www.imdb.com/title/tt0096708/). 8.0 / 17216 / cRank582 / year.1989–1996 /  
+
+545.[Teen Titans](http://www.imdb.com/title/tt0343314/). 7.8 / 19859 / cRank519 / year.2003–2006 /  
+
+546.[Metalocalypse](http://www.imdb.com/title/tt0839188/). 8.3 / 13486 / cRank693 / year.2006–2013 /  
+
+547.[Scream Queens](http://www.imdb.com/title/tt4145384/). 7.2 / 28469 / cRank374 / year.2015–2016 /  
+
+548.[The Missing](http://www.imdb.com/title/tt3877200/). 8.2 / 14654 / cRank661 / year.2014–  /  
+
+549.[The Prisoner](http://www.imdb.com/title/tt0061287/). 8.6 / 10050 / cRank848 / year.1967–1968 /  
+
+550.[TURN: Washington's Spies](http://www.imdb.com/title/tt2543328/). 8.1 / 15868 / cRank618 / year.2014–2017 /  
+
+551.[Suburgatory](http://www.imdb.com/title/tt1741256/). 7.2 / 28384 / cRank378 / year.2011–2014 /  
+
+552.[Las Vegas](http://www.imdb.com/title/tt0364828/). 7.5 / 23916 / cRank442 / year.2003–2008 /  
+
+553.[The Good Place](http://www.imdb.com/title/tt4955642/). 7.9 / 18376 / cRank551 / year.2016–  /  
+
+554.[Yes Minister](http://http://www.imdb.com/title/tt0080306/). 8.7 / 8946 / cRank857 / year.1980-1984 / supplementary
+
+555.[The Mindy Project](http://www.imdb.com/title/tt2211129/). 7.4 / 25063 / cRank423 / year.2012–  /  
+
+556.[Greek](http://www.imdb.com/title/tt0976014/). 7.6 / 22192 / cRank468 / year.2007–2011 /  
+
+557.[The New Batman Adventures](http://http://www.imdb.com/title/tt0118266/). 8.6 / 9843 / cRank850 / year.1997-1999 / supplementary
+
+558.[Beavis and Butt-Head](http://www.imdb.com/title/tt0105950/). 7.5 / 23431 / cRank447 / year.1993–2011 /  
+
+559.[Fairy Tail](http://www.imdb.com/title/tt1528406/). 8.2 / 14290 / cRank672 / year.2009–  /  
+
+560.[Xena: Warrior Princess](http://www.imdb.com/title/tt0112230/). 6.7 / 35370 / cRank313 / year.1995–2001 /  
+
+561.[Roswell](http://www.imdb.com/title/tt0201391/). 7.5 / 23313 / cRank451 / year.1999–2002 /  
+
+562.[GLOW](http://www.imdb.com/title/tt5770786/). 8.0 / 16637 / cRank598 / year.2017–  /  
+
+563.[Line of Duty](http://www.imdb.com/title/tt2303687/). 8.5 / 10757 / cRank813 / year.2012–  /  
+
+564.[Recess](http://www.imdb.com/title/tt0126170/). 7.9 / 17787 / cRank562 / year.1997–2001 /  
+
+565.[Roseanne](http://www.imdb.com/title/tt0094540/). 7.0 / 30356 / cRank354 / year.1988–1997 /  
+
+566.[Animaniacs](http://www.imdb.com/title/tt0105941/). 7.9 / 17732 / cRank565 / year.1993–1998 /  
+
+567.[Harper's Island](http://www.imdb.com/title/tt1232320/). 7.5 / 23018 / cRank454 / year.2009 /  
+
+568.[Scream: The TV Series](http://www.imdb.com/title/tt3921180/). 7.3 / 25802 / cRank410 / year.2015–  /  
+
+569.[Homicide: Life on the Street](http://http://www.imdb.com/title/tt0106028/). 8.6 / 9632 / cRank852 / year.1993-1999 / supplementary
+
+570.[Northern Exposure](http://www.imdb.com/title/tt0098878/). 8.3 / 12884 / cRank722 / year.1990–1995 /  
+
+571.[Ugly Betty](http://www.imdb.com/title/tt0805669/). 6.6 / 36257 / cRank308 / year.2006–2010 /  
+
+572.[Nashville](http://www.imdb.com/title/tt2281375/). 7.7 / 20115 / cRank509 / year.2012–2018 /  
+
+573.[Aqua Teen Hunger Force](http://www.imdb.com/title/tt0297494/). 7.7 / 19987 / cRank513 / year.2000–2015 /  
+
+574.[The Nanny](http://www.imdb.com/title/tt0106080/). 6.9 / 31239 / cRank345 / year.1993–1999 /  
+
+575.[Witches of East End](http://www.imdb.com/title/tt2288064/). 7.6 / 21230 / cRank488 / year.2013–2014 /  
+
+576.[Alphas](http://www.imdb.com/title/tt1183865/). 7.3 / 25304 / cRank417 / year.2011–2012 /  
+
+577.[MI-5](http://www.imdb.com/title/tt0160904/). 8.3 / 12589 / cRank731 / year.2002–2011 /  
+
+578.[The L Word](http://www.imdb.com/title/tt0330251/). 7.6 / 21099 / cRank491 / year.2004–2009 /  
+
+579.[Star Wars: Clone Wars](http://www.imdb.com/title/tt0361243/). 7.8 / 18517 / cRank548 / year.2003–2005 /  
+
+580.[Being Human](http://www.imdb.com/title/tt1595680/). 7.5 / 22419 / cRank464 / year.2011–2014 /  
+
+581.[Ghost Whisperer](http://www.imdb.com/title/tt0460644/). 6.4 / 38727 / cRank286 / year.2005–2010 /  
+
+582.[Transparent](http://www.imdb.com/title/tt3502262/). 7.8 / 18438 / cRank549 / year.2014–  /  
+
+583.[Rocko's Modern Life](http://www.imdb.com/title/tt0106115/). 8.0 / 15872 / cRank617 / year.1993–1996 /  
+
+584.[Erased](http://http://www.imdb.com/title/tt5249462/). 8.6 / 9260 / cRank853 / year.2016- / supplementary
+
+585.[Cold Case](http://www.imdb.com/title/tt0368479/). 7.6 / 20759 / cRank495 / year.2003–2010 /  
+
+586.[The Return of Sherlock Holmes](http://http://www.imdb.com/title/tt0090509/). 8.8 / 7321 / cRank864 / year.1986-1988 / supplementary
+
+587.[Key and Peele](http://www.imdb.com/title/tt1981558/). 8.3 / 12269 / cRank735 / year.2012–2015 /  
+
+588.[Avrupa Yakasi](http://www.imdb.com/title/tt0421291/). 8.4 / 11027 / cRank795 / year.2004–2009 /  
+
+589.[The Musketeers](http://www.imdb.com/title/tt2733252/). 7.8 / 17693 / cRank567 / year.2014–  /  
+
+590.[Covert Affairs](http://www.imdb.com/title/tt1495708/). 7.3 / 24043 / cRank436 / year.2010–2014 /  
+
+591.[The Black Donnellys](http://www.imdb.com/title/tt0805661/). 8.2 / 13083 / cRank715 / year.2007–  /  
+
+592.[Undeclared](http://www.imdb.com/title/tt0273028/). 8.0 / 15300 / cRank633 / year.2001–2003 /  
+
+593.[The Fairly OddParents](http://www.imdb.com/title/tt0235918/). 7.2 / 25265 / cRank418 / year.2001–  /  
+
+594.[Vinyl](http://www.imdb.com/title/tt3186130/). 7.8 / 17547 / cRank572 / year.2016 /  
+
+595.[Looking](http://www.imdb.com/title/tt2581458/). 8.2 / 12940 / cRank719 / year.2014–2015 /  
+
+596.[The Ranch](http://www.imdb.com/title/tt4998212/). 7.7 / 18635 / cRank544 / year.2016–  /  
+
+597.[Jeeves and Wooster](http://http://www.imdb.com/title/tt0098833/). 8.5 / 9791 / cRank851 / year.1990-1993 / supplementary
+
+598.[Midsomer Murders](http://www.imdb.com/title/tt0118401/). 7.8 / 17317 / cRank580 / year.1997–  /  
+
+599.[The Closer](http://www.imdb.com/title/tt0458253/). 7.6 / 19665 / cRank522 / year.2005–2012 /  
+
+600.[All in the Family](http://www.imdb.com/title/tt0066626/). 8.3 / 11627 / cRank765 / year.1971–1979 /  
+
+601.[Little Britain](http://www.imdb.com/title/tt0358856/). 7.7 / 18133 / cRank556 / year.2003–2006 /  
+
+602.[Last Man Standing](http://www.imdb.com/title/tt1828327/). 7.5 / 20510 / cRank501 / year.2011–2017 /  
+
+603.[Spin City](http://www.imdb.com/title/tt0115369/). 7.3 / 22976 / cRank456 / year.1996–2002 /  
+
+604.[Saved by the Bell](http://www.imdb.com/title/tt0096694/). 7.0 / 26897 / cRank390 / year.1989–1992 /  
+
+605.[Brass Eye](http://http://www.imdb.com/title/tt0118273/). 8.7 / 7672 / cRank861 / year.1997-2001 / supplementary
+
+606.[Big Mouth](http://www.imdb.com/title/tt6524350/). 8.1 / 13547 / cRank692 / year.2017–  /  
+
+607.[House of Lies](http://www.imdb.com/title/tt1797404/). 7.4 / 21655 / cRank477 / year.2012–2016 /  
+
+608.[Fresh Off the Boat](http://www.imdb.com/title/tt3551096/). 7.9 / 15661 / cRank626 / year.2015–  /  
+
+609.[Timeless](http://www.imdb.com/title/tt5511582/). 7.6 / 18986 / cRank538 / year.2016–  /  
+
+610.[Foyle's War](http://www.imdb.com/title/tt0310455/). 8.4 / 10313 / cRank831 / year.2002–2015 /  
+
+611.[Wonderfalls](http://www.imdb.com/title/tt0361256/). 8.3 / 11221 / cRank787 / year.2004 /  
+
+612.[Go On](http://www.imdb.com/title/tt2300923/). 7.6 / 18765 / cRank542 / year.2012–2013 /  
+
+613.[Genius](http://www.imdb.com/title/tt5673782/). 8.4 / 10203 / cRank840 / year.2017–  /  
+
+614.[90210](http://www.imdb.com/title/tt1225901/). 6.1 / 38490 / cRank288 / year.2008–2013 /  
+
+615.[Shadowhunters: The Mortal Instruments](http://www.imdb.com/title/tt4145054/). 6.5 / 32655 / cRank334 / year.2016–  /  
+
+616.[Shooter](http://www.imdb.com/title/tt4181172/). 7.6 / 18540 / cRank547 / year.2016–  /  
+
+617.[Mushi-Shi](http://http://www.imdb.com/title/tt0807832/). 8.5 / 9130 / cRank854 / year.2005-2006 / supplementary
+
+618.[Big Love](http://www.imdb.com/title/tt0421030/). 7.6 / 18424 / cRank550 / year.2006–2011 /  
+
+619.[Vice Principals](http://www.imdb.com/title/tt3766376/). 8.0 / 14008 / cRank681 / year.2016–  /  
+
+620.[Human Target](http://www.imdb.com/title/tt1439741/). 7.8 / 16093 / cRank611 / year.2010–2011 /  
+
+621.[How to Make It in America](http://www.imdb.com/title/tt1299365/). 8.0 / 13896 / cRank683 / year.2010–  /  
+
+622.[The Avengers: Earth's Mightiest Heroes](http://www.imdb.com/title/tt1626038/). 8.3 / 10886 / cRank806 / year.2010–2012 /  
+
+623.[F Is for Family](http://www.imdb.com/title/tt4326894/). 8.0 / 13878 / cRank685 / year.2015–  /  
+
+624.[Treme](http://www.imdb.com/title/tt1279972/). 8.2 / 11806 / cRank759 / year.2010–2013 /  
+
+625.[The Big C](http://www.imdb.com/title/tt1515193/). 8.1 / 12786 / cRank725 / year.2010–2013 /  
+
+626.[My Little Pony: Friendship Is Magic](http://www.imdb.com/title/tt1751105/). 7.7 / 16939 / cRank589 / year.2010–  /  
+
+627.[Are You Afraid of the Dark?](http://www.imdb.com/title/tt0103352/). 8.3 / 10747 / cRank814 / year.1990–2000 /  
+
+628.[Victoria](http://www.imdb.com/title/tt5137338/). 8.2 / 11573 / cRank769 / year.2016–  /  
+
+629.[Last Resort](http://www.imdb.com/title/tt2172103/). 7.4 / 19903 / cRank516 / year.2012–2013 /  
+
+630.[Dawson's Creek](http://www.imdb.com/title/tt0118300/). 6.6 / 29718 / cRank358 / year.1998–2003 /  
+
+631.[Miami Vice](http://www.imdb.com/title/tt0086759/). 7.5 / 18609 / cRank545 / year.1984–1990 /  
+
+632.[Anger Management](http://www.imdb.com/title/tt1986770/). 6.7 / 28210 / cRank380 / year.2012–2014 /  
+
+633.[Joey](http://www.imdb.com/title/tt0375355/). 6.0 / 37631 / cRank299 / year.2004–2006 /  
+
+634.[The Young Ones](http://www.imdb.com/title/tt0083505/). 8.2 / 11332 / cRank781 / year.1982–1984 /  
+
+635.[The Event](http://www.imdb.com/title/tt1582459/). 7.0 / 24346 / cRank431 / year.2010–2011 /  
+
+636.[Reno 911!](http://www.imdb.com/title/tt0370194/). 7.9 / 14197 / cRank675 / year.2003–2009 /  
+
+637.[Shameless](http://www.imdb.com/title/tt0377260/). 8.1 / 12209 / cRank739 / year.2004–2013 /  
+
+638.[Law & Order: Criminal Intent](http://www.imdb.com/title/tt0275140/). 7.4 / 19512 / cRank525 / year.2001–2011 /  
+
+639.[The Amazing World of Gumball](http://www.imdb.com/title/tt1942683/). 8.1 / 12081 / cRank747 / year.2011–  /  
+
+640.[Flashpoint](http://www.imdb.com/title/tt1059475/). 7.8 / 15049 / cRank646 / year.2008–2012 /  
+
+641.[Wet Hot American Summer: First Day of Camp](http://www.imdb.com/title/tt4341500/). 7.4 / 19146 / cRank533 / year.2015 /  
+
+642.[Galavant](http://www.imdb.com/title/tt3305096/). 8.1 / 11945 / cRank752 / year.2015–2016 /  
+
+643.[Portlandia](http://www.imdb.com/title/tt1780441/). 7.8 / 14876 / cRank652 / year.2011–  /  
+
+644.[Tengen toppa gurren lagann](http://www.imdb.com/title/tt0948103/). 8.3 / 10082 / cRank846 / year.2007 /  
+
+645.[According to Jim](http://www.imdb.com/title/tt0285351/). 6.4 / 30922 / cRank349 / year.2001–2009 /  
+
+646.[Ally McBeal](http://www.imdb.com/title/tt0118254/). 6.8 / 25898 / cRank403 / year.1997–2002 /  
+
+647.[Penn & Teller: Bullshit!](http://www.imdb.com/title/tt0346369/). 8.2 / 10902 / cRank805 / year.2003–2010 /  
+
+648.[The Carrie Diaries](http://www.imdb.com/title/tt2056366/). 7.0 / 23353 / cRank449 / year.2013–2014 /  
+
+649.[Helix](http://www.imdb.com/title/tt2758950/). 6.8 / 25707 / cRank412 / year.2014–2015 /  
+
+650.[The Grim Adventures of Billy & Mandy](http://www.imdb.com/title/tt0292800/). 7.7 / 15663 / cRank625 / year.2001–2007 /  
+
+651.[The Ren & Stimpy Show](http://www.imdb.com/title/tt0101178/). 7.5 / 17735 / cRank564 / year.1991–1996 /  
+
+652.[Please Like Me](http://http://www.imdb.com/title/tt2155025/). 8.4 / 9029 / cRank855 / year.2013-2016 / supplementary
+
+653.[Dragon Ball Super](http://www.imdb.com/title/tt4644488/). 8.1 / 11641 / cRank764 / year.2015–  /  
+
+654.[Superman](http://www.imdb.com/title/tt0115378/). 8.2 / 10732 / cRank815 / year.1996–2000 /  
+
+655.[American Vandal](http://www.imdb.com/title/tt6877772/). 8.2 / 10686 / cRank817 / year.2017–  /  
+
+656.[Brothers & Sisters](http://www.imdb.com/title/tt0758737/). 7.3 / 19628 / cRank524 / year.2006–2011 /  
+
+657.[Yu Yu Hakusho: Ghost Files](http://http://www.imdb.com/title/tt0185133/). 8.4 / 8953 / cRank856 / year.1992-1995 / supplementary
+
+658.[Gargoyles](http://www.imdb.com/title/tt0108783/). 8.1 / 11576 / cRank768 / year.1994–1996 /  
+
+659.[Thundercats](http://www.imdb.com/title/tt0088631/). 7.9 / 13442 / cRank696 / year.1985–1989 /  
+
+660.[8 Simple Rules](http://www.imdb.com/title/tt0312081/). 7.1 / 21764 / cRank475 / year.2002–2005 /  
+
+661.[Caprica](http://www.imdb.com/title/tt0799862/). 7.1 / 21737 / cRank476 / year.2009–2010 /  
+
+662.[Knight Rider](http://www.imdb.com/title/tt0083437/). 6.9 / 24019 / cRank437 / year.1982–1986 /  
+
+663.[Yes, Prime Minister](http://http://www.imdb.com/title/tt0086831/). 8.7 / 6505 / cRank866 / year.1986-1987 / supplementary
+
+664.[Magnum, P.I.](http://www.imdb.com/title/tt0080240/). 7.5 / 17315 / cRank581 / year.1980–1988 /  
+
+665.[Medium](http://www.imdb.com/title/tt0412175/). 7.0 / 22651 / cRank459 / year.2005–2011 /  
+
+666.[Smash](http://www.imdb.com/title/tt1825133/). 7.7 / 15147 / cRank639 / year.2012–2013 /  
+
+667.[State of Play](http://http://www.imdb.com/title/tt0362192/). 8.5 / 7937 / cRank860 / year.2003- / supplementary
+
+668.[Castlevania](http://www.imdb.com/title/tt6517102/). 8.0 / 12215 / cRank737 / year.2017–  /  
+
+669.[The Gifted](http://www.imdb.com/title/tt4396630/). 7.9 / 13139 / cRank713 / year.2017–  /  
+
+670.[The Bridge](http://www.imdb.com/title/tt2406376/). 7.6 / 16023 / cRank612 / year.I) (2013–2014 /  
+
+671.[Sabrina, the Teenage Witch](http://www.imdb.com/title/tt0115341/). 6.6 / 26960 / cRank389 / year.1996–2003 /  
+
+672.[Foster's Home for Imaginary Friends](http://www.imdb.com/title/tt0419326/). 7.7 / 14945 / cRank648 / year.2004–2009 /  
+
+673.[Perception](http://www.imdb.com/title/tt1714204/). 7.5 / 16813 / cRank594 / year.2012–2015 /  
+
+674.[Rookie Blue](http://www.imdb.com/title/tt1442065/). 7.7 / 14737 / cRank658 / year.2010–2015 /  
+
+675.[Graceland](http://www.imdb.com/title/tt2393813/). 7.7 / 14696 / cRank660 / year.2013–2015 /  
+
+676.[Stalker](http://www.imdb.com/title/tt3560094/). 7.6 / 15412 / cRank630 / year.2014–2015 /  
+
+677.[Z Nation](http://www.imdb.com/title/tt3843168/). 6.7 / 24766 / cRank427 / year.2014–  /  
+
+678.[Hung](http://www.imdb.com/title/tt1229413/). 7.2 / 19268 / cRank530 / year.2009–2011 /  
+
+679.[Hellsing](http://www.imdb.com/title/tt0325547/). 8.0 / 11563 / cRank770 / year.2001–2002 /  
+
+680.[Da Ali G Show](http://www.imdb.com/title/tt0367274/). 8.0 / 11544 / cRank772 / year.2003–2004 /  
+
+681.[Wizards of Waverly Place](http://www.imdb.com/title/tt0799922/). 6.8 / 23350 / cRank450 / year.2007–2012 /  
+
+682.[Animal Kingdom](http://www.imdb.com/title/tt5574490/). 8.1 / 10673 / cRank818 / year.2016–  /  
+
+683.[Salem](http://www.imdb.com/title/tt2963254/). 7.2 / 19011 / cRank536 / year.2014–2017 /  
+
+684.[The Lying Game](http://www.imdb.com/title/tt1798274/). 7.4 / 16938 / cRank590 / year.2011–2013 /  
+
+685.[Jackass](http://www.imdb.com/title/tt0264263/). 7.2 / 18919 / cRank540 / year.2000–2002 /  
+
+686.[In the Flesh](http://www.imdb.com/title/tt2480514/). 8.0 / 11375 / cRank780 / year.2013–  /  
+
+687.[Kenan & Kel](http://www.imdb.com/title/tt0115231/). 7.9 / 12214 / cRank738 / year.1996–2000 /  
+
+688.[iCarly](http://www.imdb.com/title/tt0972534/). 6.5 / 26192 / cRank397 / year.2007–2012 /  
+
+689.[Anne with an E](http://http://www.imdb.com/title/tt5421602/). 8.5 / 7336 / cRank863 / year.2017- / supplementary
+
+690.[The League of Gentlemen](http://http://www.imdb.com/title/tt0184135/). 8.4 / 8073 / cRank859 / year.1999-2017 / supplementary
+
+691.[My Wife and Kids](http://www.imdb.com/title/tt0273855/). 6.8 / 22692 / cRank458 / year.2001–2005 /  
+
+692.[Moonlighting](http://www.imdb.com/title/tt0088571/). 7.6 / 14734 / cRank659 / year.1985–1989 /  
+
+693.[Sanctuary](http://www.imdb.com/title/tt0965394/). 7.4 / 16600 / cRank599 / year.2008–2011 /  
+
+694.[Inuyasha](http://www.imdb.com/title/tt0290223/). 7.9 / 11946 / cRank751 / year.2000–2004 /  
+
+695.[Baby Daddy](http://www.imdb.com/title/tt2177489/). 7.4 / 16450 / cRank600 / year.2012–2017 /  
+
+696.[Digimon: Digital Monsters](http://www.imdb.com/title/tt0210418/). 7.3 / 17320 / cRank579 / year.1999–2003 /  
+
+697.[Mom](http://www.imdb.com/title/tt2660806/). 7.1 / 19214 / cRank531 / year.2013–  /  
+
+698.[A Young Doctor's Notebook & Other Stories](http://www.imdb.com/title/tt2164430/). 7.9 / 11838 / cRank757 / year.2012–  /  
+
+699.[Madam Secretary](http://www.imdb.com/title/tt3501074/). 7.6 / 14462 / cRank666 / year.2014–  /  
+
+700.[Gavin & Stacey](http://www.imdb.com/title/tt0908454/). 8.0 / 10977 / cRank799 / year.2007–  /  
+
+701.[Outcast](http://www.imdb.com/title/tt4229954/). 7.5 / 15286 / cRank635 / year.2016–  /  
+
+702.[The Finder](http://www.imdb.com/title/tt1943524/). 7.7 / 13292 / cRank705 / year.2012 /  
+
+703.[Saint Seiya](http://http://www.imdb.com/title/tt0161952/). 8.7 / 5644 / cRank870 / year.1986-1989 / supplementary
+
+704.[Drop Dead Diva](http://www.imdb.com/title/tt1280822/). 7.4 / 15905 / cRank615 / year.2009–2014 /  
+
+705.[Fresh Meat](http://www.imdb.com/title/tt2058303/). 7.9 / 11528 / cRank774 / year.2011–  /  
+
+706.[Batman](http://www.imdb.com/title/tt0059968/). 7.5 / 14930 / cRank649 / year.1966–1968 /  
+
+707.[Kim Possible](http://www.imdb.com/title/tt0278866/). 7.2 / 17687 / cRank568 / year.2002–2007 /  
+
+708.[Colony](http://www.imdb.com/title/tt4209256/). 7.3 / 16732 / cRank596 / year.2016–  /  
+
+709.[Doug](http://www.imdb.com/title/tt0101084/). 7.5 / 14879 / cRank651 / year.1991–1994 /  
+
+710.[Mr. Show with Bob and David](http://http://www.imdb.com/title/tt0112084/). 8.4 / 7606 / cRank862 / year.1995-1998 / supplementary
+
+711.[The Suite Life of Zack and Cody](http://www.imdb.com/title/tt0426371/). 6.3 / 26693 / cRank391 / year.2005–2008 /  
+
+712.[NewsRadio](http://www.imdb.com/title/tt0112095/). 7.9 / 11392 / cRank779 / year.1995–1999 /  
+
+713.[The Cleveland Show](http://www.imdb.com/title/tt1195935/). 5.6 / 34283 / cRank325 / year.2009–2013 /  
+
+714.[Dominion](http://www.imdb.com/title/tt3079768/). 6.8 / 21136 / cRank490 / year.2014–2015 /  
+
+715.[Jackie Chan Adventures](http://www.imdb.com/title/tt0259141/). 7.4 / 15458 / cRank629 / year.2000–2005 /  
+
+716.[The Eric Andre Show](http://http://www.imdb.com/title/tt2244495/). 8.7 / 5448 / cRank874 / year.2012- / supplementary
+
+717.[Even Stevens](http://www.imdb.com/title/tt0206511/). 7.8 / 11920 / cRank754 / year.2000–2003 /  
+
+718.[Survivor](http://www.imdb.com/title/tt0239195/). 7.0 / 18951 / cRank539 / year.2000–  /  
+
+719.[The Addams Family](http://www.imdb.com/title/tt0057729/). 8.0 / 10277 / cRank836 / year.1964–1966 /  
+
+720.[Chip 'n' Dale Rescue Rangers](http://www.imdb.com/title/tt0096557/). 7.6 / 13397 / cRank697 / year.1988–1990 /  
+
+721.[Star-Crossed](http://www.imdb.com/title/tt2657262/). 7.4 / 15101 / cRank640 / year.2014 /  
+
+722.[Tinker Tailor Soldier Spy](http://http://www.imdb.com/title/tt0080297/). 8.6 / 5966 / cRank868 / year.1979 / supplementary
+
+723.[Robin Hood](http://www.imdb.com/title/tt0787985/). 7.5 / 14104 / cRank679 / year.2006–2009 /  
+
+724.[Hercules: The Legendary Journeys](http://www.imdb.com/title/tt0111999/). 6.5 / 23307 / cRank452 / year.1995–1999 /  
+
+725.[The Penguins of Madagascar](http://www.imdb.com/title/tt0892700/). 7.6 / 13226 / cRank708 / year.2008–2015 /  
+
+726.[Dharma & Greg](http://www.imdb.com/title/tt0118303/). 6.3 / 25201 / cRank420 / year.1997–2002 /  
+
+727.[The Brink](http://www.imdb.com/title/tt3216586/). 7.8 / 11480 / cRank777 / year.2015 /  
+
+728.[Clannad: After Story](http://http://www.imdb.com/title/tt1298820/). 8.6 / 5824 / cRank869 / year.2008-2009 / supplementary
+
+729.[Franklin & Bash](http://www.imdb.com/title/tt1600199/). 7.7 / 12257 / cRank736 / year.2011–2014 /  
+
+730.[Dragon Ball GT](http://www.imdb.com/title/tt0139774/). 6.9 / 19091 / cRank534 / year.1996–1997 /  
+
+731.[Brideshead Revisited](http://http://www.imdb.com/title/tt0083390/). 8.7 / 5170 / cRank875 / year.1981 / supplementary
+
+732.[Royal Pains](http://www.imdb.com/title/tt1319735/). 7.1 / 17209 / cRank583 / year.2009–2016 /  
+
+733.[Bewitched](http://www.imdb.com/title/tt0057733/). 7.6 / 12928 / cRank721 / year.1964–1972 /  
+
+734.[The Tonight Show Starring Jimmy Fallon](http://www.imdb.com/title/tt3444938/). 7.7 / 12106 / cRank744 / year.2014–  /  
+
+735.[Detectorists](http://http://www.imdb.com/title/tt4082744/). 8.7 / 5132 / cRank876 / year.2014- / supplementary
+
+736.[Ringer](http://www.imdb.com/title/tt1819654/). 6.9 / 18862 / cRank541 / year.2011–2012 /  
+
+737.[Fortitude](http://www.imdb.com/title/tt3498622/). 7.4 / 14458 / cRank668 / year.2015–  /  
+
+738.[Beverly Hills, 90210](http://www.imdb.com/title/tt0098749/). 6.2 / 25528 / cRank414 / year.1990–2000 /  
+
+739.[Extant](http://www.imdb.com/title/tt3155320/). 6.6 / 21583 / cRank481 / year.2014–2015 /  
+
+740.[Fuller House](http://www.imdb.com/title/tt3986586/). 7.0 / 17876 / cRank560 / year.2016–  /  
+
+741.[The Pink Panther Show](http://www.imdb.com/title/tt0063939/). 7.7 / 11989 / cRank749 / year.1969–1976 /  
+
+742.[Dinosaurs](http://www.imdb.com/title/tt0101081/). 7.5 / 13582 / cRank690 / year.1991–1994 /  
+
+743.[Mr Selfridge](http://www.imdb.com/title/tt2310212/). 7.7 / 11969 / cRank750 / year.2013–2016 /  
+
+744.[Keeping Up Appearances](http://www.imdb.com/title/tt0098837/). 7.8 / 11132 / cRank791 / year.1990–1995 /  
+
+745.[The Librarians](http://www.imdb.com/title/tt3663490/). 7.3 / 15074 / cRank644 / year.2014–  /  
+
+746.[Pan Am](http://www.imdb.com/title/tt1826805/). 7.0 / 17575 / cRank570 / year.2011–2012 /  
+
+747.[Resurrection](http://www.imdb.com/title/tt2647586/). 7.4 / 14161 / cRank677 / year.2014–2015 /  
+
+748.[Two Guys, a Girl and a Pizza Place](http://www.imdb.com/title/tt0137330/). 7.4 / 14129 / cRank678 / year.1998–2001 /  
+
+749.[The Pretender](http://www.imdb.com/title/tt0115320/). 7.5 / 13304 / cRank701 / year.1996–2000 /  
+
+750.[He-Man and the Masters of the Universe](http://www.imdb.com/title/tt0126158/). 7.5 / 13295 / cRank702 / year.1983–1985 /  
+
+751.[Tru Calling](http://www.imdb.com/title/tt0364817/). 7.5 / 13294 / cRank704 / year.2003–2005 /  
+
+752.[Intelligence](http://www.imdb.com/title/tt2693776/). 7.0 / 17450 / cRank576 / year.2014 /  
+
+753.[Life Unexpected](http://www.imdb.com/title/tt1442109/). 7.6 / 12479 / cRank733 / year.2010–2011 /  
+
+754.[Sliders](http://www.imdb.com/title/tt0112167/). 7.4 / 14008 / cRank682 / year.1995–2000 /  
+
+755.[El Chavo del Ocho](http://http://www.imdb.com/title/tt0229889/). 8.6 / 5518 / cRank872 / year.1972-1979 / supplementary
+
+756.[Video Game High School](http://www.imdb.com/title/tt2170584/). 7.7 / 11597 / cRank767 / year.2012–2014 /  
+
+757.[The Amazing Race](http://www.imdb.com/title/tt0285335/). 7.6 / 12301 / cRank734 / year.2001–  /  
+
+758.[Darkwing Duck](http://www.imdb.com/title/tt0101076/). 7.7 / 11532 / cRank773 / year.1991–1992 /  
+
+759.[Happy Days](http://www.imdb.com/title/tt0070992/). 7.5 / 12875 / cRank723 / year.1974–1984 /  
+
+760.[Grounded for Life](http://www.imdb.com/title/tt0255734/). 7.5 / 12855 / cRank724 / year.2001–2005 /  
+
+761.[Family Matters](http://www.imdb.com/title/tt0096579/). 6.6 / 20384 / cRank504 / year.1989–1998 /  
+
+762.[Drawn Together](http://www.imdb.com/title/tt0386180/). 7.0 / 16829 / cRank592 / year.2004–2007 /  
+
+763.[Camelot](http://www.imdb.com/title/tt1672189/). 6.5 / 21199 / cRank489 / year.2011 /  
+
+764.[Melissa & Joey](http://www.imdb.com/title/tt1597420/). 7.1 / 15946 / cRank614 / year.2010–2015 /  
+
+765.[Hell's Kitchen](http://www.imdb.com/title/tt0437005/). 7.1 / 15864 / cRank619 / year.2005–  /  
+
+766.[Little House on the Prairie](http://www.imdb.com/title/tt0071007/). 7.4 / 13215 / cRank709 / year.1974–1983 /  
+
+767.[Tosh.0](http://www.imdb.com/title/tt1430587/). 7.4 / 13203 / cRank710 / year.2009–  /  
+
+768.[Private Practice](http://www.imdb.com/title/tt0972412/). 6.6 / 19709 / cRank521 / year.2007–2013 /  
+
+769.[Killjoys](http://www.imdb.com/title/tt3952222/). 7.2 / 14621 / cRank663 / year.2015–  /  
+
+770.[Ned's Declassified School Survival Guide](http://www.imdb.com/title/tt0405576/). 7.4 / 13064 / cRank716 / year.2004–2007 /  
+
+771.[From Dusk Till Dawn: The Series](http://www.imdb.com/title/tt3337194/). 7.0 / 16183 / cRank608 / year.2014–  /  
+
+772.[Magic City](http://www.imdb.com/title/tt1832045/). 7.7 / 10816 / cRank811 / year.2012–2013 /  
+
+773.[Zoo](http://www.imdb.com/title/tt3250026/). 6.9 / 16820 / cRank593 / year.2015–2017 /  
+
+774.[Life's Too Short](http://www.imdb.com/title/tt1641247/). 7.5 / 12167 / cRank740 / year.2011–2013 /  
+
+775.[Trollhunters](http://http://www.imdb.com/title/tt1734135/). 8.6 / 5094 / cRank877 / year.2016- / supplementary
+
+776.[Breakout Kings](http://www.imdb.com/title/tt1590961/). 7.3 / 13615 / cRank689 / year.2011–2012 /  
+
+777.[My Hero Academia](http://http://www.imdb.com/title/tt5626028/). 8.5 / 5597 / cRank871 / year.2016- / supplementary
+
+778.[The Larry Sanders Show](http://http://www.imdb.com/title/tt0103466/). 8.4 / 6146 / cRank867 / year.1992-1998 / supplementary
+
+779.[TaleSpin](http://www.imdb.com/title/tt0098924/). 7.7 / 10541 / cRank823 / year.1990–1991 /  
+
+780.[Faking It](http://www.imdb.com/title/tt3127020/). 7.5 / 11934 / cRank753 / year.2014–2016 /  
+
+781.[Lois & Clark: The New Adventures of Superman](http://www.imdb.com/title/tt0106057/). 6.8 / 17190 / cRank584 / year.1993–1997 /  
+
+782.[Sweet Life](http://http://www.imdb.com/title/tt0302199/). 8.5 / 5504 / cRank873 / year.2001-2004 / supplementary
+
+783.[Legends](http://www.imdb.com/title/tt2402137/). 7.5 / 11826 / cRank758 / year.2014–2015 /  
+
+784.[Good Luck Charlie](http://www.imdb.com/title/tt1415889/). 7.1 / 14759 / cRank656 / year.2010–2014 /  
+
+785.[666 Park Avenue](http://www.imdb.com/title/tt2197797/). 6.9 / 16292 / cRank605 / year.2012–2013 /  
+
+786.[Superstore](http://www.imdb.com/title/tt4477976/). 7.7 / 10308 / cRank832 / year.2015–  /  
+
+787.[3%](http://www.imdb.com/title/tt4922804/). 7.6 / 10928 / cRank802 / year.2016–  /  
+
+788.[Invasion](http://www.imdb.com/title/tt0460651/). 7.6 / 10831 / cRank809 / year.2005–2006 /  
+
+789.[Dirilis: Ertugrul](http://www.imdb.com/title/tt4320258/). 7.1 / 14215 / cRank673 / year.2014–  /  
+
+790.[Without a Trace](http://www.imdb.com/title/tt0321021/). 6.9 / 15696 / cRank623 / year.2002–2009 /  
+
+791.[Believe](http://www.imdb.com/title/tt2592094/). 7.2 / 13380 / cRank698 / year.2014 /  
+
+792.[Pawn Stars](http://www.imdb.com/title/tt1492088/). 7.2 / 13356 / cRank700 / year.2009–  /  
+
+793.[Yu-Gi-Oh!](http://www.imdb.com/title/tt0249327/). 7.1 / 14069 / cRank680 / year.I) (2000–2006 /  
+
+794.[Mike & Molly](http://www.imdb.com/title/tt1608180/). 6.4 / 19437 / cRank526 / year.2010–2016 /  
+
+795.[Happy Tree Friends](http://www.imdb.com/title/tt0770762/). 7.0 / 14780 / cRank655 / year.II) (1999–  /  
+
+796.[Young & Hungry](http://www.imdb.com/title/tt2084712/). 7.5 / 11208 / cRank788 / year.2014–  /  
+
+797.[No Ordinary Family](http://www.imdb.com/title/tt1591493/). 6.9 / 15322 / cRank632 / year.2010–2011 /  
+
+798.[The River](http://www.imdb.com/title/tt1836195/). 6.9 / 15296 / cRank634 / year.2012 /  
+
+799.[Victorious](http://www.imdb.com/title/tt1604099/). 6.9 / 15216 / cRank637 / year.2010–2013 /  
+
+800.[Outsourced](http://www.imdb.com/title/tt1593756/). 7.5 / 11005 / cRank797 / year.2010–2011 /  
+
+801.[The Jetsons](http://www.imdb.com/title/tt0055683/). 7.0 / 14460 / cRank667 / year.1962–1963 /  
+
+802.[Family Ties](http://www.imdb.com/title/tt0083413/). 7.2 / 12973 / cRank718 / year.1982–1989 /  
+
+803.[Real Time with Bill Maher](http://www.imdb.com/title/tt0350448/). 7.6 / 10282 / cRank835 / year.2003–  /  
+
+804.[Second Chance](http://www.imdb.com/title/tt4378456/). 7.6 / 10220 / cRank839 / year.2016 /  
+
+805.[Mad About You](http://www.imdb.com/title/tt0103484/). 6.6 / 17089 / cRank586 / year.1992–1999 /  
+
+806.[Wynonna Earp](http://www.imdb.com/title/tt4878326/). 7.5 / 10764 / cRank812 / year.2016–  /  
+
+807.[Hannah Montana](http://www.imdb.com/title/tt0493093/). 4.9 / 31252 / cRank344 / year.2006–2011 /  
+
+808.[Just Shoot Me!](http://www.imdb.com/title/tt0118364/). 6.9 / 14741 / cRank657 / year.1997–2003 /  
+
+809.[Secret Diary of a Call Girl](http://www.imdb.com/title/tt1000734/). 7.4 / 11207 / cRank789 / year.2007–2011 /  
+
+810.[Black-ish](http://www.imdb.com/title/tt3487356/). 7.1 / 13165 / cRank711 / year.2014–  /  
+
+811.[Bitten](http://www.imdb.com/title/tt2365946/). 7.1 / 13163 / cRank712 / year.2014–2016 /  
+
+812.[The Smurfs](http://www.imdb.com/title/tt0081933/). 7.3 / 11785 / cRank761 / year.1981–1990 /  
+
+813.[The Glades](http://www.imdb.com/title/tt1552112/). 7.5 / 10470 / cRank824 / year.2010–2013 /  
+
+814.[Primeval](http://www.imdb.com/title/tt0808096/). 7.3 / 11707 / cRank763 / year.2007–2011 /  
+
+815.[Murder, She Wrote](http://www.imdb.com/title/tt0086765/). 6.9 / 14361 / cRank670 / year.1984–1996 /  
+
+816.[Everwood](http://www.imdb.com/title/tt0318883/). 7.4 / 11025 / cRank796 / year.2002–2006 /  
+
+817.[Clerks](http://www.imdb.com/title/tt0210413/). 7.4 / 10998 / cRank798 / year.2000–2001 /  
+
+818.[Body of Proof](http://www.imdb.com/title/tt1587669/). 7.1 / 12932 / cRank720 / year.2011–2013 /  
+
+819.[Ellen: The Ellen DeGeneres Show](http://www.imdb.com/title/tt0379623/). 7.2 / 12107 / cRank743 / year.2003–  /  
+
+820.[Codename: Kids Next Door](http://www.imdb.com/title/tt0312109/). 7.2 / 12087 / cRank746 / year.2002–2008 /  
+
+821.[Mighty Morphin Power Rangers](http://www.imdb.com/title/tt0106064/). 6.4 / 17575 / cRank571 / year.1993–1999 /  
+
+822.[CatDog](http://www.imdb.com/title/tt0154061/). 6.6 / 16105 / cRank610 / year.1998–2005 /  
+
+823.[Hello Ladies](http://www.imdb.com/title/tt2378794/). 7.5 / 10092 / cRank844 / year.2013–  /  
+
+824.[Inspector Gadget](http://www.imdb.com/title/tt0085033/). 6.8 / 14586 / cRank664 / year.1983–1986 /  
+
+825.[Cow and Chicken](http://www.imdb.com/title/tt0118289/). 6.7 / 15078 / cRank643 / year.1995–1999 /  
+
+826.[The Angry Beavers](http://www.imdb.com/title/tt0131664/). 7.3 / 10948 / cRank800 / year.1997–2001 /  
+
+827.[The Drew Carey Show](http://www.imdb.com/title/tt0111945/). 6.9 / 13464 / cRank695 / year.1995–2004 /  
+
+828.[Highlander](http://www.imdb.com/title/tt0103442/). 7.3 / 10909 / cRank804 / year.1992–1998 /  
+
+829.[Crossing Lines](http://www.imdb.com/title/tt2427220/). 7.4 / 10297 / cRank834 / year.2013–  /  
+
+830.[Dirty Sexy Money](http://www.imdb.com/title/tt0960136/). 7.3 / 10876 / cRank807 / year.2007–2009 /  
+
+831.[Lizzie McGuire](http://www.imdb.com/title/tt0273366/). 6.6 / 14787 / cRank654 / year.2001–2004 /  
+
+832.[Unforgettable](http://www.imdb.com/title/tt1842530/). 6.7 / 13885 / cRank684 / year.2011–2016 /  
+
+833.[Girl Meets World](http://www.imdb.com/title/tt2543796/). 7.2 / 10836 / cRank808 / year.2014–2017 /  
+
+834.[Mistresses](http://www.imdb.com/title/tt2295809/). 7.1 / 11317 / cRank782 / year.2013–2016 /  
+
+835.[Hot in Cleveland](http://www.imdb.com/title/tt1583607/). 7.2 / 10714 / cRank816 / year.2010–2015 /  
+
+836.[Becker](http://www.imdb.com/title/tt0174378/). 7.3 / 10131 / cRank843 / year.1998–2004 /  
+
+837.[Battlestar Galactica](http://www.imdb.com/title/tt0076984/). 7.1 / 11276 / cRank783 / year.1978–1979 /  
+
+838.[JAG](http://www.imdb.com/title/tt0112022/). 6.6 / 14174 / cRank676 / year.1995–2005 /  
+
+839.[The Odyssey](http://www.imdb.com/title/tt0118414/). 7.0 / 11739 / cRank762 / year.1997–  /  
+
+840.[The Crazy Ones](http://www.imdb.com/title/tt2710104/). 7.1 / 11135 / cRank790 / year.2013–2014 /  
+
+841.[That's So Raven](http://www.imdb.com/title/tt0300865/). 6.5 / 14646 / cRank662 / year.2003–2007 /  
+
+842.[Danny Phantom](http://www.imdb.com/title/tt0366005/). 7.1 / 10936 / cRank801 / year.2004–2007 /  
+
+843.[Selfie](http://www.imdb.com/title/tt3549044/). 7.2 / 10359 / cRank827 / year.2014 /  
+
+844.[Shark](http://www.imdb.com/title/tt0805666/). 7.1 / 10547 / cRank822 / year.2006–2008 /  
+
+845.[The New Adventures of Old Christine](http://www.imdb.com/title/tt0462128/). 7.1 / 10366 / cRank826 / year.2006–2010 /  
+
+846.[Once Upon a Time in Wonderland](http://www.imdb.com/title/tt2802008/). 7.1 / 10332 / cRank830 / year.2013–2014 /  
+
+847.[Late Show with David Letterman](http://www.imdb.com/title/tt0106053/). 6.9 / 11261 / cRank784 / year.1993–2015 /  
+
+848.[Late Night with Jimmy Fallon](http://www.imdb.com/title/tt1231460/). 7.0 / 10639 / cRank819 / year.2009–  /  
+
+849.[The Mask](http://www.imdb.com/title/tt0112064/). 7.0 / 10593 / cRank820 / year.1995–1997 /  
+
+850.[7th Heaven](http://www.imdb.com/title/tt0115083/). 5.1 / 22020 / cRank471 / year.1996–2007 /  
+
+851.[Baywatch](http://www.imdb.com/title/tt0096542/). 5.2 / 20911 / cRank494 / year.1989–2001 /  
+
+852.[The Adventures of Jimmy Neutron: Boy Genius](http://www.imdb.com/title/tt0320808/). 6.7 / 11598 / cRank766 / year.2002–2006 /  
+
+853.[What I Like About You](http://www.imdb.com/title/tt0321018/). 6.7 / 11507 / cRank775 / year.2002–2006 /  
+
+854.[Magnificent Century](http://www.imdb.com/title/tt1848220/). 6.6 / 11994 / cRank748 / year.2011–2014 /  
+
+855.[Jimmy Kimmel Live!](http://www.imdb.com/title/tt0320037/). 6.8 / 10572 / cRank821 / year.2003–  /  
+
+856.[NCIS: New Orleans](http://www.imdb.com/title/tt3560084/). 6.8 / 10260 / cRank837 / year.2014–  /  
+
+857.[The New Normal](http://www.imdb.com/title/tt2087571/). 6.8 / 10259 / cRank838 / year.2012–2013 /  
+
+858.[Dear White People](http://www.imdb.com/title/tt5707802/). 6.4 / 12156 / cRank741 / year.2017–  /  
+
+859.[Growing Pains](http://www.imdb.com/title/tt0088527/). 6.6 / 11107 / cRank792 / year.1985–1992 /  
+
+860.[America's Next Top Model](http://www.imdb.com/title/tt0363307/). 5.6 / 16233 / cRank607 / year.2003–  /  
+
+861.[Reba](http://www.imdb.com/title/tt0284722/). 6.5 / 11494 / cRank776 / year.2001–2007 /  
+
+862.[The Wild Thornberrys](http://www.imdb.com/title/tt0167743/). 6.7 / 10038 / cRank849 / year.1998–2004 /  
+
+863.[The Secret Life of the American Teenager](http://www.imdb.com/title/tt1179817/). 5.1 / 18042 / cRank557 / year.2008–2013 /  
+
+864.[The Voice](http://www.imdb.com/title/tt1839337/). 6.6 / 10337 / cRank829 / year.2011–  /  
+
+865.[The Suite Life on Deck](http://www.imdb.com/title/tt1181917/). 6.3 / 11555 / cRank771 / year.2008–2011 /  
+
+866.[Andromeda](http://www.imdb.com/title/tt0213327/). 6.6 / 10079 / cRank847 / year.2000–2005 /  
+
+867.[American Idol](http://www.imdb.com/title/tt0319931/). 4.2 / 19932 / cRank515 / year.2002–  /  
+
+868.[The Mist](http://www.imdb.com/title/tt5639976/). 5.4 / 13239 / cRank707 / year.2017–  /  
+
+869.[Walker, Texas Ranger](http://www.imdb.com/title/tt0106168/). 5.5 / 12786 / cRank726 / year.1993–2001 /  
+
+870.[Zoey 101](http://www.imdb.com/title/tt0415463/). 5.9 / 11040 / cRank794 / year.2005–2008 /  
+
+871.[Jersey Shore](http://www.imdb.com/title/tt1563069/). 3.5 / 21368 / cRank485 / year.2009–2012 /  
+
+872.[Whitney](http://www.imdb.com/title/tt1850458/). 5.6 / 11872 / cRank756 / year.2011–2013 /  
+
+873.[Inhumans](http://www.imdb.com/title/tt4154858/). 5.2 / 13249 / cRank706 / year.2017–  /  
+
+874.[Keeping Up with the Kardashians](http://www.imdb.com/title/tt1086761/). 2.8 / 22254 / cRank467 / year.2007–  /  
+
+875.[MacGyver](http://www.imdb.com/title/tt1399045/). 5.0 / 10823 / cRank810 / year.2016–  /  
+
+876.[Teen Titans Go!](http://www.imdb.com/title/tt2771780/). 4.8 / 10339 / cRank828 / year.2013–  /  
+
+877.[The Hills](http://www.imdb.com/title/tt0489598/). 3.5 / 10431 / cRank825 / year.2006–2010 /  
