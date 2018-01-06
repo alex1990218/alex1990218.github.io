@@ -5591,4 +5591,4812 @@ citations {
 
 2778. [SKEMA Business School (comUE Université Côte d'Azur)] / 7936 / France
 
-2779. [Mo
+2779. [Mokpo National University / 목포대학교] / 7929 / South Korea
+
+2780. [Samara State Medical University / Самарский государственный медицинский университет] / 7927 / Russia
+
+2781. [Sri Jayachamarajendra College of Engineering] / 7920 / India
+
+2782. [University of Nebraska Kearney] / 7905 / USA
+
+2783. [Yerevan State University] / 7905 / Armenia
+
+2784. [Brandon University] / 7879 / Canada
+
+2785. [Guilin University of Technology / 桂林理工大学] / 7855 / China
+
+2786. [Tomas Bata University in Zlín / Univerzita Tomáše Bati Ve Zlíně] / 7852 / Czechia
+
+2787. [Dunarea de Jos University Galati] / 7846 / Romania
+
+2788. [Hangzhou Dianzi University / 杭州电子科技大学] / 7841 / China
+
+2789. [Okayama University of Science / 岡山理科大学] / 7839 / Japan
+
+2790. [Maltepe University] / 7829 / Turkey
+
+2791. [Abu Dhabi University] / 7825 / United Arab Emirates
+
+2792. [Perm State Technical University / Пермский национальный исследовательский политехнический университет] / 7825 / Russia
+
+2793. [Khulna University of Engineering &amp; Technology] / 7815 / Bangladesh
+
+2794. [Emerson College] / 7813 / USA
+
+2795. [Gulf University for Science &amp; Technology] / 7808 / Kuwait
+
+2796. [Southwestern University] / 7803 / USA
+
+2797. [Wheaton College Norton Massachusetts] / 7796 / USA
+
+2798. [Cardinal Stefan Wyszynski University Warsaw / Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie] / 7792 / Poland
+
+2799. [Escuela Politécnica Nacional] / 7790 / Ecuador
+
+2800. [Rzeszow University of Technology / Politechnika Rzeszowska Ignacego Łukasiewicza] / 7779 / Poland
+
+2801. [Virginia State University] / 7761 / USA
+
+2802. [Georgia State Agriculture University] / 7750 / Georgia
+
+2803. [Universidad de San Andrés Buenos Aires] / 7741 / Argentina
+
+2804. [Mount Royal University] / 7732 / Canada
+
+2805. [Sri Sivasubramaniya Nadar College of Engineering] / 7722 / India
+
+2806. [Arab American University] / 7720 / Palestine
+
+2807. [Andrews University] / 7712 / USA
+
+2808. [Sacred Heart University] / 7706 / USA
+
+2809. [Washington &amp; Lee University] / 7691 / USA
+
+2810. [University Valachia Targoviste] / 7690 / Romania
+
+2811. [Universidad Nacional de San Juan] / 7690 / Argentina
+
+2812. [Universidade Federal da Fronteira Sul UFFS] / 7683 / Brazil
+
+2813. [Université de Paris III / Université Sorbonne Nouvelle (comUE Université Sorbonne Paris Cité)] / 7679 / France
+
+2814. [MODUL University] / 7675 / Austria
+
+2815. [Université d'Artois (comUE Lille Nord de France)] / 7670 / France
+
+2816. [University of Guam / Unibetsedat Guahan] / 7669 / Guam
+
+2817. [Universitas Negeri Malang] / 7648 / Indonesia
+
+2818. [Earlham College] / 7647 / USA
+
+2819. [Kansai Medical University / 関西医科大学] / 7635 / Japan
+
+2820. [Universitas Islam Negeri UIN Sunan Kalijaga Yogyakarta] / 7614 / Indonesia
+
+2821. [University of Sargodha] / 7609 / Pakistan
+
+2822. [Faculdades La Salle UNILASALLE] / 7606 / Brazil
+
+2823. [Dr Bhim Rao Ambedkar National Institute of Technology] / 7603 / India
+
+2824. [Universiti Malaysia Kelantan] / 7584 / Malaysia
+
+2825. [University of Maryland Eastern Shore] / 7580 / USA
+
+2826. [Tokyo City University / 東京都市大学] / 7576 / Japan
+
+2827. [University of Calabar] / 7572 / Nigeria
+
+2828. [Université de Toulouse I / Université Toulouse Capitole (comUE Université de Toulouse)] / 7556 / France
+
+2829. [Western Norway University of Applied Sciences / Høgskulen på Vestlandet] / 7555 / Norway
+
+2830. [Technical University of Koszalin / Politechnika Koszalińska] / 7552 / Poland
+
+2831. [Bharath University] / 7551 / India
+
+2832. [Universiti Kuala Lumpur] / 7547 / Malaysia
+
+2833. [Augsburg College] / 7527 / USA
+
+2834. [Wakayama Medical College / 和歌山県立医科大学] / 7492 / Japan
+
+2835. [Institut des Hautes Études Economiques et Commerciales INSEEC] / 7489 / France
+
+2836. [Hang Seng Management College] / 7486 / Hong Kong
+
+2837. [Purdue University Northwest] / 7481 / USA
+
+2838. [Hitit University] / 7477 / Turkey
+
+2839. [Juniata College] / 7475 / USA
+
+2840. [Allameh Tabatabai University] / 7474 / Iran
+
+2841. [Universidad EAFIT] / 7461 / Colombia
+
+2842. [University of South Carolina Upstate] / 7454 / USA
+
+2843. [Gurukula Kangri Vishwavidyalaya] / 7453 / India
+
+2844. [College of the Atlantic] / 7450 / USA
+
+2845. [University of Petroleum &amp; Energy Studies] / 7443 / India
+
+2846. [Harbin Medical University / 哈尔滨医科大学] / 7443 / China
+
+2847. [The Chinese University of Hong Kong Shenzhen / 香港中文大学（深圳）] / 7437 / China
+
+2848. [Institute for Materials and Energy Sharif University of Technology ] / 7434 / Iran
+
+2849. [Pandit Deendayal Petroleum University] / 7434 / India
+
+2850. [Keene State College] / 7432 / USA
+
+2851. [Sant Longowal Institute of Engineering and Technology] / 7426 / India
+
+2852. [Gujarat University] / 7425 / India
+
+2853. [Turtle Mountain Community College] / 7424 / USA
+
+2854. [Nelson Mandela University] / 7417 / South Africa
+
+2855. [National Taipei University of Business] / 7414 / Taiwan
+
+2856. [Plovdiv University Paisii Hilendarski / Пловдивски университет Паисий Хилендарски] / 7395 / Bulgaria
+
+2857. [Universidad Pontificia Bolivariana] / 7391 / Colombia
+
+2858. [Zuyd Hogeschool] / 7387 / Netherlands
+
+2859. [Federal University of Technology Minna] / 7384 / Nigeria
+
+2860. [International Institute of Earthquake Engineering and Seismology] / 7382 / Iran
+
+2861. [Hochschule Magdeburg Stendal] / 7381 / Germany
+
+2862. [Higher Colleges of Technology] / 7371 / United Arab Emirates
+
+2863. [Kafkas University / Kafkas Üniversitesi] / 7369 / Turkey
+
+2864. [Hanoi University of Science &amp; Technology] / 7362 / Viet Nam
+
+2865. [Institute of Technology Sligo] / 7358 / Ireland
+
+2866. [Eckerd College] / 7349 / USA
+
+2867. [National University of Life and Environmental Sciences of Ukraine (National Agricultural University) / Національний Університет біоресурсів і природокористування України] / 7341 / Ukraine
+
+2868. [Instituto Politécnico de Leiria] / 7338 / Portugal
+
+2869. [Çankiri Karatekin University] / 7335 / Turkey
+
+2870. [University of Zabol] / 7335 / Iran
+
+2871. [Kyonggi University / 경기대학교] / 7315 / South Korea
+
+2872. [Rikkyo University / 立教大学] / 7312 / Japan
+
+2873. [Hochschule für Technik und Wirtschaft Berlin] / 7312 / Germany
+
+2874. [University of Gujrat] / 7311 / Pakistan
+
+2875. [Universidad ORT Uruguay] / 7310 / Uruguay
+
+2876. [Hendrix College] / 7309 / USA
+
+2877. [Point Loma Nazarene University] / 7309 / USA
+
+2878. [Roger Williams University] / 7309 / USA
+
+2879. [Bialystok Technical University / Politechnika Białostocka] / 7308 / Poland
+
+2880. [Universidade do Oeste Paulista UNOESTE] / 7305 / Brazil
+
+2881. [Hankyung University] / 7299 / South Korea
+
+2882. [Universidade Vila Velha UVV] / 7296 / Brazil
+
+2883. [École Navale] / 7292 / France
+
+2884. [Al Al-Bayt University] / 7287 / Jordan
+
+2885. [Ahmadu Bello University] / 7272 / Nigeria
+
+2886. [Universidad Internacional de La Rioja] / 7268 / Spain
+
+2887. [Sri Krishnadevaraya University] / 7267 / India
+
+2888. [Salem State University] / 7260 / USA
+
+2889. [Montana Tech of University of Montana] / 7257 / USA
+
+2890. [Yanka Kupala State University of Grodno / Гродненский государственный университет Янки Купалы] / 7248 / Belarus
+
+2891. [Kharkiv National University of Economics / Харківський національний економічний університет] / 7246 / Ukraine
+
+2892. [Dalian Maritime University / 大连海事大学] / 7242 / China
+
+2893. [Kursk State University / Курский государственный университет] / 7238 / Russia
+
+2894. [Arab Academy for Science &amp; Technology and Maritime Transport] / 7227 / Egypt
+
+2895. [Saint Lawrence University] / 7226 / USA
+
+2896. [Tongji Medical College Huazhong University of Science and Technology / 华中科技大学同济医学院] / 7211 / China
+
+2897. [Islamic Azad University Tabriz] / 7207 / Iran
+
+2898. [Shanghai Polytechnic University / 上海第二工业大学] / 7206 / China
+
+2899. [Chang'an University / 长安大学] / 7199 / China
+
+2900. [Universidad Nacional de Lanús] / 7199 / Argentina
+
+2901. [School of Pedagogical and Technological Education] / 7196 / Greece
+
+2902. [University Ovidius / Universitatea Ovidius din Constanța] / 7183 / Romania
+
+2903. [Algoma University] / 7157 / Canada
+
+2904. [Bingöl University] / 7154 / Turkey
+
+2905. [Southeast Missouri State University] / 7150 / USA
+
+2906. [Altai State University / Алтайский государственный университет] / 7149 / Russia
+
+2907. [Universitas Negeri Medan] / 7149 / Indonesia
+
+2908. [Shippensburg University of Pennsylvania] / 7146 / USA
+
+2909. [Moscow State Institute of International Relations / Московский государственный институт международных отношений (университет) ] / 7145 / Russia
+
+2910. [Dumlupinar University] / 7144 / Turkey
+
+2911. [Università Carlo Cattaneo (Libero istituto universitario Carlo Cattaneo LIUC)] / 7143 / Italy
+
+2912. [Universitas Katolik Indonesia Atma Jaya] / 7137 / Indonesia
+
+2913. [Emirates College for Advanced Education] / 7133 / United Arab Emirates
+
+2914. [University of Lahore] / 7133 / Pakistan
+
+2915. [Toyota Technological Institute / 豊田工業大学] / 7127 / Japan
+
+2916. [I Shou University] / 7126 / Taiwan
+
+2917. [Zahedan University of Medical Sciences] / 7118 / Iran
+
+2918. [Al Quds University Arab University in Jerusalem] / 7112 / Palestine
+
+2919. [Gallaudet University] / 7111 / USA
+
+2920. [Hochschule Darmstadt] / 7103 / Germany
+
+2921. [Universidad Nacional Agraria La Molina] / 7095 / Peru
+
+2922. [Istanbul Bilgi University] / 7069 / Turkey
+
+2923. [Bryant University] / 7049 / USA
+
+2924. [Belmont University] / 7048 / USA
+
+2925. [Hyogo University of Health Sciences / 兵庫医療大学] / 7046 / Japan
+
+2926. [University of Maragheh] / 7042 / Iran
+
+2927. [GLA University] / 7041 / India
+
+2928. [Moscow Power Engineering Institute / Национальный исследовательский университет МЭИ] / 7023 / Russia
+
+2929. [École d'Ingénieurs SIGMA Clermont] / 7022 / France
+
+2930. [University of Moratuwa] / 7007 / Sri Lanka
+
+2931. [Nantong University / 南通大学] / 7007 / China
+
+2932. [University Stefan Cel Mare of Suceava] / 7004 / Romania
+
+2933. [Murray State University] / 6993 / USA
+
+2934. [University of Birjand] / 6985 / Iran
+
+2935. [Kutztown University] / 6984 / USA
+
+2936. [Universidade Lusófona de Humanidades e Tecnologias] / 6975 / Portugal
+
+2937. [Nirma University of Science &amp; Technology] / 6960 / India
+
+2938. [Golestan University of Medical Sciences] / 6951 / Iran
+
+2939. [National University of Kyiv Mohyla Academy / Національний університет Києво Могилянська академія] / 6940 / Ukraine
+
+2940. [University of Pardubice / Univerzita Pardubice] / 6938 / Czechia
+
+2941. [University of Management and Technology] / 6936 / Pakistan
+
+2942. [Prairie View A&amp;M University] / 6927 / USA
+
+2943. [Shri Ramswaroop Memorial University Lucknow] / 6924 / India
+
+2944. [Dundalk Institute of Technology] / 6923 / Ireland
+
+2945. [Shahrekord University] / 6911 / Iran
+
+2946. [AIMST University] / 6910 / Malaysia
+
+2947. [Indira Gandhi National Tribal University] / 6909 / India
+
+2948. [Centro Universitário Franciscano UNIFRA] / 6896 / Brazil
+
+2949. [Sami Shamoon College of Engineering] / 6888 / Israel
+
+2950. [Uşak University] / 6881 / Turkey
+
+2951. [Vancouver Island University (Malaspina)] / 6881 / Canada
+
+2952. [Universidad del Pacífico Perú] / 6871 / Peru
+
+2953. [Al Jouf University] / 6869 / Saudi Arabia
+
+2954. [Medical University of Bialystok / Uniwersytet Medyczny w Białymstoku] / 6863 / Poland
+
+2955. [Gandhi Institute of Technology and Management] / 6854 / India
+
+2956. [Gautam Buddha University] / 6852 / India
+
+2957. [Universitas Pendidikan Ganesha] / 6850 / Indonesia
+
+2958. [Fayoum University] / 6847 / Egypt
+
+2959. [Charotar University of Science &amp; Technology] / 6845 / India
+
+2960. [Dnipropetrovsk State Medical Academy / Дніпропетровська медична академія] / 6840 / Ukraine
+
+2961. [Pondicherry Engineering College] / 6835 / India
+
+2962. [University of Central Missouri] / 6832 / USA
+
+2963. [Government College University Lahore] / 6831 / Pakistan
+
+2964. [Trinity Western University] / 6828 / Canada
+
+2965. [Nyenrode Business University] / 6819 / Netherlands
+
+2966. [Urmia University of Medical Sciences] / 6798 / Iran
+
+2967. [Pharos University in Alexandria] / 6798 / Egypt
+
+2968. [Samara State Academy of Social Sciences and Humanities / Поволжская Государственная Социально-Гуманитарная Академия] / 6796 / Russia
+
+2969. [CUNY York College] / 6792 / USA
+
+2970. [New York Law School] / 6788 / USA
+
+2971. [Bishop's University] / 6771 / Canada
+
+2972. [Universidad Nacional de General Sarmiento] / 6769 / Argentina
+
+2973. [Universidad Camilo José Cela Madrid] / 6763 / Spain
+
+2974. [Instituto Superior Politécnico de Viseu] / 6759 / Portugal
+
+2975. [Institut Polytechnique Lasalle Beauvais] / 6745 / France
+
+2976. [Silesian University in Opava / Slezská Univerzita v Opavě] / 6745 / Czechia
+
+2977. [İstanbul MEF Üniversitesi] / 6739 / Turkey
+
+2978. [Dhurakijpundit University] / 6739 / Thailand
+
+2979. [Tomsk State Pedagogical University / Томский государственный педагогический университет] / 6739 / Russia
+
+2980. [Università di Macerata (Università degli Studi di Macerata)] / 6726 / Italy
+
+2981. [Monmouth University] / 6723 / USA
+
+2982. [Indira Gandhi National Open University] / 6719 / India
+
+2983. [University of Sistan and Baluchestan] / 6718 / Iran
+
+2984. [National Institute for Research &amp; Development in Micro-Technologies] / 6712 / Romania
+
+2985. [National University of Computer &amp; Emerging Sciences] / 6703 / Pakistan
+
+2986. [American University of Kuwait] / 6703 / Kuwait
+
+2987. [University of Benin] / 6696 / Nigeria
+
+2988. [Jawaharlal Institute of Postgraduate Medical Education &amp; Research] / 6693 / India
+
+2989. [University of Opole / Uniwersytet Opolski] / 6690 / Poland
+
+2990. [Universidad del Tolima] / 6683 / Colombia
+
+2991. [Delaware State University] / 6672 / USA
+
+2992. [Bellarmine University] / 6660 / USA
+
+2993. [ORT Braude College] / 6636 / Israel
+
+2994. [eCampus Università telematica] / 6631 / Italy
+
+2995. [Payam Noor University] / 6631 / Iran
+
+2996. [Niagara University] / 6628 / USA
+
+2997. [Shiraz University of Technology] / 6615 / Iran
+
+2998. [Sagami Women's University / 相模女子大学] / 6614 / Japan
+
+2999. [National Institute of Technology Agartala (Tripura Engineering College)] / 6613 / India
+
+3000. [Sinop University] / 6610 / Turkey
+
+3001. [University of Veterinary and Animal Sciences Lahore] / 6596 / Pakistan
+
+3002. [CUNY Borough of Manhattan Community College] / 6584 / USA
+
+3003. [Escuela Superior Politécnica del Litoral] / 6584 / Ecuador
+
+3004. [Central University of Jharkhand] / 6582 / India
+
+3005. [Doğuş University] / 6574 / Turkey
+
+3006. [Shiga University of Medical Science / 滋賀医科大学] / 6567 / Japan
+
+3007. [St Marianna University School of Medicine / 聖マリアンナ医科大学] / 6551 / Japan
+
+3008. [Maseno University] / 6544 / Kenya
+
+3009. [Universidad Centroccidental Lisandro Alvarado] / 6537 / Venezuela
+
+3010. [Hebei University of Technology / 河北工业大学] / 6535 / China
+
+3011. [Catholic Theological Union] / 6531 / USA
+
+3012. [University of Natural Sciences and the Humanities in Siedlce / Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach] / 6526 / Poland
+
+3013. [Mgh Institute of Health Professions] / 6516 / USA
+
+3014. [Gdynia Maritime University / Akademia Morska Gdyni] / 6505 / Poland
+
+3015. [Teri University] / 6503 / India
+
+3016. [Széchenyi István University Győr / Széchenyi István Egyetem SZE] / 6488 / Hungary
+
+3017. [Deenbandhu Chhotu Ram University of Science and Technology] / 6487 / India
+
+3018. [University of St Augustine for Health Sciences] / 6475 / USA
+
+3019. [Karabük University] / 6475 / Turkey
+
+3020. [Christ University Bengaluru] / 6471 / India
+
+3021. [Millersville University of Pennsylvania] / 6470 / USA
+
+3022. [Riphah International University] / 6458 / Pakistan
+
+3023. [University of Kerala] / 6450 / India
+
+3024. [Centro Nacional de Investigación y Desarrollo Tecnológico] / 6442 / Mexico
+
+3025. [Tel Aviv College of Engineering] / 6438 / Israel
+
+3026. [Université Mohamed Khider Biskra] / 6438 / Algeria
+
+3027. [Instituto Politécnico de Setúbal] / 6433 / Portugal
+
+3028. [University of Malakand] / 6423 / Pakistan
+
+3029. [Coimbatore Institute of Technology] / 6420 / India
+
+3030. [University of Southern Indiana] / 6419 / USA
+
+3031. [Cebu Institute of Technology] / 6418 / Philippines
+
+3032. [Université Mohammed V Agdal Faculté des Sciences Rabat] / 6414 / Morocco
+
+3033. [Can Tho University] / 6405 / Viet Nam
+
+3034. [Ajman University of Science &amp; Technology] / 6396 / United Arab Emirates
+
+3035. [European University of Lefke / Lefke Avrupa Üniversitesi] / 6395 /  
+
+3036. [Belarusian National Technical University / Белорусский национальный технический университет] / 6395 / Belarus
+
+3037. [Technological Education Institute of Piraeus] / 6390 / Greece
+
+3038. [Universidad Autónoma de Baja California Sur] / 6387 / Mexico
+
+3039. [Hochschule München] / 6386 / Germany
+
+3040. [Universidad de los Andes Santiago de Chile] / 6373 / Chile
+
+3041. [Aswan University] / 6353 / Egypt
+
+3042. [Universidad del Cauca] / 6352 / Colombia
+
+3043. [Jimma University] / 6341 / Ethiopia
+
+3044. [Shanghai Maritime University / 上海海事大学] / 6337 / China
+
+3045. [Uskudar University] / 6333 / Turkey
+
+3046. [K L N College of Engineering] / 6316 / India
+
+3047. [Wroclaw University of Economics / Uniwersytet Ekonomiczny we Wrocławiu] / 6314 / Poland
+
+3048. [Hochschule Osnabrück] / 6313 / Germany
+
+3049. [Fukushima University / 福島大学] / 6311 / Japan
+
+3050. [Universidade do Estado de Mato Grosso UNEMAT] / 6309 / Brazil
+
+3051. [Opole University of Technology / Politechnika Opolska] / 6304 / Poland
+
+3052. [Chelyabinsk State University / Челябинский государственный университет] / 6301 / Russia
+
+3053. [Università degli Studi Niccolò Cusano (Università delle Scienze Umane)] / 6301 / Italy
+
+3054. [Ordu University] / 6291 / Turkey
+
+3055. [North Eastern Federal University MK Ammosova (Yakutsk State University) / Северо-Восточный федеральный университет М К Аммосова (Якутский государственный университет)] / 6289 / Russia
+
+3056. [B V B College of Engineering and Technology] / 6286 / India
+
+3057. [Lunghwa University of Science &amp; Technology] / 6284 / Taiwan
+
+3058. [Clarion University of Pennsylvania] / 6280 / USA
+
+3059. [Universidade Europeia (Instituto Superior de Linguas e Administração Lisboa)] / 6275 / Portugal
+
+3060. [University of Agricultural Sciences Bangalore] / 6275 / India
+
+3061. [Kettering University] / 6272 / USA
+
+3062. [International Christian University / 国際基督教大学] / 6251 / Japan
+
+3063. [Universidad de Ingeniería y Tecnología UTEC] / 6247 / Peru
+
+3064. [Central University of Haryana] / 6246 / India
+
+3065. [University of Shiga Prefecture / 滋賀県立大学] / 6242 / Japan
+
+3066. [Kyiv National University of the Technology and Design / Київський Національний Університет Технологій та Дизайну] / 6227 / Ukraine
+
+3067. [Indonesian Computer University UNIKOM] / 6217 / Indonesia
+
+3068. [Novia University of Applied Sciences (Sydvast Polytechnic) / Yrkeshögskolan Novia] / 6209 / Finland
+
+3069. [Lagos State University College of Medicine] / 6208 / Nigeria
+
+3070. [Slippery Rock University] / 6200 / USA
+
+3071. [Tel Hai Academic College] / 6184 / Israel
+
+3072. [Technological Education Institute of Kavala] / 6183 / Greece
+
+3073. [Srinakharinwirot University] / 6174 / Thailand
+
+3074. [Future University] / 6159 / Egypt
+
+3075. [Fachhochschule Saint Polten] / 6159 / Austria
+
+3076. [Fort Hays State University] / 6158 / USA
+
+3077. [Ohio Wesleyan University] / 6157 / USA
+
+3078. [Tianjin Polytechnic University / 天津工业大学] / 6157 / China
+
+3079. [Hogeschool van Arnhem en Nijmegen HAN] / 6155 / Netherlands
+
+3080. [Universidad Austral] / 6153 / Argentina
+
+3081. [Mercyhurst University] / 6150 / USA
+
+3082. [Magnitogorsk State Technical University / Магнитогорский государственный технический университет Г И Носова] / 6148 / Russia
+
+3083. [Seikei University / 成蹊大学] / 6144 / Japan
+
+3084. [Toyama Prefectural University / 富山県立大学] / 6142 / Japan
+
+3085. [University of Oradea] / 6139 / Romania
+
+3086. [International Antalya University] / 6138 / Turkey
+
+3087. [Winston Salem State University] / 6134 / USA
+
+3088. [Uka Tarsadia University Bardoli] / 6131 / India
+
+3089. [Wuhan University of Science &amp; Technology / 武汉科技大学] / 6118 / China
+
+3090. [Klaipėda University / Klaipėdos universitetas ] / 6112 / Lithuania
+
+3091. [Technological Education Institute of Patras] / 6077 / Greece
+
+3092. [Universidade Regional de Blumenau FURB] / 6073 / Brazil
+
+3093. [Jerusalem College of Technology] / 6063 / Israel
+
+3094. [Ch Charan Singh University] / 6053 / India
+
+3095. [Universität Luzern] / 6052 / Switzerland
+
+3096. [Instituto Politécnico de Viana do Castelo] / 6051 / Portugal
+
+3097. [Kastamonu University] / 6050 / Turkey
+
+3098. [ITESO Universidad Jesuita de Guadalajara] / 6050 / Mexico
+
+3099. [Emory &amp; Henry College] / 6046 / USA
+
+3100. [Winthrop University] / 6046 / USA
+
+3101. [Szent István University Faculty of Veterinary Science] / 6040 / Hungary
+
+3102. [Bridgewater State University] / 6032 / USA
+
+3103. [British University in Dubai] / 6031 / United Arab Emirates
+
+3104. [Chiba Institute of Technology / 千葉工業大学] / 6026 / Japan
+
+3105. [Kilis 7 Aralık University / December 7 University of Kilis] / 6016 / Turkey
+
+3106. [Universidade Regional do Noroeste do Estado do Rio Grande do Sul UNIJUÍ] / 6014 / Brazil
+
+3107. [University of Wollongong in Dubai] / 6012 / United Arab Emirates
+
+3108. [Cherkassy State University / Черкаський національний університет Богдана Хмельницького] / 6006 / Ukraine
+
+3109. [Anand Agricultural University] / 5998 / India
+
+3110. [Mepco Schlenk Engineering College] / 5996 / India
+
+3111. [International Institute of Information Technology Bangalore] / 5988 / India
+
+3112. [Pontificia Universidad Javeriana Cali] / 5983 / Colombia
+
+3113. [Palestine Polytechnic University] / 5982 / Palestine
+
+3114. [Pacific Lutheran University] / 5981 / USA
+
+3115. [Hemwati Nandan Bahuguna Garhwal University] / 5970 / India
+
+3116. [University of Limpopo] / 5968 / South Africa
+
+3117. [Gangneung-Wonju National University (Kangnung Wonju) / 강릉원주대학교] / 5960 / South Korea
+
+3118. [IMT Lille Douai  (Mines Douai + Télécom Lille) (comUE Lille Nord de France)] / 5955 / France
+
+3119. [Institute of World Economy / Института Мировой Экономики и Международных Отношений ИМЭМО] / 5951 / Russia
+
+3120. [Osaka Medical College / 大阪医科大学] / 5951 / Japan
+
+3121. [University of Medicine and Pharmacy Targu Mures] / 5949 / Romania
+
+3122. [Technological Educational Institute of Sterea Ellada] / 5948 / Greece
+
+3123. [Moscow Technological University / Московский технологический университет] / 5942 / Russia
+
+3124. [Drew University] / 5938 / USA
+
+3125. [Hebei Normal University / 河北师范大学] / 5930 / China
+
+3126. [Arkansas Tech University] / 5917 / USA
+
+3127. [Universidade Federal de Integração Luso Afro Brasileira UNILAB] / 5917 / Brazil
+
+3128. [Universidade Federal do Vale do São Francisco UNIVASF] / 5915 / Brazil
+
+3129. [All India institute of Medical Sciences Jodhpur] / 5911 / India
+
+3130. [University of Botswana] / 5900 / Botswana
+
+3131. [Sichuan Agricultural University / 四川农业大学] / 5899 / China
+
+3132. [Davidson College] / 5897 / USA
+
+3133. [Université Internationale de Rabat] / 5888 / Morocco
+
+3134. [University of Economics in Katowice / Uniwersytet Ekonomiczny w Katowicach] / 5883 / Poland
+
+3135. [National Taichung University] / 5881 / Taiwan
+
+3136. [Novgorod State University / Новгородский государственный университет] / 5864 / Russia
+
+3137. [Universidad Católica de la Santísima Concepción] / 5860 / Chile
+
+3138. [Universidad Central del Ecuador] / 5841 / Ecuador
+
+3139. [National Pingtung University of Science &amp; Technology] / 5836 / Taiwan
+
+3140. [Islamic Azad University South Tehran] / 5819 / Iran
+
+3141. [Nevşehir University] / 5818 / Turkey
+
+3142. [Qazvin University of Medical Sciences] / 5818 / Iran
+
+3143. [Saint Edward's University] / 5806 / USA
+
+3144. [Kunming University of Science &amp; Technology (Yunnan Polytechnic University) / 昆明理工大学] / 5784 / China
+
+3145. [Ashland University] / 5769 / USA
+
+3146. [Riga Technical University / Rīgas Tehniskā universitāte] / 5769 / Latvia
+
+3147. [University of the Philippines Manila] / 5764 / Philippines
+
+3148. [Notre Dame University Lebanon] / 5763 / Lebanon
+
+3149. [Molde University College / Høgskolen i Molde] / 5762 / Norway
+
+3150. [New England College] / 5761 / USA
+
+3151. [University of Jinan / 济南大学 ] / 5761 / China
+
+3152. [Sri Venkateswara College of Engineering] / 5758 / India
+
+3153. [China Pharmaceutical University / 中国药科大学] / 5758 / China
+
+3154. [National Institute of Pharmaceutical Education and Research Hyderabad] / 5753 / India
+
+3155. [National Institute of Technology Patna (Bihar College of Engineering)] / 5751 / India
+
+3156. [Hitotsubashi University / 一橋大学] / 5734 / Japan
+
+3157. [Portland Community College] / 5730 / USA
+
+3158. [University of Illinois System] / 5728 / USA
+
+3159. [Institute for Development &amp; Research in Banking Technology] / 5720 / India
+
+3160. [Arcadia University] / 5718 / USA
+
+3161. [Al Ahliyya Amman University] / 5715 / Jordan
+
+3162. [University of Alaska Southeast] / 5708 / USA
+
+3163. [University of Jaffna] / 5693 / Sri Lanka
+
+3164. [Medical University of Lublin / Uniwersytet Medyczny w Lublinie] / 5693 / Poland
+
+3165. [Universidad Mayor Chile] / 5690 / Chile
+
+3166. [Rashtreeya Vidyalaya College of Engineering] / 5688 / India
+
+3167. [University of Finance and Management in Warsaw / Wyższa Szkoła Finansów i Zarządzania w Warszawie] / 5685 / Poland
+
+3168. [Universidad Autónoma de Campeche] / 5685 / Mexico
+
+3169. [NEOMA Business School (Rouen Business School)] / 5684 / France
+
+3170. [University of Wisconsin Platteville] / 5683 / USA
+
+3171. [Kitami Institute of Technology / 北見工業大学] / 5673 / Japan
+
+3172. [Croatian Catholic University of Zagreb / Hrvatsko katoličko sveučilište Zagreb] / 5672 / Croatia
+
+3173. [Universidad de los Lagos] / 5669 / Chile
+
+3174. [Carol Davila University of Medicine and Pharmacy] / 5656 / Romania
+
+3175. [Kazakh National University Al Farabi / Әл Фараби атындағы Қазақ ұлттық университеті] / 5656 / Kazakhstan
+
+3176. [Mahatma Gandhi University Kerala] / 5655 / India
+
+3177. [BFH Berner Fachhochschule / Haute école spécialisée bernoise] / 5654 / Switzerland
+
+3178. [National University Odessa Academy of Law / Национальный университет Одесская юридическая академия] / 5652 / Ukraine
+
+3179. [University of Rzeszow / Uniwersytet Rzeszowski] / 5651 / Poland
+
+3180. [Changzhou University / 常州大学] / 5642 / China
+
+3181. [Glyndŵr University] / 5635 / United Kingdom
+
+3182. [Université de Sfax Faculté des Sciences Économiques et de Gestion de Sfax] / 5633 / Tunisia
+
+3183. [Instituto Federal Goiano] / 5633 / Brazil
+
+3184. [Escuela Agrícola Panamericana Zamorano] / 5631 / Honduras
+
+3185. [Korea Polytechnic University / 한국산업기술대학교] / 5629 / South Korea
+
+3186. [Hochschule für Technik Rapperswil] / 5626 / Switzerland
+
+3187. [Université Badji Mokhtar de Annaba] / 5625 / Algeria
+
+3188. [Universidade de Santo Amaro UNISA] / 5623 / Brazil
+
+3189. [Universidad Nacional del Nordeste] / 5620 / Argentina
+
+3190. [Universitas Hasanuddin] / 5611 / Indonesia
+
+3191. [University of Illinois Springfield] / 5599 / USA
+
+3192. [Rajamangala University of Technology Thanyaburi] / 5594 / Thailand
+
+3193. [University of Zimbabwe] / 5592 / Zimbabwe
+
+3194. [Rhode Island College] / 5591 / USA
+
+3195. [University of St Mark &amp; St John Plymouth] / 5589 / United Kingdom
+
+3196. [Hamline University] / 5581 / USA
+
+3197. [Indian Institute of Information Technology and Management Gwalior  ] / 5577 / India
+
+3198. [Pyatigorsk State Linguistic University / Пятигорский государственный лингвистический университет] / 5568 / Russia
+
+3199. [Soochow University Taiwan] / 5564 / Taiwan
+
+3200. [Universidade Metodista de São Paulo] / 5562 / Brazil
+
+3201. [University of West Hungary / Nyugat-magyarországi Egyetem NYME] / 5560 / Hungary
+
+3202. [Georgia College &amp; State University] / 5559 / USA
+
+3203. [Chernihiv National University of Technology / Чернігівський національний технологічний університет] / 5559 / Ukraine
+
+3204. [Westminster College Salt Lake City] / 5558 / USA
+
+3205. [Tzu Chi University] / 5557 / Taiwan
+
+3206. [Mahasarakham University] / 5555 / Thailand
+
+3207. [Università IUAV di Venezia (Istituto universitario di architettura di Venezia)] / 5549 / Italy
+
+3208. [Korea University of Technology and Education KoreaTech / 한국기술교육대학교] / 5543 / South Korea
+
+3209. [Sikkim Manipal University of Health Medical &amp; Technological Sciences] / 5541 / India
+
+3210. [Mahatma Jyotiba Phule Rohilkhand University] / 5540 / India
+
+3211. [Faculdade de Medicina de Jundiaí] / 5535 / Brazil
+
+3212. [Institut Barcelona d’Estudis Internacionals] / 5532 / Spain
+
+3213. [Universidade Federal de Rondônia] / 5531 / Brazil
+
+3214. [Batman University] / 5528 / Turkey
+
+3215. [Virudhunagar Hindu Nadars Senthikumara Nadar College] / 5528 / India
+
+3216. [British Columbia Institute of Technology] / 5527 / Canada
+
+3217. [University of Tampa] / 5520 / USA
+
+3218. [Southern Oregon University] / 5515 / USA
+
+3219. [Université Sidi Mohammed Ben Abdellah Fes] / 5505 / Morocco
+
+3220. [Le Moyne College] / 5501 / USA
+
+3221. [University of Uyo] / 5492 / Nigeria
+
+3222. [Shri Guru Gobind Singhji Institute of Engineering] / 5487 / India
+
+3223. [Universidad Autónoma de Aguascalientes] / 5486 / Mexico
+
+3224. [Lake Superior State University] / 5480 / USA
+
+3225. [Technical University of Liberec / Technická Univerzita v Liberci] / 5479 / Czechia
+
+3226. [Technological Education Institute of Epirus] / 5471 / Greece
+
+3227. [University of the Faroe Islands / Fróðskaparsetur Føroya] / 5468 / Faroe Islands
+
+3228. [Babol University of Medical Sciences] / 5465 / Iran
+
+3229. [Université de Jijel] / 5456 / Algeria
+
+3230. [Leipzig Graduate School of Management] / 5449 / Germany
+
+3231. [Universitas Sumatera Utara] / 5448 / Indonesia
+
+3232. [Fachhochschule Kiel] / 5448 / Germany
+
+3233. [Philadelphia University at Jordan] / 5446 / Jordan
+
+3234. [National Institute of Pharmaceutical Education and Research Ahmedabad] / 5445 / India
+
+3235. [University of Nebraska System] / 5441 / USA
+
+3236. [Ömer Halisdemir University] / 5433 / Turkey
+
+3237. [Mohammad Ali Jinnah University Karachi Campus] / 5433 / Pakistan
+
+3238. [Yaroslav the Wise National Law University / Національний юридичний університет Ярослава Мудрого] / 5428 / Ukraine
+
+3239. [Instituto Politécnico de Guarda] / 5427 / Portugal
+
+3240. [Pwani University] / 5427 / Kenya
+
+3241. [Indian Institute of Information Technology, Design and Manufacturing, Jabalpur] / 5426 / India
+
+3242. [Escola Superior Agrária de Coimbra] / 5419 / Portugal
+
+3243. [Claremont Colleges] / 5417 / USA
+
+3244. [Karnatak University] / 5417 / India
+
+3245. [United International College] / 5417 / Hong Kong
+
+3246. [Hunan University of Science &amp; Technology / 湖南科技大学] / 5417 / China
+
+3247. [Hochschule für Gesundheits- und Medizinberufe Hamburg / Medical School Hamburg] / 5414 / Germany
+
+3248. [Kansas City University of Medicine and Biosciences] / 5411 / USA
+
+3249. [Ursinus College] / 5410 / USA
+
+3250. [Sapporo Medical University / 札幌医科大学] / 5407 / Japan
+
+3251. [Princess Sumaya University for Technology] / 5392 / Jordan
+
+3252. [Babcock University] / 5384 / Nigeria
+
+3253. [Fachhochschule Bielefeld] / 5383 / Germany
+
+3254. [UTP University of Science and Technology Bydgoszcz / Uniwersytet Technologiczno-Przyrodniczy J i J Śniadeckich w Bydgoszczy] / 5382 / Poland
+
+3255. [Hormozgan University of Medical Sciences Bandar Abbas] / 5379 / Iran
+
+3256. [Burgundy School of Business BSB (ex-ESC Dijon) (comUE Université Bourgogne Franche Comté)] / 5379 / France
+
+3257. [Northwest Normal University / 西北师范大学] / 5379 / China
+
+3258. [Valparaiso University] / 5368 / USA
+
+3259. [Sciences Po Bordeaux Institut d'Études Politiques de Bordeaux (ComUE d'Aquitaine)] / 5368 / France
+
+3260. [École Nationale d'Ingénieurs de Brest Bretagne ENIB (comUE Université Bretagne Loire)] / 5359 / France
+
+3261. [Golestan University] / 5351 / Iran
+
+3262. [University Lucian Blaga of Sibiu] / 5332 / Romania
+
+3263. [Korea Maritime University / 한국해양대학교] / 5323 / South Korea
+
+3264. [Troy University] / 5321 / USA
+
+3265. [Kwik Kian Gie School of Business (Institute Business and Informatics of Indonesia) / Institut Bisnis dan Informatika Kwik Kian Gie] / 5320 / Indonesia
+
+3266. [Islamia College Peshawar] / 5313 / Pakistan
+
+3267. [Vels University Chennai] / 5311 / India
+
+3268. [Universitas Muhammadiyah Malang] / 5310 / Indonesia
+
+3269. [Jan Dlugosz Pedagogical University in Czestochowa / Akademia Jana Długosza w Częstochowie] / 5296 / Poland
+
+3270. [Odessa State Environmental University / Одеський державний екологічний університет] / 5295 / Ukraine
+
+3271. [Tele-Université TÉLUQ] / 5295 / Canada
+
+3272. [Indiana University Kokomo] / 5291 / USA
+
+3273. [International Training Institute for Materials Science] / 5289 / Viet Nam
+
+3274. [Anhui Normal University / 安徽师范大学] / 5286 / China
+
+3275. [Tomsk State University of Control Systems and Radioelectronics / Томский государственный университет систем управления и радиоэлектроники] / 5272 / Russia
+
+3276. [Fundación Universitaria Konrad Lorenz] / 5270 / Colombia
+
+3277. [Perm State University / Пермский государственный национальный исследовательский университет] / 5265 / Russia
+
+3278. [Université de la Polynésie Française] / 5255 / French Polynesia
+
+3279. [Technological Education Institute of Lamia] / 5254 / Greece
+
+3280. [BMS College of Engineering] / 5245 / India
+
+3281. [Rostov State Medical University / Ростовский государственной медицинский университет] / 5241 / Russia
+
+3282. [New Jersey City University] / 5233 / USA
+
+3283. [École Nationale de l’Aviation Civile ENAC (comUE Université de Toulouse)] / 5219 / France
+
+3284. [Northeastern State University] / 5217 / USA
+
+3285. [Pedagogical University of Cracow / Uniwersytet Pedagogiczny Komisji Edukacji Narodowej w Krakowie] / 5208 / Poland
+
+3286. [Obihiro University of Agriculture and Veterinary Medicine / 帯広畜産大学] / 5206 / Japan
+
+3287. [Slovak University of Agriculture in Nitra / Slovenská poľnohospodárska univerzita v Nitre] / 5200 / Slovakia
+
+3288. [Hanze University Groningen / Hanzehogeschool Groningen] / 5199 / Netherlands
+
+3289. [Université de Carthage Faculté des Sciences de Bizerte] / 5198 / Tunisia
+
+3290. [Lagos State University] / 5190 / Nigeria
+
+3291. [Universidad Autónoma de Chile] / 5185 / Chile
+
+3292. [Istanbul Kemerburgaz University] / 5175 / Turkey
+
+3293. [Université de Lyon III / Université Jean Moulin Lyon III (comUE Université de Lyon)] / 5172 / France
+
+3294. [Université d'Abomey-Calavi] / 5169 / Benin
+
+3295. [University of the Arts London] / 5165 / United Kingdom
+
+3296. [Sumy National Agrarian University / Сумський національний аграрний університет] / 5162 / Ukraine
+
+3297. [Universidad de la República Facultad de Agronomía] / 5161 / Uruguay
+
+3298. [World Maritime University] / 5160 / Sweden
+
+3299. [Clayton State University] / 5159 / USA
+
+3300. [Showa College of Pharmaceutical Sciences / 昭和薬科大学] / 5150 / Japan
+
+3301. [Instituto Politécnico de Castelo Branco] / 5141 / Portugal
+
+3302. [Forman Christian College Lahore] / 5141 / Pakistan
+
+3303. [Morehead State University] / 5138 / USA
+
+3304. [National Aviation University (Kyiv International University of Civil Aviation) / Національний авіаційний університет] / 5132 / Ukraine
+
+3305. [Wentworth Institute of Technology] / 5124 / USA
+
+3306. [University of Chittagong] / 5121 / Bangladesh
+
+3307. [Islamic Azad University Mahshahr] / 5120 / Iran
+
+3308. [Université de Paris II / Université Panthéon Assas (comUE Sorbonne Universités)] / 5113 / France
+
+3309. [Trakia University Stara Zagora / Тракийски Университет] / 5103 / Bulgaria
+
+3310. [National Engineering College Kovilpatti] / 5102 / India
+
+3311. [Armstrong Atlantic State University] / 5097 / USA
+
+3312. [Ardabil University of Medical Sciences] / 5097 / Iran
+
+3313. [Mindanao State University Iligan Institute of Technology] / 5095 / Philippines
+
+3314. [L N M Institute of Information Technology Jaipur] / 5088 / India
+
+3315. [Central University of Finance &amp; Economics / 中央财经大学] / 5088 / China
+
+3316. [Islamic Azad University Arak] / 5085 / Iran
+
+3317. [Universitas AMIKOM Yogyakarta] / 5083 / Indonesia
+
+3318. [University of Houston Downtown] / 5075 / USA
+
+3319. [Central University of Technology] / 5071 / South Africa
+
+3320. [Dr Hari Singh Gour University Sagar University] / 5069 / India
+
+3321. [Botswana International University of Science &amp; Technology] / 5054 / Botswana
+
+3322. [University of Health Sciences Lahore] / 5051 / Pakistan
+
+3323. [Delhi Technological University] / 5046 / India
+
+3324. [Bilecik University] / 5045 / Turkey
+
+3325. [Krok University (Kyiv University of Economics and Law of the CRIC ) / Університет КРОК] / 5025 / Ukraine
+
+3326. [Monterey Institute of International Studies] / 5013 / USA
+
+3327. [Houston Baptist University] / 5008 / USA
+
+3328. [Dr Reddy's Institute of Life Sciences] / 5007 / India
+
+3329. [Universidad de la República Instituto de Física Facultad de Ciencias] / 4985 / Uruguay
+
+3330. [Universitas Nasional] / 4982 / Indonesia
+
+3331. [Swedish School of Sports and Health Sciences / Gymnastik- och idrottshögskolan] / 4979 / Sweden
+
+3332. [Gümüshane University] / 4968 / Turkey
+
+3333. [Instituto Tecnológico de Buenos Aires] / 4964 / Argentina
+
+3334. [Saint Petersburg Academic University (Academic University) / Санкт-Петербургский Академический университет (Академический университет)] / 4961 / Russia
+
+3335. [Moravian College] / 4957 / USA
+
+3336. [Universidade Salvador UNIFACS] / 4957 / Brazil
+
+3337. [Alba Graduate Business School] / 4954 / Greece
+
+3338. [South Eastern Kenya University] / 4951 / Kenya
+
+3339. [Gustavus Adolphus College] / 4950 / USA
+
+3340. [Ono Academic College] / 4944 / Israel
+
+3341. [Teikyo University / 帝京大学] / 4942 / Japan
+
+3342. [Buskerud and Vestfold University College / Høgskolen i Buskerud og Vestfold] / 4934 / Norway
+
+3343. [Tokyo University of Agriculture / 東京農業大学] / 4934 / Japan
+
+3344. [Alabama A&amp;M University] / 4933 / USA
+
+3345. [National Institute of Technology Silchar] / 4928 / India
+
+3346. [Semnan University of Medical Sciences] / 4912 / Iran
+
+3347. [California Baptist University] / 4909 / USA
+
+3348. [Rajiv Gandhi University] / 4909 / India
+
+3349. [University of Tuzla / Univerzitet u Tuzli] / 4891 / Bosnia and Herzegovina
+
+3350. [Open University of Sri Lanka] / 4890 / Sri Lanka
+
+3351. [Government College of Technology Coimbatore] / 4890 / India
+
+3352. [Universidad de Caldas] / 4890 / Colombia
+
+3353. [Ahi Evran University] / 4886 / Turkey
+
+3354. [Université de Tébessa] / 4866 / Algeria
+
+3355. [Université Setif 1 Ferhat Abbas Setif] / 4866 / Algeria
+
+3356. [École Nationale Supérieure des Arts et Industries Textiles] / 4862 / France
+
+3357. [Shanghai University of Finance &amp; Economics / 上海财经大学] / 4858 / China
+
+3358. [Dnipropetrovsk National University of Railway Transport Academician V Lazaryan / Дніпропетровський національний університет залізничного транспорту академіка В Лазаряна] / 4836 / Ukraine
+
+3359. [Hazara University] / 4828 / Pakistan
+
+3360. [Fachhochschule Salzburg] / 4814 / Austria
+
+3361. [National Chin Yi University of Technology] / 4806 / Taiwan
+
+3362. [Universidad Nacional de Salta] / 4806 / Argentina
+
+3363. [National Institute of Technical Teachers' Training and Research Chandigarh] / 4803 / India
+
+3364. [Okan University] / 4800 / Turkey
+
+3365. [Shanghai University of Electric Power / 上海电力学院] / 4796 / China
+
+3366. [Sapientia Hungarian University of Transylvania] / 4787 / Romania
+
+3367. [School of Advanced Study University of London] / 4782 / United Kingdom
+
+3368. [Marist College] / 4771 / USA
+
+3369. [Aja (Army) University of Medical Sciences] / 4771 / Iran
+
+3370. [Shaqra University] / 4768 / Saudi Arabia
+
+3371. [Icahn School of Medicine at Mount Sinai] / 4766 / USA
+
+3372. [Mary Immaculate College University of Limerick] / 4766 / Ireland
+
+3373. [Hedmark University College / Høgskolen i Hedmark] / 4763 / Norway
+
+3374. [Ramapo College of New Jersey] / 4755 / USA
+
+3375. [State University of New York at Old Westbury] / 4754 / USA
+
+3376. [Cheng Shiu University] / 4750 / Taiwan
+
+3377. [Toulouse Business School (comUE Université de Toulouse)] / 4748 / France
+
+3378. [Health Sciences University of Mongolia] / 4744 / Mongolia
+
+3379. [Roanoke College] / 4741 / USA
+
+3380. [Nanjing Forestry University / 南京林业大学] / 4740 / China
+
+3381. [Indian Institute of Management Indore] / 4735 / India
+
+3382. [All India institute of Medical Sciences Bhopal] / 4733 / India
+
+3383. [Susquehanna University] / 4730 / USA
+
+3384. [Mizoram University] / 4729 / India
+
+3385. [Kumaun University Nainital] / 4728 / India
+
+3386. [Universidade do Sagrado Coração USC] / 4728 / Brazil
+
+3387. [Universidade Positivo] / 4728 / Brazil
+
+3388. [Université de Monastir École Nationale d'Ingénieurs de Monastir] / 4727 / Tunisia
+
+3389. [Ulyanovsk State Technical University / Ульяновский государственный технический университет] / 4722 / Russia
+
+3390. [Colorado Mesa University (Mesa State College)] / 4719 / USA
+
+3391. [Universitas Pembangunan Panca Budi Medan] / 4718 / Indonesia
+
+3392. [Adana Science and Technology University / Adana Bilim ve Teknoloji Üniversitesi] / 4713 / Turkey
+
+3393. [Tatung University] / 4711 / Taiwan
+
+3394. [German Graduate School of Management &amp; Law] / 4710 / Germany
+
+3395. [Regent University] / 4706 / USA
+
+3396. [RCSI Medical University of Bahrain] / 4705 / Bahrain
+
+3397. [University of Jammu] / 4704 / India
+
+3398. [Princess Nourah Bint Abdulrahman University] / 4700 / Saudi Arabia
+
+3399. [Technische Hochschule Deggendorf (Hochschule für Angewandte Wissenschaften Deggendorf)] / 4696 / Germany
+
+3400. [California State University Stanislaus] / 4695 / USA
+
+3401. [Instituto Tecnológico de Veracruz] / 4692 / Mexico
+
+3402. [Depauw University] / 4691 / USA
+
+3403. [Eastern Washington University] / 4690 / USA
+
+3404. [University of International Business &amp; Economics / 对外经济贸易大学] / 4685 / China
+
+3405. [University of Dallas] / 4682 / USA
+
+3406. [Université de Batna 2] / 4670 / Algeria
+
+3407. [Sri Sathya Sai Institute of Higher Learning] / 4669 / India
+
+3408. [Universidad Católica del Maule] / 4667 / Chile
+
+3409. [Asahikawa Medical University / 旭川医科大学] / 4665 / Japan
+
+3410. [University of Sulaimani] / 4653 / Iraq
+
+3411. [University of Kaposvár / Kaposvári Egyetem KE] / 4648 / Hungary
+
+3412. [University of Peshawar] / 4646 / Pakistan
+
+3413. [Guangzhou University / 广州大学] / 4632 / China
+
+3414. [O M Beketov National University of Urban Economy in Kharkiv / Харківський національний університет міського господарства О М Бекетова] / 4626 / Ukraine
+
+3415. [University for Development Studies] / 4626 / Ghana
+
+3416. [National School of Political Studies and Public Administration] / 4600 / Romania
+
+3417. [Maharana Pratap University of Agriculture and Technology] / 4599 / India
+
+3418. [Universidad Nacional de Misiones] / 4599 / Argentina
+
+3419. [Western Connecticut State University] / 4586 / USA
+
+3420. [Kharkiv University of Air Forces Ivan Kozhedub / Харківський університет Повітряних Сил І Кожедуба] / 4578 / Ukraine
+
+3421. [Bayero University Kano        ] / 4576 / Nigeria
+
+3422. [Spelman College] / 4574 / USA
+
+3423. [National University of Public Service / Nemzeti Közszolgálati Egyetem] / 4569 / Hungary
+
+3424. [University of Ruse Angel Kanchev / Русенски университет Ангел Кънчев] / 4569 / Bulgaria
+
+3425. [Redeemer's University] / 4564 / Nigeria
+
+3426. [Royal Military Academy of Brussels] / 4563 / Belgium
+
+3427. [Universidade Federal do Recôncavo da Bahia UFRB] / 4562 / Brazil
+
+3428. [University of Žilina / Žilinská univerzita v Žiline] / 4561 / Slovakia
+
+3429. [Gyeongnam National University of Science &amp; Technology (Jinju National University) / 경남과학기술대학교] / 4542 / South Korea
+
+3430. [Université de Paris X / Université Paris Ouest Nanterre La Défense (comUE Université Paris Lumières)] / 4542 / France
+
+3431. [Swinburne University of Technology Sarawak Campus] / 4541 / Malaysia
+
+3432. [University for Humanistics / Universiteit voor Humanistiek] / 4533 / Netherlands
+
+3433. [Frostburg State University] / 4532 / USA
+
+3434. [Dharmsinh Desai University (D D Institute of Technology)] / 4531 / India
+
+3435. [National Louis University] / 4524 / USA
+
+3436. [Kharkiv National University VN Karazin / Харківський національний університет В Н Каразіна] / 4522 / Ukraine
+
+3437. [Mehran University of Engineering &amp; Technology] / 4515 / Pakistan
+
+3438. [Loyola Law School Los Angeles] / 4506 / USA
+
+3439. [Worcester State University] / 4506 / USA
+
+3440. [Kanazawa Medical University / 金沢医科大学] / 4506 / Japan
+
+3441. [Iğdır University] / 4504 / Turkey
+
+3442. [Tecnun Universidad de Navarra] / 4501 / Spain
+
+3443. [Singidunum University / Универзитет Сингидунум / Univerzitet Singidunum] / 4490 / Serbia
+
+3444. [B S Abdur Rahman University (Crescent Engineering College)] / 4486 / India
+
+3445. [Chukyo University / 中京大学] / 4480 / Japan
+
+3446. [Ilam University] / 4479 / Iran
+
+3447. [Universitas Tanjungpura] / 4474 / Indonesia
+
+3448. [Universitas Riau] / 4472 / Indonesia
+
+3449. [Karamanoğlu Mehmetbey University] / 4469 / Turkey
+
+3450. [All India Institute of Medical Sciences Bhubaneswar] / 4467 / India
+
+3451. [Vytautas Magnus University / Vytauto Didžiojo universitetas ] / 4463 / Lithuania
+
+3452. [Heritage Institute of Technology] / 4459 / India
+
+3453. [University of Jeddah] / 4457 / Saudi Arabia
+
+3454. [Sikkim Universtiy] / 4452 / India
+
+3455. [Metropolitan State University] / 4437 / USA
+
+3456. [Sekolah Tinggi Teknik Surabaya Surabaya] / 4436 / Indonesia
+
+3457. [Universidad de Quintana Roo] / 4435 / Mexico
+
+3458. [Management Development Institute] / 4434 / India
+
+3459. [Technical University of Moldova / Universitatea Tehnica a Moldovei] / 4433 / Moldova
+
+3460. [Universidade Atlântica] / 4431 / Portugal
+
+3461. [State University of Moldova / Universitatea de Stat din Moldova] / 4430 / Moldova
+
+3462. [National Kaohsiung Marine University] / 4427 / Taiwan
+
+3463. [Sir Padampat Singhania University Udaipur] / 4427 / India
+
+3464. [Universidade Federal do Oeste do Para] / 4427 / Brazil
+
+3465. [Universidad Técnica Particular de Loja] / 4413 / Ecuador
+
+3466. [Yugra State University / Югорский государственный университет] / 4410 / Russia
+
+3467. [Toin University of Yokohama / 桐蔭横浜大学] / 4398 / Japan
+
+3468. [Islamic Azad University Shahrekord] / 4391 / Iran
+
+3469. [Govind Ballabh Pant University of Agriculture &amp; Technology College of Basic Sciences and Humanities] / 4389 / India
+
+3470. [Universidade FEEVALE] / 4389 / Brazil
+
+3471. [Lala Lajpat Rai University of Veterinary and Animal Sciences] / 4369 / India
+
+3472. [Bartin University] / 4367 / Turkey
+
+3473. [Academy of Physical Education in Cracow / Akademia Wychowania Fizycznego Bronisława Czecha w Krakowie] / 4363 / Poland
+
+3474. [Kakatiya University] / 4358 / India
+
+3475. [Telkom University / Universitas Telkom] / 4356 / Indonesia
+
+3476. [National University of Water and Environmental Engineering / Національний університет водного господарства та природокористування] / 4355 / Ukraine
+
+3477. [Universidade Santa Cecilia UNISANTA] / 4350 / Brazil
+
+3478. [University Aurel Vlaicu Arad] / 4346 / Romania
+
+3479. [Fundação Herminio Ometto FHO UNIARARAS] / 4346 / Brazil
+
+3480. [O P Jindal Global University] / 4345 / India
+
+3481. [École Centrale de Marseille] / 4343 / France
+
+3482. [University of the Fraser Valley] / 4342 / Canada
+
+3483. [Girne American University] / 4340 /  
+
+3484. [Ilam University of Medical Sciences] / 4340 / Iran
+
+3485. [Università Telematica Internazionale UniNettuno] / 4337 / Italy
+
+3486. [Tafila Technical University] / 4336 / Jordan
+
+3487. [Jai Narain Vyas University] / 4326 / India
+
+3488. [Instituto Federal de Educação Ciência e Tecnologia do Ceará] / 4322 / Brazil
+
+3489. [Universidade Católica de Salvador UCSal] / 4322 / Brazil
+
+3490. [Tarleton State University] / 4321 / USA
+
+3491. [YMCA University of Science &amp; Technology Faridabad] / 4320 / India
+
+3492. [Yunnan University / 云南大学] / 4320 / China
+
+3493. [Det Kongelige Danske Kunstakademis Skoler for Arkitektur Design og Konservering] / 4314 / Denmark
+
+3494. [University of Maryland University College] / 4313 / USA
+
+3495. [Qom University] / 4313 / Iran
+
+3496. [National Institute for Research &amp; Development in Informatics / Institutul Național de Cercetare Dezvoltare în Informatică] / 4312 / Romania
+
+3497. [Guangxi Normal University / 广西师范大学] / 4312 / China
+
+3498. [Brooklyn Law School] / 4307 / USA
+
+3499. [Pontificia Universidade Catolica de Goiás PUC Goiás] / 4307 / Brazil
+
+3500. [State University of New York SUNY Potsdam] / 4305 / USA
+
+3501. [Suan Sunandha Rajabhat University] / 4305 / Thailand
+
+3502. [Novosibirsk State Technical University / Новосибирский государственный технический университет] / 4303 / Russia
+
+3503. [Indian Institute of Management Kozhikode] / 4300 / India
+
+3504. [Jawaharlal Nehru Technological University Anantapur] / 4300 / India
+
+3505. [National Defense Medical College / 防衛医科大学校] / 4294 / Japan
+
+3506. [PSNA College of Engineering and Technology] / 4293 / India
+
+3507. [École Supérieure de Commerce à Paris et à Nice] / 4288 / France
+
+3508. [Baldwin Wallace University] / 4287 / USA
+
+3509. [Stephen F Austin State University] / 4287 / USA
+
+3510. [Institute of Space Technology] / 4284 / Pakistan
+
+3511. [Universidade Católica de Santos UNISANTOS] / 4279 / Brazil
+
+3512. [Université Abdelhamid Ibn Badis Mostaganem] / 4279 / Algeria
+
+3513. [National Institute of Technology Jamshedpur] / 4265 / India
+
+3514. [European Business School Schloss Reichartshausen] / 4261 / Germany
+
+3515. [Islamic Azad University Jahrom] / 4260 / Iran
+
+3516. [National Centre of Excellence in Analytical Chemistry University of Sindh] / 4249 / Pakistan
+
+3517. [Al Hussein bin Talal University] / 4247 / Jordan
+
+3518. [Universidade do Estado do Rio Grande do Norte UERN] / 4245 / Brazil
+
+3519. [University Oil Gas Ploiesti] / 4238 / Romania
+
+3520. [Wheaton College Illinois] / 4235 / USA
+
+3521. [Sekolah Tinggi Ilmu Ekonomi STIE Riau Pekanbaru] / 4235 / Indonesia
+
+3522. [Université Saad Dahlab Blida] / 4225 / Algeria
+
+3523. [Washburn University] / 4220 / USA
+
+3524. [Austin Peay State University] / 4213 / USA
+
+3525. [Chinese Culture University] / 4202 / Taiwan
+
+3526. [Università degli Studi Guglielmo Marconi] / 4196 / Italy
+
+3527. [Brigham Young University Idaho] / 4190 / USA
+
+3528. [Vitebsk State University P M Masherov / Витебский государственный университет П М Машерова] / 4190 / Belarus
+
+3529. [Samara State University / Самарский государственный университет] / 4188 / Russia
+
+3530. [KIET Group of Institutions] / 4183 / India
+
+3531. [Dr D Y Patil University] / 4176 / India
+
+3532. [Universitas Pattimura] / 4162 / Indonesia
+
+3533. [Universidad de Puerto Rico Río Piedras] / 4161 / Puerto Rico
+
+3534. [Persian Gulf University Bushehr] / 4151 / Iran
+
+3535. [Middle East University Jordan] / 4144 / Jordan
+
+3536. [United International University] / 4143 / Bangladesh
+
+3537. [Tyumen State University / Тюменский государственный университет] / 4142 / Russia
+
+3538. [University of North Alabama] / 4141 / USA
+
+3539. [University of Warsaw Astronomical Observatory / Uniwersytetu Warszawskiego Obserwatorium Astronomiczne] / 4139 / Poland
+
+3540. [Universidade Cidade de São Paulo UNICID] / 4133 / Brazil
+
+3541. [Erzurum Teknik Üniversitesi] / 4128 / Turkey
+
+3542. [Vignan University] / 4127 / India
+
+3543. [Shahrood Medical Science University] / 4126 / Iran
+
+3544. [Guizhou University (Institute of Technology) / 贵州大学] / 4125 / China
+
+3545. [Sari Agricultural Science and Natural Resources University] / 4118 / Iran
+
+3546. [MCPHS University (Massachusetts College of Pharmacy &amp; Health Sciences)] / 4115 / USA
+
+3547. [Technological Education Institute of Western Greece] / 4111 / Greece
+
+3548. [Escola Superior de Enfermagem do Porto] / 4104 / Portugal
+
+3549. [Bidhan Chandra Krishi Viswavidyalaya] / 4104 / India
+
+3550. [Emmanuel College Boston] / 4100 / USA
+
+3551. [Rockhurst University] / 4100 / USA
+
+3552. [Open University of Hong Kong] / 4099 / Hong Kong
+
+3553. [University of Indianapolis] / 4097 / USA
+
+3554. [Saint Mary's University Twickenham] / 4092 / United Kingdom
+
+3555. [Al Khawarizmi Institute of Computer Science] / 4089 / Pakistan
+
+3556. [Suwon University / 수원대학교] / 4084 / South Korea
+
+3557. [University of Balamand] / 4081 / Lebanon
+
+3558. [National University of Mongolia / Монгол улсын их сургууль] / 4076 / Mongolia
+
+3559. [Ostbayerische Technische Hochschule Regensburg] / 4065 / Germany
+
+3560. [Manchester University] / 4061 / USA
+
+3561. [Instituto Politécnico do Cavado e do Ave] / 4061 / Portugal
+
+3562. [Sumandeep University] / 4061 / India
+
+3563. [Federal University of Technology Owerri] / 4054 / Nigeria
+
+3564. [Centro Federal de Educacão Tecnológica de Minas Gerais CEFET-MG] / 4054 / Brazil
+
+3565. [University of Zadar] / 4053 / Croatia
+
+3566. [Karakarum International University] / 4052 / Pakistan
+
+3567. [Dnipropetrovsk State Agrarian University / Дніпропетровський державний аграрно економічний університет] / 4048 / Ukraine
+
+3568. [Fontys University of Applied Sciences] / 4045 / Netherlands
+
+3569. [Indian Statistical Institute Bangalore] / 4044 / India
+
+3570. [Albion College] / 4043 / USA
+
+3571. [Hólar University College / Hólaskóli] / 4041 / Iceland
+
+3572. [Fukui Prefectural University / 福井県立大学] / 4035 / Japan
+
+3573. [Universitas Gunadarma] / 4032 / Indonesia
+
+3574. [Loyola College Chennai] / 4030 / India
+
+3575. [Bauman Moscow State Technical University / Московский государственный технический университет Н Э Баумана] / 4020 / Russia
+
+3576. [Nuclear Institute for Agriculture and Biology] / 4019 / Pakistan
+
+3577. [Milwaukee School of Engineering] / 4017 / USA
+
+3578. [Air University Islamabad] / 4017 / Pakistan
+
+3579. [Sarajevo School of Science &amp; Technology] / 4013 / Bosnia and Herzegovina
+
+3580. [Prince Sattam bin Abdulaziz University] / 4012 / Saudi Arabia
+
+3581. [University of San Agustin] / 4010 / Philippines
+
+3582. [National University of Science &amp; Technology] / 3998 / Zimbabwe
+
+3583. [Namibia University of Science and Technology (Polytechnic of Namibia)] / 3997 / Namibia
+
+3584. [Kentucky State University] / 3994 / USA
+
+3585. [Ned University of Engineering &amp; Technology] / 3986 / Pakistan
+
+3586. [College of Idaho] / 3985 / USA
+
+3587. [Universidad Panamericana México] / 3985 / Mexico
+
+3588. [ISEN École d'Ingénieur Généraliste en Haute Technologie et du Numerique] / 3985 / France
+
+3589. [Philadelphia University] / 3979 / USA
+
+3590. [Da Yeh University] / 3971 / Taiwan
+
+3591. [Avinashilingam University for Women] / 3968 / India
+
+3592. [Istanbul Sabahattin Zaim University] / 3960 / Turkey
+
+3593. [Ukrainian State University of Chemical Engineering / Український державний хіміко-технологічний університет] / 3959 / Ukraine
+
+3594. [Hochschule Pforzheim] / 3959 / Germany
+
+3595. [Escola Superior de Enfermagem de Coimbra] / 3958 / Portugal
+
+3596. [American University in the Emirates ] / 3956 / United Arab Emirates
+
+3597. [US Naval War College] / 3946 / USA
+
+3598. [Andhra University Visakhapatnam ] / 3945 / India
+
+3599. [Chongqing University of Technology / 重庆理工大学] / 3943 / China
+
+3600. [Oregon Institute of Technology] / 3935 / USA
+
+3601. [Instituto Tecnológico de Durango] / 3934 / Mexico
+
+3602. [Kermanshah University of Technology] / 3918 / Iran
+
+3603. [Devi Ahilya Vishwavidyalaya Indore] / 3918 / India
+
+3604. [Universitas Tarumanagara UNTAR] / 3913 / Indonesia
+
+3605. [Philadelphia College of Osteopathic Medicine] / 3905 / USA
+
+3606. [University of Washington Bothell] / 3905 / USA
+
+3607. [Rhode Island School of Design] / 3899 / USA
+
+3608. [CMR Institute of Technology] / 3899 / India
+
+3609. [Université de Dschang ] / 3896 / Cameroon
+
+3610. [Damghan University] / 3891 / Iran
+
+3611. [Centro Federal de Educação Tecnológica Celso Suckow do Fonseca CEFET/RJ] / 3888 / Brazil
+
+3612. [Guilin University of Electronic Technology / 桂林电子科技大学] / 3886 / China
+
+3613. [Dakota State University] / 3883 / USA
+
+3614. [Saint Norbert College] / 3882 / USA
+
+3615. [Islamic University Kushtia] / 3878 / Bangladesh
+
+3616. [Saint Peters University] / 3869 / USA
+
+3617. [Konyang University / 건양대학교] / 3869 / South Korea
+
+3618. [Mykolas Romeris University / Mykolo Romerio universitetas ] / 3867 / Lithuania
+
+3619. [Universidad de la Sabana] / 3867 / Colombia
+
+3620. [Inner Mongolia University / 内蒙古大学] / 3864 / China
+
+3621. [Tsurumi University / 鶴見大学] / 3856 / Japan
+
+3622. [Dongseo University / 동서대학교] / 3851 / South Korea
+
+3623. [Universidad de Mondragon Mondragon Unibertsitatea] / 3844 / Spain
+
+3624. [Jiangsu Academy of Agricultural Sciences / 江苏省农业科学院] / 3838 / China
+
+3625. [Neapolis University of Pafos] / 3827 / Cyprus
+
+3626. [Universidade FUMEC] / 3819 / Brazil
+
+3627. [Instituto Politécnico de Beja] / 3816 / Portugal
+
+3628. [University of Life Sciences in Lublin (Agricultural University) / Uniwersytet Przyrodniczy w Lublinie] / 3812 / Poland
+
+3629. [Siddaganga Institute of Technology] / 3807 / India
+
+3630. [Facultad Latinoamericana de Ciencias Sociales] / 3806 /  
+
+3631. [Catholic University of Daegu / 대구가톨릭대학교] / 3805 / South Korea
+
+3632. [Dokkyo University School of Medicine / 獨協医科大学] / 3805 / Japan
+
+3633. [Harrisburg University of Science &amp; Technology] / 3803 / USA
+
+3634. [Saxion University of Professional Education] / 3797 / Netherlands
+
+3635. [Kumaraguru College of Technology] / 3795 / India
+
+3636. [Mehmet Akif Ersoy University] / 3791 / Turkey
+
+3637. [Universidad Autónoma de Chiapas] / 3791 / Mexico
+
+3638. [Malek Ashtar University of Technology Shahinshahr] / 3785 / Iran
+
+3639. [Yalova University] / 3784 / Turkey
+
+3640. [Lillehammer College / Høgskolen i Lillehammer] / 3784 / Norway
+
+3641. [University of Saint Thomas Houston] / 3780 / USA
+
+3642. [University of Pannonia Georgikon Faculty of Agriculture] / 3778 / Hungary
+
+3643. [Agri Mountain University / Ağrı İbrahim Çeçen University] / 3776 / Turkey
+
+3644. [German University of Technology in Oman] / 3773 / Oman
+
+3645. [St Catherine University (College of Saint Catherine)] / 3771 / USA
+
+3646. [Urmia University of Technology] / 3767 / Iran
+
+3647. [Kharkiv National University of Internal Affairs / Харківський національний університет внутрішніх справ] / 3762 / Ukraine
+
+3648. [Ankara Sosyal Bilimler University] / 3762 / Turkey
+
+3649. [Universidade Paranaense UNIPAR] / 3762 / Brazil
+
+3650. [Instituto Politécnico de Tomar] / 3758 / Portugal
+
+3651. [Instituto Federal de Educação Ciência e Tecnologia de São Paulo IFSP] / 3757 / Brazil
+
+3652. [University of Arkansas Pine Bluff] / 3756 / USA
+
+3653. [Federal University Oye Ekiti Ekiti State] / 3755 / Nigeria
+
+3654. [Islamic Azad University Mashhad] / 3751 / Iran
+
+3655. [Institut National des Sciences Appliquées de Strasbourg / INSA Strasbourg] / 3750 / France
+
+3656. [Federal University Ndufu Alike Ikwo FUNAI] / 3748 / Nigeria
+
+3657. [Grande École d'Ingénieurs en Informatique et en Electronique a Angers] / 3748 / France
+
+3658. [Wittenberg University] / 3743 / USA
+
+3659. [University of Swaziland] / 3742 / Swaziland
+
+3660. [Universitas Negeri Makassar] / 3720 / Indonesia
+
+3661. [Universidad de las Américas Ecuador] / 3719 / Ecuador
+
+3662. [Queens University of Charlotte] / 3716 / USA
+
+3663. [Kielce University of Technology / Politechnika Świętokrzyska w Kielcach] / 3714 / Poland
+
+3664. [European University Saint Petersburg / Европейский Университет в Санкт-Петербурге] / 3713 / Russia
+
+3665. [Charles Drew University of Medicine &amp; Science] / 3709 / USA
+
+3666. [Harding University] / 3708 / USA
+
+3667. [University of Findlay] / 3701 / USA
+
+3668. [Lviv Polytechnic National University / Національний університет Львівська політехніка] / 3699 / Ukraine
+
+3669. [Universidad Tecnológica de Panamá] / 3685 / Panama
+
+3670. [Southwest University of Science &amp; Technology / 西南科技大学] / 3684 / China
+
+3671. [Galway Mayo Institute of Technology] / 3681 / Ireland
+
+3672. [Madras School of Economics] / 3674 / India
+
+3673. [École Supérieure de Chimie Physique Électronique de Lyon CPE Lyon] / 3674 / France
+
+3674. [Anhanguera Educacional] / 3673 / Brazil
+
+3675. [Augustana College Rock Island] / 3668 / USA
+
+3676. [Hainan University (South China Tropical Agricultural University) / 海南大学] / 3667 / China
+
+3677. [Macau Polytechnic Institute] / 3655 / Macao
+
+3678. [College of Management] / 3655 / Israel
+
+3679. [University of Jos] / 3653 / Nigeria
+
+3680. [Lanzhou University of Technology (Gansu University of Technology) / 兰州理工大学] / 3649 / China
+
+3681. [IAE Business School] / 3649 / Argentina
+
+3682. [Istanbul Arel University] / 3648 / Turkey
+
+3683. [Dibrugarh University] / 3648 / India
+
+3684. [Silpakorn University] / 3641 / Thailand
+
+3685. [BLDE University] / 3641 / India
+
+3686. [University of Bielsko-Biala / Akademia Techniczno Humanistyczna w Bielsku-Białej] / 3637 / Poland
+
+3687. [Ho Chi Minh City University of Science (Natural Sciences)] / 3634 / Viet Nam
+
+3688. [George Fox University] / 3633 / USA
+
+3689. [Rajshahi University of Engineering and Technology] / 3624 / Bangladesh
+
+3690. [École Nationale Supérieure de Mécanique et des Microtechniques de Besançon ENSMM (comUE Université Bourgogne Franche Comté)] / 3609 / France
+
+3691. [Saginaw Valley State University] / 3607 / USA
+
+3692. [National Kaohsiung Normal University] / 3599 / Taiwan
+
+3693. [Universidad Europea Miguel de Cervantes] / 3598 / Spain
+
+3694. [Applied Science University ] / 3598 / Jordan
+
+3695. [United Nations University World Institute for Development Economics Research] / 3597 / Finland
+
+3696. [Technische Hochschule Köln / TH Köln University of Applied Sciences] / 3593 / Germany
+
+3697. [Rajasthan Technical University] / 3591 / India
+
+3698. [Bangabandhu Sheikh Mujibur Rahman Agricultural University] / 3591 / Bangladesh
+
+3699. [Mutah University] / 3590 / Jordan
+
+3700. [Dr Babasaheb Ambedkar Marathwada University Aurangabad] / 3590 / India
+
+3701. [Osun State University] / 3587 / Nigeria
+
+3702. [Balochistan University of Information Technology, Engineering and Management Sciences  ] / 3579 / Pakistan
+
+3703. [Ukrainian Medical Stomatological Academy / Українська медична стоматологічна академія] / 3578 / Ukraine
+
+3704. [Setsunan University / 摂南大学] / 3577 / Japan
+
+3705. [National University of Food Technologies Kyiv / Національний Університет Харчових Технологій] / 3576 / Ukraine
+
+3706. [Academy of Physical Education in Katowice / Akademia Wychowania Fizycznego Jerzego Kukuczki w Katowicach] / 3575 / Poland
+
+3707. [Capital University of Science &amp; Technology] / 3575 / Pakistan
+
+3708. [Sher-i-Kashmir Institute of Medical Sciences SKIMS] / 3572 / India
+
+3709. [Université de Gabès École Nationale d'Ingénieur de Gabès] / 3571 / Tunisia
+
+3710. [Imam Abdulrahman Bin Faisal University (University of Dammam)] / 3571 / Saudi Arabia
+
+3711. [Universidad Autónoma de Occidente] / 3570 / Colombia
+
+3712. [Menlo College] / 3563 / USA
+
+3713. [Ghulam Ishaq Khan Institute of Engineering Sciences and Technology] / 3553 / Pakistan
+
+3714. [Karpagam Academy of Higher Education] / 3547 / India
+
+3715. [Kogakuin University / 工学院大学] / 3546 / Japan
+
+3716. [Tamil Nadu Veterinary and Animal Sciences University] / 3543 / India
+
+3717. [Midwestern State University] / 3542 / USA
+
+3718. [Fukuoka Institute of Technology / 福岡工業大学] / 3542 / Japan
+
+3719. [University of Duhok] / 3542 / Iraq
+
+3720. [Dow University of Health Sciences Karachi] / 3539 / Pakistan
+
+3721. [Ahlia University] / 3532 / Bahrain
+
+3722. [Chatham University] / 3531 / USA
+
+3723. [University of Wisconsin River Falls] / 3530 / USA
+
+3724. [Université de Recherche Paris sciences et lettres (comUE Université Paris PSL)] / 3528 / France
+
+3725. [University of North Georgia] / 3526 / USA
+
+3726. [Lewis &amp; Clark State College] / 3524 / USA
+
+3727. [Universidad Nacional de Asunción] / 3523 / Paraguay
+
+3728. [Université Amar Telidji de Laghouat] / 3508 / Algeria
+
+3729. [Universidad CEU Cardenal Herrera] / 3504 / Spain
+
+3730. [Agricultural University of Iceland / Landbúnaðarháskóli Íslands] / 3502 / Iceland
+
+3731. [Université de Bordeaux III / Université Bordeaux Montaigne (ComUE d'Aquitaine)] / 3501 / France
+
+3732. [University of Raparin] / 3498 / Iraq
+
+3733. [Université 08 Mai 1945 Guelma] / 3496 / Algeria
+
+3734. [Universidade Estadual de Goiás UEG] / 3495 / Brazil
+
+3735. [University of Azad Jammu and Kashmir] / 3492 / Pakistan
+
+3736. [Nahda University] / 3491 / Egypt
+
+3737. [Hochschule für Telekommunikation Leipzig] / 3477 / Germany
+
+3738. [Universidade Regional do Cariri URCA] / 3477 / Brazil
+
+3739. [Aichi University of Education / 愛知教育大学] / 3476 / Japan
+
+3740. [École Nationale d'Administration Publique] / 3472 / Canada
+
+3741. [Yasuj University of Medical Sciences] / 3470 / Iran
+
+3742. [Dr D Y Patil Vidyapeeth] / 3469 / India
+
+3743. [Berhampur University] / 3468 / India
+
+3744. [California Lutheran University] / 3461 / USA
+
+3745. [Fachhochschule Potsdam] / 3458 / Germany
+
+3746. [Hochschule Coburg] / 3457 / Germany
+
+3747. [Institute of Engineering and Technology Lucknow] / 3455 / India
+
+3748. [RMIT International University Vietnam] / 3450 / Viet Nam
+
+3749. [Soka University of America] / 3447 / USA
+
+3750. [CUNY Bronx Community College] / 3445 / USA
+
+3751. [International University of Business Agriculture and Technology University of Dhaka] / 3441 / Bangladesh
+
+3752. [Whitworth University] / 3432 / USA
+
+3753. [Industrial Technology Institute ] / 3432 / Sri Lanka
+
+3754. [KTO Karatay University] / 3430 / Turkey
+
+3755. [Centre for European Policy Studies] / 3429 / Belgium
+
+3756. [Fachhochschule Lubeck] / 3427 / Germany
+
+3757. [Touro University] / 3426 / USA
+
+3758. [University of Da Nang] / 3424 / Viet Nam
+
+3759. [Alfred Nobel University Dnipropetrovsk (University of Economics and Law) / Дніпропетровський університет Альфреда Нобеля] / 3422 / Ukraine
+
+3760. [Hyogo College of Medicine / 兵庫医科大学] / 3422 / Japan
+
+3761. [Eastern Institute of Technology Hawke’s Bay and Tairāwhiti] / 3420 / New Zealand
+
+3762. [École Supérieure d'Agriculture d'Angers ESA (comUE Université Bretagne Loire)] / 3417 / France
+
+3763. [Tokyo Gakugei University / 東京学芸大学] / 3413 / Japan
+
+3764. [Don Bosco University Azara Guwahati] / 3413 / India
+
+3765. [Instituto Federal de Educação Ciência e Tecnologia do Espírito Santo] / 3412 / Brazil
+
+3766. [Amasya University] / 3409 / Turkey
+
+3767. [Hochschule Aalen] / 3409 / Germany
+
+3768. [Falmouth University (Dartington College of Arts)] / 3406 / United Kingdom
+
+3769. [Meisei University / 明星大学] / 3405 / Japan
+
+3770. [Universidad de Manizales] / 3397 / Colombia
+
+3771. [Banat University of Agricultural Sciences Timisoara] / 3396 / Romania
+
+3772. [Fatih Sultan Mehmet University / Fatih Sultan Mehmet Vakıf Üniversitesi] / 3389 / Turkey
+
+3773. [State University of New York Empire State College] / 3383 / USA
+
+3774. [University of Constantinus the Philosopher in Nitra / Univerzita Konštantína Filozofa v Nitre] / 3382 / Slovakia
+
+3775. [Universitas Katolik Parahyangan] / 3378 / Indonesia
+
+3776. [Jacksonville State University] / 3375 / USA
+
+3777. [Technische Hochschule Wildau] / 3374 / Germany
+
+3778. [Khulna University] / 3374 / Bangladesh
+
+3779. [Senshu University / 専修大学] / 3371 / Japan
+
+3780. [ITM University Gwalior] / 3368 / India
+
+3781. [Jagannath University] / 3356 / Bangladesh
+
+3782. [Texas A&amp;M University San Antonio] / 3351 / USA
+
+3783. [Kerala Agricultural University] / 3351 / India
+
+3784. [Kirovograd National Technical University / Кіровоградський національний технічний університет] / 3347 / Ukraine
+
+3785. [Mimar Sinan Fine Arts University] / 3340 / Turkey
+
+3786. [Xiamen University Malaysia Campus ] / 3339 / Malaysia
+
+3787. [West Virginia State University] / 3332 / USA
+
+3788. [World Trade Institute Berne] / 3329 / Switzerland
+
+3789. [Universidade Federal Rural da Amazônia] / 3324 / Brazil
+
+3790. [Rayat Bahra University] / 3323 / India
+
+3791. [Utica College] / 3322 / USA
+
+3792. [NIIT University] / 3320 / India
+
+3793. [Université de Constantine 2] / 3319 / Algeria
+
+3794. [Universität der Künste Berlin] / 3318 / Germany
+
+3795. [Kharkiv State Institute of Culture / Харківська державна академія культури] / 3316 / Ukraine
+
+3796. [Southampton Solent University] / 3312 / United Kingdom
+
+3797. [Burapha University] / 3307 / Thailand
+
+3798. [Centro Universitário UNIVATES] / 3307 / Brazil
+
+3799. [Université de Tunis Ecole Supérieure des Sciences et Techniques de Tunis] / 3301 / Tunisia
+
+3800. [National Institute of Technology Delhi] / 3301 / India
+
+3801. [Universidad de Magallanes] / 3296 / Chile
+
+3802. [Université Moulay Ismail Meknès] / 3293 / Morocco
+
+3803. [Universidad Pontificia de Salamanca] / 3288 / Spain
+
+3804. [Jade Hochschule] / 3283 / Germany
+
+3805. [Dayalbagh Educational Institute] / 3281 / India
+
+3806. [Chongqing Medical University / 重庆医科大学] / 3279 / China
+
+3807. [Quest International University Perak] / 3278 / Malaysia
+
+3808. [University of Engineering &amp; Technology Taxila] / 3277 / Pakistan
+
+3809. [University of Santo Tomas] / 3276 / Philippines
+
+3810. [Naturwissenschaftliches und Medizinisches Institut Universitat Tubingen] / 3275 / Germany
+
+3811. [Corporación Universitaria del Caribe] / 3275 / Colombia
+
+3812. [École Nationale Supérieure Sciences Appliquees et de Technologie] / 3269 / France
+
+3813. [Azerbaijan State University of Economics / Azərbaycan Dövlət İqtisad Universiteti] / 3266 / Azerbaijan
+
+3814. [Shiga University / 滋賀大学] / 3262 / Japan
+
+3815. [Belarusian State Pedagogical University M Tank / Белорусский государственный педагогический университет М Танка] / 3259 / Belarus
+
+3816. [Oregon State University Cascades] / 3257 / USA
+
+3817. [China Medical University / 中国医科大学] / 3254 / China
+
+3818. [Nicholls State University] / 3253 / USA
+
+3819. [Minnesota State University Moorhead] / 3250 / USA
+
+3820. [Sona College of Technology] / 3245 / India
+
+3821. [Central University of Jammu] / 3241 / India
+
+3822. [Ferris State University] / 3239 / USA
+
+3823. [Instituto Federal de Educação Ciência e Tecnologia do Rio de Janeiro IFRJ] / 3236 / Brazil
+
+3824. [Hochschule fur Wirtschaft und Recht Berlin] / 3232 / Germany
+
+3825. [Al Zaytoonah University] / 3229 / Jordan
+
+3826. [Universidade Veiga de Almeida] / 3226 / Brazil
+
+3827. [Universidad del Quindío] / 3221 / Colombia
+
+3828. [Zhejiang Gongshang University / 浙江工商大学] / 3221 / China
+
+3829. [Universidade do Estado do Amazonas UEA] / 3219 / Brazil
+
+3830. [Al Madinah International University] / 3215 / Malaysia
+
+3831. [Rajiv Gandhi Institute of Petroleum Technology] / 3211 / India
+
+3832. [Austin College] / 3207 / USA
+
+3833. [Universidad Juárez Autónoma de Tabasco] / 3207 / Mexico
+
+3834. [Mercy College New York] / 3205 / USA
+
+3835. [Instituto Politécnico de Santarém] / 3204 / Portugal
+
+3836. [Universidade Comunitaria da Região de Chapecó UNOCHAPECÓ] / 3204 / Brazil
+
+3837. [Hormozgan University Bandar Abbas] / 3199 / Iran
+
+3838. [Islamic Azad University Tehran North Branch] / 3192 / Iran
+
+3839. [College of Engineering Thiruvananthapuram] / 3186 / India
+
+3840. [Ningxia University / 宁夏大学] / 3178 / China
+
+3841. [Centro Universitário Fieo UNIFIEO] / 3178 / Brazil
+
+3842. [Sun Moon University / 선문대학교] / 3176 / South Korea
+
+3843. [Instituto Tecnológico de Celaya] / 3169 / Mexico
+
+3844. [University of Zambia] / 3159 / Zambia
+
+3845. [Guangzhou Medical University / 广州医科大学] / 3154 / China
+
+3846. [Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf] / 3152 / Algeria
+
+3847. [American International University Bangladesh] / 3151 / Bangladesh
+
+3848. [College of Applied Sciences Rustaq] / 3148 / Oman
+
+3849. [Universidad CES] / 3141 / Colombia
+
+3850. [International University of Sarajevo] / 3138 / Bosnia and Herzegovina
+
+3851. [Winona State University] / 3137 / USA
+
+3852. [Universidad Nacional de la Pampa] / 3137 / Argentina
+
+3853. [Far Eastern Federal University / Дальневосточный федеральный университет] / 3125 / Russia
+
+3854. [Valiasr University of Rafsanjan] / 3125 / Iran
+
+3855. [Mapua Institute of Technology] / 3122 / Philippines
+
+3856. [Instituto Nacional de Ciencias Agrícolas] / 3122 / Cuba
+
+3857. [Jamal Mohamed College Autonomous] / 3119 / India
+
+3858. [Daffodil International University] / 3118 / Bangladesh
+
+3859. [Njala University Sierra Leone] / 3116 / Sierra Leone
+
+3860. [Siirt University] / 3114 / Turkey
+
+3861. [Manipal University Jaipur] / 3113 / India
+
+3862. [Maricopa Community Colleges] / 3112 / USA
+
+3863. [Al Ain University of Science &amp; Technology] / 3110 / United Arab Emirates
+
+3864. [East Stroudsburg University] / 3099 / USA
+
+3865. [Agricultural University Plovdiv / Аграрен университет] / 3097 / Bulgaria
+
+3866. [Al Akhawayn University Ifrane] / 3093 / Morocco
+
+3867. [Université d'Eloued] / 3091 / Algeria
+
+3868. [Clackamas Community College] / 3083 / USA
+
+3869. [Tata Institute of Social Sciences] / 3083 / India
+
+3870. [Wartburg College] / 3077 / USA
+
+3871. [Bratsk State Technical University / Братский Государственный Университет] / 3075 / Russia
+
+3872. [Université Ibnou Zohr d'Agadir] / 3073 / Morocco
+
+3873. [Bemidji State University] / 3070 / USA
+
+3874. [Kharkiv National University of Radio Electronics / Харківський національний університет радіоелектроніки] / 3067 / Ukraine
+
+3875. [Hadassah College] / 3067 / Israel
+
+3876. [Hochschule Anhalt] / 3067 / Germany
+
+3877. [Webster University Vienna] / 3066 / Austria
+
+3878. [Perm State Pedagogical University / Пермский Государственный Педагогический Университет] / 3064 / Russia
+
+3879. [Mendel University of Agriculture and Forestry Brno / Mendelova Univerzita v Brně] / 3064 / Czechia
+
+3880. [Jaypee University of Engineering and Technology] / 3062 / India
+
+3881. [Regent s University London] / 3061 / United Kingdom
+
+3882. [Kuban State Agrarian University / Кубанский государственный аграрный университет] / 3058 / Russia
+
+3883. [University of Malayer] / 3056 / Iran
+
+3884. [Saint Thomas University] / 3054 / Canada
+
+3885. [Ahsanullah University of Science &amp; Technology] / 3050 / Bangladesh
+
+3886. [Universidad del Atlántico] / 3048 / Colombia
+
+3887. [Oman Medical College] / 3045 / Oman
+
+3888. [Islamic Azad University Shahreza] / 3042 / Iran
+
+3889. [Caritas Institute of Higher Education (Caritas Francis Hsu College)] / 3040 / Hong Kong
+
+3890. [École Polytechnique Feminine] / 3039 / France
+
+3891. [Governors State University] / 3038 / USA
+
+3892. [Virginia Military Institute] / 3031 / USA
+
+3893. [Universidad de los Llanos] / 3031 / Colombia
+
+3894. [Catholic University of Lublin / Katolicki Uniwersytet Lubelski Jana Pawła II] / 3030 / Poland
+
+3895. [Technical University of Kenya] / 3028 / Kenya
+
+3896. [Universidade de Uberaba UNIUBE] / 3026 / Brazil
+
+3897. [University of Zagreb] / 3021 / Croatia
+
+3898. [Adamas University] / 3018 / India
+
+3899. [Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt] / 3017 / Germany
+
+3900. [Fujian Agriculture &amp; Forestry University / 福建农林大学] / 3016 / China
+
+3901. [Agroecological Zhitomir National University / Житомирський національний агроекологічний університет] / 3013 / Ukraine
+
+3902. [Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Sul IFRS] / 3012 / Brazil
+
+3903. [Assumption College] / 3011 / USA
+
+3904. [Rajarata University] / 3010 / Sri Lanka
+
+3905. [Universidad Autónoma de la Ciudad de México] / 3004 / Mexico
+
+3906. [Wofford College] / 3000 / USA
+
+3907. [Faculdade Meridional] / 2998 / Brazil
+
+3908. [Universidade Federal do Acre UFAC] / 2997 / Brazil
+
+3909. [Hochschule für Musik und Theater Hannover] / 2996 / Germany
+
+3910. [Holyoke Community College] / 2995 / USA
+
+3911. [University of Arkansas Fort Smith] / 2993 / USA
+
+3912. [Facultad Latinoamericana de Ciencias Sociales Argentina] / 2990 / Argentina
+
+3913. [Hoshi University / 星薬科大学] / 2989 / Japan
+
+3914. [Ternopil State Medical University / Тернопільський державний медичний університет] / 2985 / Ukraine
+
+3915. [West Texas A&amp;M University] / 2984 / USA
+
+3916. [Sichuan Normal University / 四川师范大学] / 2983 / China
+
+3917. [Institute for Studies in Theoretical Physics and Mathematics] / 2979 / Iran
+
+3918. [Azarbaijan Shahid Madani University Tarbiat Moallem] / 2973 / Iran
+
+3919. [New Bulgarian University / Нов български университет] / 2973 / Bulgaria
+
+3920. [Bunkyo University / 文教大学] / 2971 / Japan
+
+3921. [A V C College] / 2971 / India
+
+3922. [Bennett College] / 2970 / USA
+
+3923. [Institute of Management Technology Ghaziabad] / 2967 / India
+
+3924. [Université de Gabès Faculté des Sciences de Gabès] / 2963 / Tunisia
+
+3925. [Universidade de Franca UNIFRAN] / 2957 / Brazil
+
+3926. [Indian Institute of Management Udaipur] / 2955 / India
+
+3927. [Hochschule Bremen] / 2955 / Germany
+
+3928. [Centre College] / 2950 / USA
+
+3929. [Red de Universidades Anáhuac] / 2949 / Mexico
+
+3930. [Institute of Economics Management and Law Kazan / Институт экономики, управления и права г Казань] / 2948 / Russia
+
+3931. [University of Prešov / Prešovská univerzita v Prešove] / 2944 / Slovakia
+
+3932. [Salahaddin University Erbil] / 2944 / Iraq
+
+3933. [Universidad Científica del Sur] / 2943 / Peru
+
+3934. [SUNY College at Oneonta] / 2940 / USA
+
+3935. [Baddi University] / 2937 / India
+
+3936. [Universidade Anhembi Morumbi] / 2936 / Brazil
+
+3937. [Universidad Nacional Federico Villarreal] / 2934 / Peru
+
+3938. [McDaniel College] / 2933 / USA
+
+3939. [Patuakhali Science &amp; Technology University] / 2924 / Bangladesh
+
+3940. [Kathmandu University] / 2923 / Nepal
+
+3941. [Eastern New Mexico University] / 2922 / USA
+
+3942. [University of Medical Sciences &amp; Technology] / 2922 / Sudan
+
+3943. [Elizabethtown College] / 2920 / USA
+
+3944. [Muhlenberg College] / 2916 / USA
+
+3945. [Hawler Medical University] / 2912 / Iraq
+
+3946. [Institution de la Recherche et de l'Enseignement Supérieur Agricoles] / 2909 / Tunisia
+
+3947. [Westerdals Oslo School of Arts, Communication and Technology] / 2908 / Norway
+
+3948. [Southwest Petroleum University / 西南石油大学] / 2905 / China
+
+3949. [Jiangxi Normal University (National Chung Cheng University) / 江西师范大学] / 2887 / China
+
+3950. [Great Lakes Institute of Management] / 2886 / India
+
+3951. [Universidad Popular Autónoma del Estado de Puebla] / 2883 / Mexico
+
+3952. [North Eastern Regional Institute of Science &amp; Technology] / 2882 / India
+
+3953. [Kharkiv State Academy of Railway Transport / Українська державна академія залізничного транспорту] / 2881 / Ukraine
+
+3954. [Nakhon Pathom Rajabhat University] / 2881 / Thailand
+
+3955. [Hamdan Bin Mohammed Smart University] / 2877 / United Arab Emirates
+
+3956. [National Institute of Development Administration] / 2874 / Thailand
+
+3957. [Ritsumeikan Asia Pacific University / 立命館アジア太平洋大学] / 2873 / Japan
+
+3958. [Petroleum University of Technology Abadan] / 2870 / Iran
+
+3959. [École Supérieure des Technologies Industrielles Avancées] / 2864 / France
+
+3960. [Indian Institute of Management Rohtak] / 2863 / India
+
+3961. [Technological Education Institute of Kalamata] / 2863 / Greece
+
+3962. [Shenkar School of Engineering &amp; Design] / 2855 / Israel
+
+3963. [Nelson Mandela African Institute of Science &amp; Technology] / 2854 / Tanzania
+
+3964. [Islamic Azad University Urmia] / 2851 / Iran
+
+3965. [Alliance University] / 2849 / India
+
+3966. [Universidade Federal do Amapa UNIFAP] / 2849 / Brazil
+
+3967. [University of Tennessee System] / 2848 / USA
+
+3968. [Wrocław University of Environmental and Life Sciences (Agricultural University) / Uniwersytet Przyrodniczy we Wrocławiu] / 2847 / Poland
+
+3969. [Henan University of Technology / 河南工业大学] / 2845 / China
+
+3970. [Delta State University Nigeria] / 2844 / Nigeria
+
+3971. [University of Wisconsin Colleges] / 2842 / USA
+
+3972. [Universidad de San Carlos de Guatemala] / 2842 / Guatemala
+
+3973. [Petrozavodsk State University / Петрозаводский государственный университет] / 2841 / Russia
+
+3974. [Jiwaji University] / 2840 / India
+
+3975. [Huston Tillotson University] / 2839 / USA
+
+3976. [Saint Anselm College] / 2839 / USA
+
+3977. [Islamic University of Al Madinah] / 2836 / Saudi Arabia
+
+3978. [Kyoto Pharmaceutical University / 京都薬科大学] / 2835 / Japan
+
+3979. [Donetsk National University / Донецький національний університет] / 2834 / Ukraine
+
+3980. [University of Pitesti] / 2831 / Romania
+
+3981. [University of Bacau] / 2828 / Romania
+
+3982. [Universitas Dian Nuswantoro] / 2827 / Indonesia
+
+3983. [Al Aqsa University] / 2826 / Palestine
+
+3984. [École National Supérieure de l'Informatique (ex-INI)] / 2825 / Algeria
+
+3985. [National Institute of Technology Goa] / 2823 / India
+
+3986. [Belarusian State University of Informatics and Radioelectronics / Белорусский государственный университет информатики и радиоэлектроники] / 2816 / Belarus
+
+3987. [Petro Mohyla Black Sea National University / Чорноморський національний університет Петра Могили] / 2815 / Ukraine
+
+3988. [Uva Wellassa University] / 2812 / Sri Lanka
+
+3989. [Immanuel Kant State University of Russia (Kaliningrad State University) / Балтийский федеральный университет И Канта] / 2808 / Russia
+
+3990. [Lincoln Memorial University] / 2807 / USA
+
+3991. [Beykent University] / 2806 / Turkey
+
+3992. [Universitas Kristen Duta Wacana] / 2806 / Indonesia
+
+3993. [Université Mohammed V Agdal École Mohammadia d'Ingénieurs] / 2801 / Morocco
+
+3994. [Kharkiv National Agricultural University V V Dokuchayev / Харківський національний аграрний університет В В Докучаєва] / 2800 / Ukraine
+
+3995. [Millikin University] / 2799 / USA
+
+3996. [Presbyterian College] / 2798 / USA
+
+3997. [Shanghai Jiao Tong University School of Medicine (Second Medical University) / 上海交通大学医学院] / 2796 / China
+
+3998. [Universidad Católica del Uruguay] / 2794 / Uruguay
+
+3999. [Emek Yezreel College] / 2794 / Israel
+
+4000. [St Joseph's Institute of Management Trichy] / 2793 / India
+
+4001. [IIHMR University] / 2789 / India
+
+4002. [Sri Padmavati Mahila Visvavidyalayam Tirupati] / 2781 / India
+
+4003. [University of Maiduguri] / 2780 / Nigeria
+
+4004. [Chongqing University of Arts and Sciences (Western Chongqing University) / 重庆文理学院] / 2780 / China
+
+4005. [University of Rajasthan Jaipur] / 2777 / India
+
+4006. [IFTM University] / 2774 / India
+
+4007. [Université de Carthage Institut National des Sciences Appliquées et de la Technologie] / 2773 / Tunisia
+
+4008. [Vietnam National University of Agriculture (Hanoi Agricultural University)] / 2772 / Viet Nam
+
+4009. [Islamic Azad University Ayatollah Amoli] / 2770 / Iran
+
+4010. [School of Professional and Continuing Education] / 2770 / Hong Kong
+
+4011. [Technological Educational Institute of Central Macedonia (TEI Serres)] / 2770 / Greece
+
+4012. [Master's College and Seminary] / 2769 / Canada
+
+4013. [Universitas Tadulako] / 2766 / Indonesia
+
+4014. [Singapore Polytechnic] / 2757 / Singapore
+
+4015. [Politeknik Negeri Semarang] / 2757 / Indonesia
+
+4016. [Universitas Halu Oleo Kendari] / 2755 / Indonesia
+
+4017. [Maria Curie Sklodowska University / Uniwersytet Marii Curie-Skłodowskiej w Lublinie] / 2754 / Poland
+
+4018. [SEGi University] / 2749 / Malaysia
+
+4019. [Future University Hakodate / 公立はこだて未来大学] / 2748 / Japan
+
+4020. [Luther College Decorah] / 2746 / USA
+
+4021. [Chinhoyi University of Technology] / 2743 / Zimbabwe
+
+4022. [Landmark University] / 2743 / Nigeria
+
+4023. [Nagahama Institute of Bio-Science &amp; Technology / 長浜バイオ大学] / 2742 / Japan
+
+4024. [University of the Virgin Islands] / 2739 / Virgin Islands US
+
+4025. [Plymouth State University] / 2739 / USA
+
+4026. [Universitas Kristen Maranatha] / 2737 / Indonesia
+
+4027. [Matej Bel University in Banská Bystrica / Univerzita Mateja Bela v Banskej Bystrici] / 2734 / Slovakia
+
+4028. [Universidade Federal de Roraima UFFR] / 2734 / Brazil
+
+4029. [Federal University Dutsin Ma] / 2733 / Nigeria
+
+4030. [Pondicherry University Bioinformatics Centre] / 2733 / India
+
+4031. [Chandigarh College of Engineering and Technology] / 2729 / India
+
+4032. [Josai University / 城西大学] / 2728 / Japan
+
+4033. [University of Arkansas Monticello] / 2725 / USA
+
+4034. [National College of Ireland] / 2725 / Ireland
+
+4035. [Universitas Islam Negeri UIN Raden Fatah] / 2723 / Indonesia
+
+4036. [Gomal University Dera Ismail Khan] / 2717 / Pakistan
+
+4037. [Islamic Azad University of Pharmaceutical Sciences] / 2713 / Iran
+
+4038. [Universidad Alberto Hurtado] / 2713 / Chile
+
+4039. [Universidade Estácio de Sá] / 2712 / Brazil
+
+4040. [Qom University of Medical Sciences] / 2709 / Iran
+
+4041. [Al Nahrain University] / 2705 / Iraq
+
+4042. [Technical University of Civil Engineering of Bucharest] / 2704 / Romania
+
+4043. [University of the District of Columbia] / 2702 / USA
+
+4044. [Guangdong University of Foreign Studies / 廣東外語外貿大學] / 2699 / China
+
+4045. [Bowie State University] / 2695 / USA
+
+4046. [Thiagarajar College] / 2693 / India
+
+4047. [Bayburt University] / 2690 / Turkey
+
+4048. [Universidad a Distancia de Madrid] / 2683 / Spain
+
+4049. [Russian State University for the Humanities / Российский государственный гуманитарный университет] / 2677 / Russia
+
+4050. [Otterbein University] / 2672 / USA
+
+4051. [Washington College] / 2672 / USA
+
+4052. [Université Chouaib Eddoukali] / 2670 / Morocco
+
+4053. [Gelişim University] / 2668 / Turkey
+
+4054. [Korea National University of Education / 한국교원대학교] / 2666 / South Korea
+
+4055. [Indian Institute of Management Kashipur] / 2665 / India
+
+4056. [Universitas Stikubank UNISBANK Semarang] / 2661 / Indonesia
+
+4057. [Universitas YARSI] / 2660 / Indonesia
+
+4058. [Zarqa University] / 2659 / Jordan
+
+4059. [Shri Govindram Seksaria Institute of Technology &amp; Science] / 2658 / India
+
+4060. [Botswana College of Agriculture] / 2654 / Botswana
+
+4061. [Universidad Politécnica de Pachuca] / 2652 / Mexico
+
+4062. [Pakistan Institute of Development Economics] / 2651 / Pakistan
+
+4063. [American College of Greece] / 2650 / Greece
+
+4064. [IME Instituto Militar de Engenharia] / 2650 / Brazil
+
+4065. [Mirpur University of Science &amp; Technology] / 2649 / Pakistan
+
+4066. [Dominican University River Forest IL] / 2646 / USA
+
+4067. [University of Mary Hardin Baylor] / 2644 / USA
+
+4068. [University of Banja Luka / Univerzitet u Banjoj Luci / Универзитет у Бањој Луци] / 2644 / Bosnia and Herzegovina
+
+4069. [Ripon College] / 2642 / USA
+
+4070. [Université Ibn Tofail Kénitra] / 2641 / Morocco
+
+4071. [National University of Pharmacy Ukraine / Національний Фармацевтичний Університет] / 2637 / Ukraine
+
+4072. [Mekelle University] / 2633 / Ethiopia
+
+4073. [Kyorin University / 杏林大学] / 2631 / Japan
+
+4074. [Musashino University / 武蔵野大学] / 2631 / Japan
+
+4075. [Kalmic State University / Калмыцкий государственный университет] / 2624 / Russia
+
+4076. [Laurea University of Applied Sciences / Laurea-ammattikorkeakoulu] / 2623 / Finland
+
+4077. [Belarusian State Technological University / Белорусский государственный технологический университет] / 2621 / Belarus
+
+4078. [University of South Carolina Aiken] / 2619 / USA
+
+4079. [Shujitsu University / 就実大学] / 2619 / Japan
+
+4080. [University of Bonab] / 2617 / Iran
+
+4081. [Kyungnam University / 경남대학교] / 2609 / South Korea
+
+4082. [National Mining University of Ukraine / Національний гірничий університет] / 2607 / Ukraine
+
+4083. [Istanbul Bilim University / Istanbul University of Science] / 2605 / Turkey
+
+4084. [Royal Holloway University of London] / 2603 / United Kingdom
+
+4085. [Hochschule Ostwestfalen-Lippe] / 2599 / Germany
+
+4086. [Centro de Investigación Científica y de Educación Superior de Ensenada] / 2595 / Mexico
+
+4087. [Instituto Tecnológico de Costa Rica] / 2595 / Costa Rica
+
+4088. [International Hellenic University] / 2594 / Greece
+
+4089. [Galgotias College of Engineering and Technology] / 2591 / India
+
+4090. [Universidad Autónoma de Guerrero] / 2589 / Mexico
+
+4091. [Gujarat Ayurved University International Center for Ayurvedic Studies] / 2586 / India
+
+4092. [Shandong University of Science &amp; Technology / 山东科技大学] / 2585 / China
+
+4093. [Saint Martin's University] / 2579 / USA
+
+4094. [Vivekanand Education Society Mumbai] / 2569 / India
+
+4095. [Universidade Estadual do Norte do Paraná UENP] / 2569 / Brazil
+
+4096. [Bindura University of Science Education] / 2566 / Zimbabwe
+
+4097. [École Nationale Supérieure Agronomique] / 2560 / Algeria
+
+4098. [Louisiana State University Shreveport] / 2559 / USA
+
+4099. [Zaporizhzhya National University / Запорізький національний університет] / 2556 / Ukraine
+
+4100. [American College of Thessaloniki] / 2554 / Greece
+
+4101. [Hochschule Ravensburg Weingarten] / 2552 / Germany
+
+4102. [Carlos Albizu University] / 2548 / USA
+
+4103. [Egerton University] / 2548 / Kenya
+
+4104. [University of Gondar (College of Medical Sciences)] / 2548 / Ethiopia
+
+4105. [American School of Classical Studies at Athens] / 2545 / Greece
+
+4106. [Noorul Islam University] / 2544 / India
+
+4107. [Information Technology University of the Punjab Lahore] / 2543 / Pakistan
+
+4108. [State University of Political and Administrative Studies Facultatea de Comunicare şi Relaţii Publice] / 2540 / Romania
+
+4109. [Gannon University] / 2536 / USA
+
+4110. [Sri Lanka Institute of Information Technology] / 2535 / Sri Lanka
+
+4111. [University of Defence Czech Republic / Úvodní stránka Univerzity Obrany] / 2533 / Czechia
+
+4112. [Université M'Hamed Bougara de Boumerdes] / 2533 / Algeria
+
+4113. [Carroll University] / 2524 / USA
+
+4114. [Pibulsongkram Rajabhat University] / 2524 / Thailand
+
+4115. [Nippon Veterinary and Life Science University / 日本獣医生命科学大学] / 2522 / Japan
+
+4116. [École Supérieure d'Ingénieurs ESIGELEC IRSEEM] / 2522 / France
+
+4117. [Universität Vechta Niedersachen / University of Vechta] / 2517 / Germany
+
+4118. [Novosibirsk State University of Economics and Management / Новосибирский государственный университет экономики и управления] / 2514 / Russia
+
+4119. [Faculdades Metropolitanas Unidas FMU] / 2514 / Brazil
+
+4120. [Hachinohe Institute of Technology / 八戸工業大学] / 2513 / Japan
+
+4121. [Northcap University (ITM University Gurgaon)] / 2512 / India
+
+4122. [Islamic Azad University] / 2507 / Iran
+
+4123. [Heavy Industries Taxila Education City University] / 2506 / Pakistan
+
+4124. [Universidad Estatal Amazónica] / 2500 / Ecuador
+
+4125. [Emporia State University] / 2497 / USA
+
+4126. [DAV University Jalandhar] / 2497 / India
+
+4127. [University of Texas Permian Basin] / 2494 / USA
+
+4128. [Tianjin Medical University / 天津医科大学] / 2490 / China
+
+4129. [Hansung University / 한성대학교] / 2489 / South Korea
+
+4130. [University of Pristina (Serbian language in Mitrovica) / Универзитет у Приштини / Univerzitet u Prištini Kosovska Mitrovica] / 2488 / Serbia
+
+4131. [Bohai University / 渤海大学] / 2487 / China
+
+4132. [Ukrainian Engineering and Pedagogical Academy Kharkiv / Українська інженерно педагогічна академія] / 2483 / Ukraine
+
+4133. [Universidad Tecnológica de la Mixteca] / 2482 / Mexico
+
+4134. [Technical University of Varna / Технически университет Варна] / 2477 / Bulgaria
+
+4135. [Visveswaraiah Technological University] / 2474 / India
+
+4136. [Al Baha University] / 2473 / Saudi Arabia
+
+4137. [University of St Cyril and Methodius of Trnava / Univerzita sv Cyrila a Metoda] / 2470 / Slovakia
+
+4138. [Konya Food and Agricultural University] / 2469 / Turkey
+
+4139. [Université Mouloud Mammeri de Tizi Ouzou] / 2469 / Algeria
+
+4140. [École Nationale Supérieure des Mines de Saint Étienne] / 2467 / France
+
+4141. [Academy of Scientific and Innovative Research] / 2466 / India
+
+4142. [Islamic Azad University Hamedan] / 2465 / Iran
+
+4143. [Technological Educational Institution of the Ionian Islands] / 2462 / Greece
+
+4144. [Missouri Western State University] / 2460 / USA
+
+4145. [Universidad Juárez del Estado de Durango] / 2456 / Mexico
+
+4146. [Bhavnagar University] / 2455 / India
+
+4147. [Donetsk National Technical University / Донецький національний технічний університет] / 2448 / Ukraine
+
+4148. [Sudan University of Science &amp; Technology] / 2448 / Sudan
+
+4149. [Oklahoma City University] / 2447 / USA
+
+4150. [University of Abuja] / 2447 / Nigeria
+
+4151. [Mazandaran University of Sciences and Technology Babol] / 2442 / Iran
+
+4152. [Lebanon Valley College] / 2440 / USA
+
+4153. [Miyazaki Prefectural Nursing University / 宮崎県立看護大学] / 2440 / Japan
+
+4154. [Tohoku Medical and Pharmaceutical University / 東北薬科大学] / 2440 / Japan
+
+4155. [Hochschule Harz] / 2439 / Germany
+
+4156. [Akita Prefectural University / 秋田県立大学] / 2437 / Japan
+
+4157. [CUNY Queensborough Community College] / 2436 / USA
+
+4158. [University of Buea] / 2435 / Cameroon
+
+4159. [Istanbul Commerce University / İstanbul Ticaret Üniversitesi] / 2431 / Turkey
+
+4160. [Bucks (Buckinghamshire Chilterns) New University] / 2421 / United Kingdom
+
+4161. [Hartwick College] / 2416 / USA
+
+4162. [Lake Forest College] / 2416 / USA
+
+4163. [Universitas Mataram] / 2415 / Indonesia
+
+4164. [Stamford University Bangladesh] / 2414 / Bangladesh
+
+4165. [American University of Armenia] / 2414 / Armenia
+
+4166. [Islamic Azad University Shiraz] / 2410 / Iran
+
+4167. [Kazan National Research Technological University / Казанский национальный исследовательский технологический университет] / 2405 / Russia
+
+4168. [Chongqing Normal University / 重庆师范大学] / 2405 / China
+
+4169. [Elmhurst College] / 2402 / USA
+
+4170. [Hochschule Fresenius] / 2402 / Germany
+
+4171. [South Central University for Nationalities / 中南民族大学] / 2401 / China
+
+4172. [Universidad de Guayaquil] / 2399 / Ecuador
+
+4173. [Universidade de Taubaté UNITAU] / 2398 / Brazil
+
+4174. [Northwest Missouri State University] / 2395 / USA
+
+4175. [Aichi Medical University / 愛知医科大学] / 2395 / Japan
+
+4176. [Universität fur Musik und darstellende Kunst Wien] / 2392 / Austria
+
+4177. [Institut des Hautes Études scientifiques IHES (comUE Université Paris Saclay)] / 2391 / France
+
+4178. [Bangladesh University of Health Sciences] / 2391 / Bangladesh
+
+4179. [University of South Florida St Petersburg] / 2385 / USA
+
+4180. [University of Tripoli (Al Fateh University)] / 2384 / Libya
+
+4181. [Miranda House University College for Women] / 2384 / India
+
+4182. [Henan Normal University (Xinxiang Teachers College) / 河南师范大学] / 2382 / China
+
+4183. [MISR International University] / 2380 / Egypt
+
+4184. [University of Dubai] / 2373 / United Arab Emirates
+
+4185. [Maritime University in Szczecin / Akademia Morska w Szczecinie] / 2367 / Poland
+
+4186. [University of Swat] / 2367 / Pakistan
+
+4187. [Pacific School of Religion] / 2363 / USA
+
+4188. [PSR Engineering College Sivakasi ] / 2363 / India
+
+4189. [Nevada State College] / 2362 / USA
+
+4190. [Truman State University] / 2361 / USA
+
+4191. [École Supérieure du professorat et de l’Education ESPE Bretagne (IUFM Bretagne)] / 2357 / France
+
+4192. [University of Information Technology and Management in Rzeszow / Wyższa Szkoła Informatyki i Zarządzania z siedzibą w Rzeszowie] / 2355 / Poland
+
+4193. [Escola Bahiana de Medicina e Saúde Publica] / 2355 / Brazil
+
+4194. [Universidad Nacional Tres de Febrero] / 2354 / Argentina
+
+4195. [University of Food Technologies Plovdiv / Университет по хранителни технологии] / 2349 / Bulgaria
+
+4196. [Karlshochschule International University (Merkur Internationale Hochschule Karlsruhe) ] / 2347 / Germany
+
+4197. [Universidade Federal do Cariri] / 2345 / Brazil
+
+4198. [Kyiv National University of Culture and Arts / Київський національний університет культури і мистецтв] / 2343 / Ukraine
+
+4199. [Indian Institute of Information Technology Design and Manufacturing Jabalpur] / 2342 / India
+
+4200. [Farmingdale State College SUNY] / 2339 / USA
+
+4201. [Royal Commission Yanbu Colleges &amp; Institutes] / 2339 / Saudi Arabia
+
+4202. [Hochschule der Medien Stuttgart] / 2339 / Germany
+
+4203. [Universidad Francisco de Vitoria] / 2333 / Spain
+
+4204. [Iwate Medical University / 岩手医科大学] / 2333 / Japan
+
+4205. [Amman Arab University] / 2331 / Jordan
+
+4206. [Indian Institute of Information Technology Bhubaneswar] / 2331 / India
+
+4207. [Swami Rama Himalayan University] / 2329 / India
+
+4208. [Universidade Luterana do Brasil ULBRA] / 2328 / Brazil
+
+4209. [Michael Okpara University of Agriculture Umudike] / 2326 / Nigeria
+
+4210. [Ebonyi State University] / 2316 / Nigeria
+
+4211. [Instituto Federal de Educação Ciência e Tecnologia do Maranhão IFMA] / 2315 / Brazil
+
+4212. [University of Lower Silesia / Dolnośląska Szkoła Wyższa we Wrocławiu] / 2310 / Poland
+
+4213. [Chien Hsin University of Science &amp; Technology (Ching Yun University)] / 2309 / Taiwan
+
+4214. [Ekiti State University Ado Ekiti (University of Ado Ekiti)] / 2309 / Nigeria
+
+4215. [Pôle Universitaire Léonard de Vinci] / 2308 / France
+
+4216. [Muş Alparslan University] / 2303 / Turkey
+
+4217. [Hochschule für Technik, Wirtschaft und Kultur Leipzig] / 2299 / Germany
+
+4218. [Islamic Azad University Yazd] / 2295 / Iran
+
+4219. [Kirklareli University] / 2294 / Turkey
+
+4220. [University Petru Maior] / 2294 / Romania
+
+4221. [Mangosuthu University of Technology (Technikon)] / 2290 / South Africa
+
+4222. [Gomel State Medical University / Гомельский государственный медицинский университет] / 2290 / Belarus
+
+4223. [Framingham State University] / 2289 / USA
+
+4224. [Cheung Kong Graduate School of Business / 长江商学院] / 2287 / China
+
+4225. [Vaal University of Technology] / 2284 / South Africa
+
+4226. [Baku State University / Bakı Dövlət Universiteti] / 2280 / Azerbaijan
+
+4227. [McNeese State University] / 2278 / USA
+
+4228. [Odessa State Academy of Civil Engineering and Architecture / Одесская государственная академия строительства и архитектуры] / 2277 / Ukraine
+
+4229. [Universidade Estadual do Rio Grande do Sul UERGS] / 2275 / Brazil
+
+4230. [IT University, Chalmers University of Technology and University of Gothenburg] / 2272 / Sweden
+
+4231. [University of Agricultural Sciences and Veterinary Medicine Ion Ionescu de la Brad] / 2272 / Romania
+
+4232. [Universitas Muhammadiyah Mataram] / 2272 / Indonesia
+
+4233. [Quchan University of Technology] / 2271 / Iran
+
+4234. [Otago Polytechnic] / 2269 / New Zealand
+
+4235. [Hochschule Niederrhein] / 2262 / Germany
+
+4236. [AAB University / Kolegji AAB] / 2259 / Serbia
+
+4237. [Sapir College] / 2256 / Israel
+
+4238. [Xinjiang University / 新疆大学] / 2256 / China
+
+4239. [Universidade Norte do Paraná UNOPAR] / 2254 / Brazil
+
+4240. [University of Zululand] / 2252 / South Africa
+
+4241. [Université de Tunis Institut Supérieur de Gestion de Tunis] / 2249 / Tunisia
+
+4242. [Bahria University] / 2249 / Pakistan
+
+4243. [Universidad Tecnológica Equinoccial] / 2246 / Ecuador
+
+4244. [University of Fiji] / 2243 / Fiji
+
+4245. [Indian Institute of Management Ranchi] / 2241 / India
+
+4246. [Ivanovo State University of Chemistry and Technology / Ивановский государственный химико-технологический университет] / 2240 / Russia
+
+4247. [Handong Global University / 한동대학교] / 2239 / South Korea
+
+4248. [Universidad Arturo Prat] / 2239 / Chile
+
+4249. [Cairnmillar Institute School of Psychology Counselling and Psychotherapy] / 2238 / Australia
+
+4250. [Hamadan University of Technology] / 2237 / Iran
+
+4251. [Kharkiv Medical Academy of Postgraduate Education / Харківська медична академія післядипломної освіти] / 2233 / Ukraine
+
+4252. [Instituto Mauá de Tecnología] / 2232 / Brazil
+
+4253. [Prefectural University of Hiroshima / 県立広島大学] / 2231 / Japan
+
+4254. [University of Central Punjab] / 2227 / Pakistan
+
+4255. [Indiana University/Purdue University Columbus] / 2225 / USA
+
+4256. [Dayananda Sagar College of Engineering] / 2225 / India
+
+4257. [University of Kota] / 2222 / India
+
+4258. [Hong Kong Shue Yan University] / 2222 / Hong Kong
+
+4259. [Walailak University] / 2221 / Thailand
+
+4260. [Nanhua University Taiwan] / 2216 / Taiwan
+
+4261. [Inner Mongolia Agricultural University / 内蒙古农业大学] / 2216 / China
+
+4262. [Chandigarh Group of Colleges] / 2215 / India
+
+4263. [Chelyabinsk State Pedagogical University / Челябинский государственный педагогический университет] / 2214 / Russia
+
+4264. [Indiana University East] / 2213 / USA
+
+4265. [Universidad de Pinar del Rio] / 2213 / Cuba
+
+4266. [Bethel University Minnesota] / 2212 / USA
+
+4267. [HafenCity Universität Hamburg] / 2211 / Germany
+
+4268. [Capital Medical University / 首都医科大学] / 2211 / China
+
+4269. [Pratt Institute] / 2210 / USA
+
+4270. [Wayamba University of Sri Lanka] / 2208 / Sri Lanka
+
+4271. [University of Dubrovnik] / 2201 / Croatia
+
+4272. [Marion Technical College] / 2197 / USA
+
+4273. [Université Saint Louis Bruxelles] / 2197 / Belgium
+
+4274. [Rani Channamma University] / 2192 / India
+
+4275. [Federal Urdu University of Arts Sciences and Technology FUUAST Karachi] / 2191 / Pakistan
+
+4276. [Anna University Madras Institute of Technology] / 2191 / India
+
+4277. [Western Oregon University] / 2189 / USA
+
+4278. [University of Technical Education Ho Chi Minh City] / 2183 / Viet Nam
+
+4279. [Universität Speyer] / 2183 / Germany
+
+4280. [Chia Nan University of Pharmacy &amp; Science] / 2182 / Taiwan
+
+4281. [Institute of Technology Carlow] / 2182 / Ireland
+
+4282. [Gezira University] / 2181 / Sudan
+
+4283. [Edinboro University] / 2180 / USA
+
+4284. [University of Saint Joseph (Macau Inter-University Institute)] / 2180 / Macao
+
+4285. [Islamic Azad University Qaemshahr] / 2180 / Iran
+
+4286. [G H Patel College of Engineering &amp; Technology] / 2178 / India
+
+4287. [Télécom École de Management] / 2177 / France
+
+4288. [Wuhan Institute of Technology (Institute of Chemical Technology) / 武汉工程大学] / 2176 / China
+
+4289. [Lviv State University of Internal Affairs / Львівський державний університет внутрішніх справ] / 2173 / Ukraine
+
+4290. [China University of Mining &amp; Technology Beijing / 中国矿业大学(北京)] / 2170 / China
+
+4291. [Sri Sai Ram Engineering College] / 2164 / India
+
+4292. [Islamic Azad University Shabestar] / 2162 / Iran
+
+4293. [GMR Institute of Technology] / 2161 / India
+
+4294. [Southern New Hampshire University] / 2157 / USA
+
+4295. [B P Koirala Institute of Health Sciences] / 2157 / Nepal
+
+4296. [University of Benghazi (University of Garyounis)] / 2157 / Libya
+
+4297. [Université Ziane Achour de Djelfa] / 2154 / Algeria
+
+4298. [Aichi Shukutoku University / 愛知淑徳大学] / 2150 / Japan
+
+4299. [Technological Education Institute of Western Macedonia (TEI Kozani)] / 2150 / Greece
+
+4300. [Academy of Business in Dąbrowa Górnicza / Wyższa Szkoła Biznesu w Dąbrowie Górniczej] / 2144 / Poland
+
+4301. [Assam Agricultural University] / 2142 / India
+
+4302. [École pour l'Informatique et les Techniques Avancees] / 2142 / France
+
+4303. [Ganpat University] / 2141 / India
+
+4304. [Sweet Briar College] / 2139 / USA
+
+4305. [Institute of Liver and Biliary Sciences] / 2139 / India
+
+4306. [Usman Institute of Technology Hamdard University] / 2137 / Pakistan
+
+4307. [Abubakar Tafawa Balewa University] / 2137 / Nigeria
+
+4308. [Nelson Marlborough Institute of Technology] / 2136 / New Zealand
+
+4309. [Augustana University Sioux Falls] / 2135 / USA
+
+4310. [Colleges Farabi] / 2134 / Saudi Arabia
+
+4311. [Sarah Lawrence College] / 2133 / USA
+
+4312. [Samuel Merritt University] / 2130 / USA
+
+4313. [Carnegie Mellon University in Qatar] / 2128 / Qatar
+
+4314. [University of Swabi] / 2128 / Pakistan
+
+4315. [Sreenidhi Institute of Science and Technology] / 2128 / India
+
+4316. [University College of Technology Sarawak] / 2122 / Malaysia
+
+4317. [PRIST University Thanjavur] / 2121 / India
+
+4318. [Mahanakorn University of Technology] / 2120 / Thailand
+
+4319. [Chongqing Technology &amp; Business University / 重庆工商大学 ] / 2119 / China
+
+4320. [Instituto Federal de Educação Ciência e Tecnologia de Santa Catarina IFSC] / 2118 / Brazil
+
+4321. [MAHSA University] / 2117 / Malaysia
+
+4322. [Yuri Gagarin State Technical University of Saratov / Саратовский государственный технический университет Гагарина Ю А] / 2115 / Russia
+
+4323. [Universitas Widyatama UTAMA Bandung] / 2114 / Indonesia
+
+4324. [Kemerovo State University / Кемеровский государственный университет] / 2109 / Russia
+
+4325. [University Constantin Brancusi of Targu-Jiu] / 2109 / Romania
+
+4326. [Instituto Superior da Maia] / 2109 / Portugal
+
+4327. [Open International University of Human Development Ukraine / Відкритий міжнародний університет розвитку людини Україна] / 2106 / Ukraine
+
+4328. [Jeddah International College ] / 2104 / Saudi Arabia
+
+4329. [Jubail Industrial College] / 2104 / Saudi Arabia
+
+4330. [FLACSO México Facultad Latinoamericana de Ciencias Sociales] / 2101 / Mexico
+
+4331. [Corporación Universidad de la Costa] / 2101 / Colombia
+
+4332. [Webster University Geneva ] / 2099 / Switzerland
+
+4333. [Lithuanian University of Health Science (Kaunas University of Medicine, Veterinary Academy) / Lietuvos sveikatos mokslų universitetas (Kauno Medicinos Universitetas)] / 2099 / Lithuania
+
+4334. [Hochschule Mannheim] / 2099 / Germany
+
+4335. [Harbin Institute of Technology Weihai / 哈尔滨工业大学（威海）] / 2098 / China
+
+4336. [Centro Universitário de Brasilia UNICEUB] / 2097 / Brazil
+
+4337. [Arab Open University Kuwait] / 2094 / Kuwait
+
+4338. [DIT University] / 2091 / India
+
+4339. [Graphic Era University] / 2090 / India
+
+4340. [Norwich University] / 2087 / USA
+
+4341. [Midlands State University] / 2083 / Zimbabwe
+
+4342. [Vietnamese German University] / 2081 / Viet Nam
+
+4343. [University of Wasit] / 2078 / Iraq
+
+4344. [Tianjin Normal University / 天津师范大学] / 2078 / China
+
+4345. [Universidad Bernardo O'Higgins] / 2078 / Chile
+
+4346. [University of Wisconsin Superior] / 2076 / USA
+
+4347. [Birla Vishvakarma Mahavidyalaya Engineering College] / 2074 / India
+
+4348. [National Institute of Engineering Mysore] / 2073 / India
+
+4349. [Universidad Estatal de Milagro] / 2073 / Ecuador
+
+4350. [Hochschule Emden Leer] / 2068 / Germany
+
+4351. [Universidad de San Buenaventura Medellín] / 2068 / Colombia
+
+4352. [National Taipei University of Education] / 2067 / Taiwan
+
+4353. [Central University of Gujarat] / 2060 / India
+
+4354. [Université Hassan II de Casablanca] / 2058 / Morocco
+
+4355. [Imam Reza University Mashhad] / 2058 / Iran
+
+4356. [Knowledge Institute of Technology] / 2058 / India
+
+4357. [Ivano Frankivsk National Technical University of Oil and Gas / Івано Франківський національний технічний університет нафти і газу] / 2057 / Ukraine
+
+4358. [Universidad de Playa Ancha Valparaiso] / 2055 / Chile
+
+4359. [Instituto Federal de Educação Ciência e Tecnologia do Sudeste de Minas Gerais] / 2055 / Brazil
+
+4360. [Stonehill College] / 2053 / USA
+
+4361. [Volgograd State Technical University / Волгоградский государственный технический университет] / 2048 / Russia
+
+4362. [Somaiya Vidyavihar] / 2047 / India
+
+4363. [University of South Carolina Beaufort] / 2038 / USA
+
+4364. [University of Education Winneba] / 2038 / Ghana
+
+4365. [Universidad Técnica de Machala] / 2038 / Ecuador
+
+4366. [City Colleges of Chicago] / 2037 / USA
+
+4367. [University of Science &amp; Technology Bannu] / 2034 / Pakistan
+
+4368. [Università degli Studi Suor Orsola Benincasa Napoli] / 2034 / Italy
+
+4369. [R M K College of Engineering and Technology] / 2034 / India
+
+4370. [Jubail University College] / 2032 / Saudi Arabia
+
+4371. [Royal Agricultural University] / 2031 / United Kingdom
+
+4372. [Escola Superior de Educação de Coimbra] / 2027 / Portugal
+
+4373. [Rajamangala University of Technology Isan] / 2020 / Thailand
+
+4374. [Le Quy Don Technical University] / 2018 / Viet Nam
+
+4375. [Chittagong University of Engineering and Technology] / 2018 / Bangladesh
+
+4376. [Naif Arab University for Security Sciences] / 2016 / Saudi Arabia
+
+4377. [Woodbury University] / 2015 / USA
+
+4378. [Campbell University] / 2014 / USA
+
+4379. [Universitas Muhammadiyah Prof Dr Hamka] / 2014 / Indonesia
+
+4380. [Universitatea Eftimie Murgu Reşiţa] / 2013 / Romania
+
+4381. [Daugavpils University / Daugavpils Universitāte] / 2012 / Latvia
+
+4382. [Zhejiang Ocean University / 浙江海洋大学] / 2012 / China
+
+4383. [National Institute of Food Technology Entrepreneurship and Management] / 2011 / India
+
+4384. [Rungta Group of Institutions] / 2009 / India
+
+4385. [Tianjin University of Technology / 天津理工大学] / 2009 / China
+
+4386. [University of Banking of the National Bank of Ukraine Kyiv / Університет банківської справи Національного банку України] / 2008 / Ukraine
+
+4387. [Universitas Negeri Padang] / 2008 / Indonesia
+
+4388. [B M L Munjal University] / 2008 / India
+
+4389. [Bangkok University] / 2007 / Thailand
+
+4390. [Jawaharlal Nehru Medical College] / 2005 / India
+
+4391. [Osaka Electro-Communication University / 大阪電気通信大学] / 2004 / Japan
+
+4392. [Ufuk University] / 2002 / Turkey
+
+4393. [Jessore University of Science &amp; Technology] / 2002 / Bangladesh
+
+4394. [Gogte Institute of Technology] / 2001 / India
+
+4395. [Universität Flensburg] / 1997 / Germany
+
+4396. [Pomorska Pedagogical University in Slupsk / Akademia Pomorska w Słupsku] / 1994 / Poland
+
+4397. [Hochschule (Fachhochschule) Hannover] / 1994 / Germany
+
+4398. [Aarupadai Veedu Institute of Technology] / 1993 / India
+
+4399. [Karpagam College of Engineering] / 1993 / India
+
+4400. [Universidad Externado de Colombia] / 1992 / Colombia
+
+4401. [Morehouse College] / 1991 / USA
+
+4402. [Dong Eui University / 동의대학교] / 1991 / South Korea
+
+4403. [Kwantlen Polytechnic University (Kwantlen University College)] / 1991 / Canada
+
+4404. [Velagapudi Ramakrishna Siddhartha Engineering College] / 1988 / India
+
+4405. [Bastyr University (Seattle Midwifery School)] / 1987 / USA
+
+4406. [North China University of Technology / 北方工业大学] / 1986 / China
+
+4407. [California State University California Maritime Academy] / 1985 / USA
+
+4408. [Rafik Hariri University] / 1985 / Lebanon
+
+4409. [Pädagogische Hochschule Schwäbisch Gmünd] / 1983 / Germany
+
+4410. [Hochschule RheinMain] / 1981 / Germany
+
+4411. [Sendai National College of Technology / 仙台高等専門学校] / 1980 / Japan
+
+4412. [Universidad Autónoma del Carmen] / 1978 / Mexico
+
+4413. [Islamic Azad University Tonekabon] / 1977 / Iran
+
+4414. [Moscow State University of Psychology and Education / Московский городской психолого-педагогический университет] / 1976 / Russia
+
+4415. [University of Physical Education / Testnevelési Egyetem] / 1976 / Hungary
+
+4416. [Universitas Sultan Ageng Tirtayasa] / 1975 / Indonesia
+
+4417. [Duksung Women's University / 덕성여자대학교] / 1972 / South Korea
+
+4418. [Kyoto Gakuen University / 京都学園大学] / 1971 / Japan
+
+4419. [Universidade Estadual de Ciências da Saúde de Alagoas UNCISAL] / 1970 / Brazil
+
+4420. [Ubon Ratchathani University] / 1968 / Thailand
+
+4421. [Mody University (Mody Institute of Technology and Science)] / 1968 / India
+
+4422. [Al Yamamah University] / 1967 / Saudi Arabia
+
+4423. [Millsaps College] / 1962 / USA
+
+4424. [Dalian Polytechnic University / 大连工业大学] / 1957 / China
+
+4425. [Applied Science University of Bahrain] / 1957 / Bahrain
+
+4426. [Universidad Nacional Experimental Politécnica] / 1956 / Venezuela
+
+4427. [Institut Supérieur de l'Aéronautique et de l'Espace ISAE SUPAERO] / 1956 / France
+
+4428. [Fort Valley State University] / 1955 / USA
+
+4429. [Olabisi Onabanjo University (Ogun State University)] / 1952 / Nigeria
+
+4430. [Bitlis Eren University / Bitlis Eren Üniversitesi] / 1951 / Turkey
+
+4431. [Universidad Surcolombiana] / 1949 / Colombia
+
+4432. [Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte IFRN] / 1949 / Brazil
+
+4433. [Université Kasdi Merbah Ouargla] / 1948 / Algeria
+
+4434. [Gonabad University of Medical Sciences] / 1946 / Iran
+
+4435. [National Institute of Science and Technology] / 1944 / India
+
+4436. [Masinde Muliro University of Science &amp; Technology] / 1941 / Kenya
+
+4437. [Mohanlal Sukhadia University] / 1940 / India
+
+4438. [Saint Vincent College] / 1936 / USA
+
+4439. [Universidad Católica de Santa María] / 1933 / Peru
+
+4440. [Fachhochschule Joanneum] / 1932 / Austria
+
+4441. [Tunku Abdul Rahman University College] / 1931 / Malaysia
+
+4442. [Houston Community College System] / 1929 / USA
+
+4443. [Lviv National University of Veterinary Medicine and Biotechnologies / Львівський національний університет ветеринарної медицини та біотехнологій С З Ґжицького] / 1926 / Ukraine
+
+4444. [Huaiyin Normal University / 淮阴师范学院 ] / 1923 / China
+
+4445. [Lake Erie College of Osteopathic Medicine] / 1922 / USA
+
+4446. [University of Phayao] / 1922 / Thailand
+
+4447. [Guru Nanak Dev Engineering College] / 1922 / India
+
+4448. [Dr Babasaheb Ambedkar Marathwada University] / 1920 / India
+
+4449. [Saint Petersburg State University of Telecommunication / Санкт Петербургский государственный университет телекоммуникаций проф М А Бонч-Бруевича] / 1919 / Russia
+
+4450. [Faculdade de Medicina de Marília] / 1916 / Brazil
+
+4451. [Velammal Engineering College] / 1914 / India
+
+4452. [Universidad Técnica de Manabí] / 1913 / Ecuador
+
+4453. [Centro Universitário de Araraquara UNIARA] / 1912 / Brazil
+
+4454. [Thaksin University] / 1908 / Thailand
+
+4455. [Royal College of Art] / 1903 / United Kingdom
+
+4456. [Université de Batna] / 1903 / Algeria
+
+4457. [Kainan University] / 1899 / Taiwan
+
+4458. [Birmingham Southern College] / 1898 / USA
+
+4459. [Institut Supérieur de Mécanique de Paris SUPMECA (Institut Polytechnique du Grand Paris) (comUE Université Paris Seine)] / 1898 / France
+
+4460. [University of Haripur] / 1897 / Pakistan
+
+4461. [Westfälische Hochschule (Fachhochschule Gelsenkirchen)] / 1897 / Germany
+
+4462. [Xi'An University of Technology / 西安理工大学] / 1895 / China
+
+4463. [Turku University of Applied Sciences / Turun Ammattikorkeakoulu] / 1887 / Finland
+
+4464. [University of North Carolina at Pembroke] / 1882 / USA
+
+4465. [Walter Sisulu University] / 1880 / South Africa
+
+4466. [Lebanese International University] / 1880 / Lebanon
+
+4467. [M S Ramaiah University of Applied Sciences] / 1880 / India
+
+4468. [Madan Mohan Malaviya University of Technology] / 1880 / India
+
+4469. [Universidad de Belgrano] / 1880 / Argentina
+
+4470. [Islamic Azad University Falavarjan] / 1879 / Iran
+
+4471. [MCKV Institute of Engineering] / 1878 / India
+
+4472. [Meerut Institute of Engineering and Technology] / 1877 / India
+
+4473. [Himachal Pradesh Agricultural University] / 1875 / India
+
+4474. [Haute École ARC] / 1873 / Switzerland
+
+4475. [Islamic Azad University Damghan] / 1872 / Iran
+
+4476. [Quest University] / 1871 / Canada
+
+4477. [Colorado State University Pueblo] / 1869 / USA
+
+4478. [Institut National Universitaire Jean François Champollion (comUE Université de Toulouse)] / 1869 / France
+
+4479. [Goswami Ganesh Dutta Sanatan Dharma College] / 1867 / India
+
+4480. [Ghana Institute of Management and Public Administration] / 1867 / Ghana
+
+4481. [University of Anbar] / 1862 / Iraq
+
+4482. [Wagner College] / 1861 / USA
+
+4483. [Universitas Ma Chung] / 1859 / Indonesia
+
+4484. [National Taichung University of Science &amp; Technology] / 1858 / Taiwan
+
+4485. [All India Institute of Medical Sciences Rishikesh] / 1858 / India
+
+4486. [Hanoi National University of Education] / 1856 / Viet Nam
+
+4487. [University of Shumen Bishop Konstantin of Preslav / Шуменски университет Епископ Константин Преславски] / 1856 / Bulgaria
+
+4488. [Lewis University] / 1849 / USA
+
+4489. [Université Abdelmalek Essaadi Faculté des Sciences et Techniques de Tanger] / 1849 / Morocco
+
+4490. [Woosuk University / 우석대학교] / 1843 / South Korea
+
+4491. [Junagadh Agricultural University] / 1843 / India
+
+4492. [Syrian Private University (International Private University for Science &amp; Technology)] / 1839 / Syrian Arab Republic
+
+4493. [University of Northern Border] / 1839 / Saudi Arabia
+
+4494. [École d’Ingénieurs du CESI Center for Industrial Studies] / 1836 / France
+
+4495. [Eulji University (Seoul Health College) / 을지대학교] / 1833 / South Korea
+
+4496. [Nagaland University] / 1828 / India
+
+4497. [Tafresh University] / 1821 / Iran
+
+4498. [Shandong University of Technology / 山东理工大学] / 1821 / China
+
+4499. [MCI Management Center Innsbruck] / 1819 / Austria
+
+4500. [Final International University / Final Uluslararası Üniversitesi] / 1818 /  
+
+4501. [Université des Antilles et de la Guyane Martinique] / 1816 / France
+
+4502. [Northland College] / 1810 / USA
+
+4503. [Aleksandras Stulginskis University (University of Agriculture) / Aleksandro Stulginskio Universitetas] / 1806 / Lithuania
+
+4504. [Quy Nhon University] / 1805 / Viet Nam
+
+4505. [Sri Chandrasekharendra Saraswathi Viswa Maha Vidyalaya] / 1805 / India
+
+4506. [Jiaxing University / 嘉兴学院] / 1805 / China
+
+4507. [Changchun University of Science &amp; Technology / 长春理工大学] / 1804 / China
+
+4508. [California College of the Arts] / 1802 / USA
+
+4509. [Daemen College] / 1802 / USA
+
+4510. [Bishop Heber College] / 1800 / India
+
+4511. [Overseas Chinese University of Science and Technology] / 1799 / Taiwan
+
+4512. [Akwa Ibom State University of Technology] / 1790 / Nigeria
+
+4513. [Instituto Federal de Educação Ciência e Tecnologia da Bahia IFBA] / 1788 / Brazil
+
+4514. [SJB Institute of Technology] / 1784 / India
+
+4515. [Universiti Selangor] / 1783 / Malaysia
+
+4516. [Thi Qar University] / 1783 / Iraq
+
+4517. [Swiss German University] / 1781 / Indonesia
+
+4518. [Adekunle Ajasin University] / 1779 / Nigeria
+
+4519. [Lahore College for Women University] / 1778 / Pakistan
+
+4520. [Windesheim University of Professional Education] / 1774 / Netherlands
+
+4521. [Centre d'Excellence en Technologies de l'Information et de la Communication] / 1774 / Belgium
+
+4522. [Université de Yaounde I] / 1773 / Cameroon
+
+4523. [V I Vernadsky Crimean Federal University / Крымский федеральный университет имени В.И Вернадского] / 1772 / Russia
+
+4524. [Northeast Agricultural University / 东北农业大学] / 1772 / China
+
+4525. [Acharya Institute of Technology] / 1768 / India
+
+4526. [University of Bojnourd] / 1767 / Iran
+
+4527. [University of Pula / Sveučilište Jurja Dobrile u Puli] / 1767 / Croatia
+
+4528. [York College of Pennsylvania] / 1766 / USA
+
+4529. [Victorian College of Optometry] / 1766 / Australia
+
+4530. [Fukuyama University / 福山大学] / 1765 / Japan
+
+4531. [Beijing University of Civil Engineering &amp; Architecture / 北京建筑工程学院] / 1763 / China
+
+4532. [Instituto Superior de Tecnologias y Ciencias Aplicadas] / 1762 / Cuba
+
+4533. [University of Poonch] / 1760 / Pakistan
+
+4534. [Università degli Studi di Napoli L'Orientale (Istituto Universitario Orientale di Napoli)] / 1760 / Italy
+
+4535. [Thomas More Hogeschool (Lessius Hogeschool K H Kempen)] / 1759 / Belgium
+
+4536. [All India Institute of Medical Sciences Patna] / 1758 / India
+
+4537. [Australian College of Applied Psychology] / 1756 / Australia
+
+4538. [Universidad de Oriente Santiago de Cuba] / 1755 / Cuba
+
+4539. [Universidad Santiago de Cali] / 1755 / Colombia
+
+4540. [Lipscomb University] / 1754 / USA
+
+4541. [University of Minnesota Rochester] / 1754 / USA
+
+4542. [Universidad de Holguín Oscar Lucero Moya] / 1751 / Cuba
+
+4543. [Rajarambapu Institute of Technology] / 1750 / India
+
+4544. [Samara State Technical University / Самарский государственный технический университет] / 1748 / Russia
+
+4545. [Ardahan University] / 1744 / Turkey
+
+4546. [Navsari Agricultural University] / 1744 / India
+
+4547. [Nilai University] / 1741 / Malaysia
+
+4548. [Edgewood College] / 1740 / USA
+
+4549. [1 December 1918 University] / 1739 / Romania
+
+4550. [Hochschule Mainz] / 1739 / Germany
+
+4551. [Amet University] / 1736 / India
+
+4552. [South Eastern European University] / 1732 / Macedonia FRY
+
+4553. [Università per Stranieri di Perugia] / 1730 / Italy
+
+4554. [International Islamic University Chittagong] / 1730 / Bangladesh
+
+4555. [Saint Ambrose University] / 1729 / USA
+
+4556. [National Institute of Technology Manipur] / 1727 / India
+
+4557. [INTI International University] / 1726 / Malaysia
+
+4558. [Academy of Special Education Maria Grzegorzewskiej / Akademia Pedagogiki Specjalnej Marii Grzegorzewskiej w Warszawie] / 1725 / Poland
+
+4559. [Nanchang Hangkong University (Aviation University) / 南昌航空大学] / 1725 / China
+
+4560. [Vishwakarma Institute of Technology Pune] / 1724 / India
+
+4561. [Swedish National Defence College / Försvarshögskolan] / 1723 / Sweden
+
+4562. [Russian State Pedagogical University AI Herzen (Gertsenovsky University) / Российский Государственный Педагогический Университет А И Герцена] / 1720 / Russia
+
+4563. [Savannah State University] / 1718 / USA
+
+4564. [Universiti Tun Abdul Razak] / 1718 / Malaysia
+
+4565. [Mogilev State University A Kuleshov / Могилевский государственный университет А А Кулешова] / 1717 / Belarus
+
+4566. [Punjab Technical University Jalandhar] / 1715 / India
+
+4567. [Institute of Business Administration Sukkur] / 1712 / Pakistan
+
+4568. [Hochschule für Technik und Wirtschaft Chur] / 1711 / Switzerland
+
+4569. [Pskov State University / Псковский государственный университет] / 1710 / Russia
+
+4570. [Asia Pacific University] / 1709 / Malaysia
+
+4571. [Goucher College] / 1705 / USA
+
+4572. [Moscow Aviation Institute National Research University / Московский авиационный институт (национальный исследовательский университет)] / 1705 / Russia
+
+4573. [Universidad de Montevideo] / 1704 / Uruguay
+
+4574. [Kerala Veterinary and Animal Sciences University] / 1704 / India
+
+4575. [Qom University of Technology] / 1703 / Iran
+
+4576. [Institut Supérieur d'Électronique de Paris] / 1703 / France
+
+4577. [Shenandoah University] / 1702 / USA
+
+4578. [Institut für Hohere Studien Wien] / 1702 / Austria
+
+4579. [Berea College] / 1700 / USA
+
+4580. [Catholic University in Ružomberok / Katolícka univerzita v Ružomberku] / 1699 / Slovakia
+
+4581. [Ch Bansilal University Bhiwani] / 1699 / India
+
+4582. [Southern Arkansas University] / 1698 / USA
+
+4583. [Quaid-e-Awam University of Engineering Science &amp; Technology] / 1696 / Pakistan
+
+4584. [Okayama Prefectural University / 岡山県立大学] / 1692 / Japan
+
+4585. [Universidade São Judas Tadeu] / 1692 / Brazil
+
+4586. [Soran University] / 1688 / Iraq
+
+4587. [Haldia Institute of Technology] / 1687 / India
+
+4588. [Technical University of Sofia Branch Plovdiv] / 1687 / Bulgaria
+
+4589. [Centro Universitario Regional Este] / 1686 / Uruguay
+
+4590. [Behbahan Khatam Alanbia University of Technology] / 1685 / Iran
+
+4591. [Walchand College of Engineering Sangli] / 1685 / India
+
+4592. [College of Nanoscale Science and Engineering University at Albany] / 1684 / USA
+
+4593. [Beit Berl College] / 1684 / Israel
+
+4594. [Universidad EAN] / 1680 / Colombia
+
+4595. [Educons University Sremska Kamenica / Edukons univerzitet] / 1679 / Serbia
+
+4596. [Punjab University College of Information Tecnology] / 1679 / Pakistan
+
+4597. [Liberty University] / 1678 / USA
+
+4598. [Western Governors University] / 1677 / USA
+
+4599. [Fachhochschule Münster] / 1677 / Germany
+
+4600. [Lincoln University College Malaysia] / 1673 / Malaysia
+
+4601. [Angelo State University] / 1672 / USA
+
+4602. [Instituto Superior Miguel Torga      ] / 1670 / Portugal
+
+4603. [Universidad de la República Facultad de Psicología] / 1669 / Uruguay
+
+4604. [Pädagogische Hochschule Karlsruhe] / 1669 / Germany
+
+4605. [Islamic Azad University Shahrood] / 1668 / Iran
+
+4606. [National Institute of Virology] / 1667 / India
+
+4607. [Jingdezhen Ceramic Institute / 景德镇陶瓷大学] / 1667 / China
+
+4608. [Dayananda Sagar University Bangalore] / 1666 / India
+
+4609. [Hochschule für Technik Stuttgart] / 1664 / Germany
+
+4610. [Université de Béchar] / 1663 / Algeria
+
+4611. [John Marshall Law School] / 1660 / USA
+
+4612. [Marymount University] / 1657 / USA
+
+4613. [Dnipropetrovsk National University Honchar / Дніпропетровський національний університет О Гончара] / 1655 / Ukraine
+
+4614. [Mardin Artuklu University] / 1654 / Turkey
+
+4615. [Agnes Scott College] / 1652 / USA
+
+4616. [Kyiv Academy of Municipal Management / Академія муніципального управління] / 1651 / Ukraine
+
+4617. [Molloy College] / 1649 / USA
+
+4618. [Albright College] / 1647 / USA
+
+4619. [University of Niigata Prefecture / 新潟県立大学] / 1647 / Japan
+
+4620. [George Brown College] / 1647 / Canada
+
+4621. [Universitas 17 Agustus 1945 UNTAG Surabaya] / 1645 / Indonesia
+
+4622. [Szczecin University / Uniwersytet Szczeciński] / 1644 / Poland
+
+4623. [Ambedkar Institute of Advanced Communication Technologies and Research] / 1643 / India
+
+4624. [Instituto Federal Sul Rio Grandense] / 1642 / Brazil
+
+4625. [Xiamen University of Technology (Lujiang University) / 厦门理工学院] / 1641 / China
+
+4626. [Lycoming College] / 1638 / USA
+
+4627. [American University in Dubai] / 1636 / United Arab Emirates
+
+4628. [Batumi Shota Rustaveli State University] / 1636 / Georgia
+
+4629. [Universität Salzburg] / 1636 / Austria
+
+4630. [Universidad Católica Andrés Bello] / 1634 / Venezuela
+
+4631. [TIAS School for Business and Society] / 1634 / Netherlands
+
+4632. [Reva Group] / 1634 / India
+
+4633. [Ho Chi Minh City University of Engineering and Technology] / 1633 / Viet Nam
+
+4634. [Kyiv National University of Internal Affairs / Національна академія внутрішніх справ] / 1630 / Ukraine
+
+4635. [Universidad del Mar] / 1629 / Mexico
+
+4636. [Universidad Francisco Marroquín] / 1626 / Guatemala
+
+4637. [Universitas Katolik Santo Thomas] / 1622 / Indonesia
+
+4638. [Kobe Pharmaceutical University / 神戸薬科大学] / 1621 / Japan
+
+4639. [Gubkin Russian State University of Oil and Gas / Российский государственный университет нефти и газа ИМ Губкина] / 1619 / Russia
+
+4640. [Military Academy Turkey / Kara Harp Okulu] / 1618 / Turkey
+
+4641. [Universitas Merdeka Malang] / 1617 / Indonesia
+
+4642. [National Kaohsiung University of Hospitality and Tourism] / 1616 / Taiwan
+
+4643. [Hanover College] / 1615 / USA
+
+4644. [Medical University Sofia / Медицински университет София] / 1612 / Bulgaria
+
+4645. [A D Patel Institute of Technology] / 1611 / India
+
+4646. [Central University of Himachal Pradesh] / 1611 / India
+
+4647. [Whittier College] / 1610 / USA
+
+4648. [Høyskolen Kristiania] / 1610 / Norway
+
+4649. [Islamic Azad University Saveh] / 1610 / Iran
+
+4650. [Kamaraj College of Engineering and Technology Virudhunagar ] / 1610 / India
+
+4651. [Universitas Pembangunan Nasional Veteran Yogyakarta] / 1608 / Indonesia
+
+4652. [West Coast University] / 1607 / USA
+
+4653. [Donbas State Academy of Engineering / Донбаська державна машинобудівна академія] / 1602 / Ukraine
+
+4654. [Hellenic Naval Academy] / 1602 / Greece
+
+4655. [Eastern University of Sri Lanka] / 1601 / Sri Lanka
+
+4656. [ABES Engineering College] / 1600 / India
+
+4657. [Universidad San Jorge] / 1597 / Spain
+
+4658. [Alborz University of Medical Sciences] / 1596 / Iran
+
+4659. [Gulbarga University Kalaburagi] / 1596 / India
+
+4660. [Florida Southern College] / 1595 / USA
+
+4661. [Institut Agama Islam Negeri IAIN Surakarta] / 1595 / Indonesia
+
+4662. [Piri Reis University] / 1592 / Turkey
+
+4663. [Universitas Ibn Khaldun Bogor] / 1590 / Indonesia
+
+4664. [Central University of Karnataka] / 1585 / India
+
+4665. [Universidad Nacional de Chimborazo] / 1584 / Ecuador
+
+4666. [Damanhour University] / 1582 / Egypt
+
+4667. [Shri Ramdeobaba Kamla Nehru Engineering College] / 1581 / India
+
+4668. [Parul University] / 1579 / India
+
+4669. [Bila Tserkva State Agrarian University / Білоцерківський Національний Аграрний Університет] / 1576 / Ukraine
+
+4670. [Islamic Azad University Khomeinishahr] / 1576 / Iran
+
+4671. [Universidad Autónoma de Tlaxcala] / 1575 / Mexico
+
+4672. [Hindustan University (Hindustan Institute of Technology &amp; Management)] / 1574 / India
+
+4673. [Institut Agronomique et Veterinaire Hassan II] / 1573 / Morocco
+
+4674. [Polessky State University / Полесский государственный университет] / 1572 / Belarus
+
+4675. [INCAE Business School] / 1571 / Costa Rica
+
+4676. [Minnan Normal University / 闽南师范大学] / 1570 / China
+
+4677. [Glasgow School of Art] / 1561 / United Kingdom
+
+4678. [Oral Roberts University] / 1560 / USA
+
+4679. [S A Engineering College] / 1558 / India
+
+4680. [University of Asia Pacific Bangladesh] / 1556 / Bangladesh
+
+4681. [Jaipuria Institute of Management] / 1555 / India
+
+4682. [Zhejiang A &amp; F University / 浙江农林大学] / 1555 / China
+
+4683. [Institute of Rural Management Anand] / 1553 / India
+
+4684. [Bourgas University Prof Assen Zlatarov / Университет Професор д-р Асен Златаров Бургас] / 1548 / Bulgaria
+
+4685. [UNIREMINGTON] / 1547 / Colombia
+
+4686. [Francis Marion University] / 1546 / USA
+
+4687. [Adhiparasakthi Engineering College] / 1545 / India
+
+4688. [Vivekananda Global University] / 1539 / India
+
+4689. [University of Petrosani] / 1538 / Romania
+
+4690. [Politeknik Negeri Malang] / 1536 / Indonesia
+
+4691. [Belarusian State Agrarian Technical University / Белорусский государственный аграрный технический университет] / 1536 / Belarus
+
+4692. [Institute of Infrastructure Technology Research and Management] / 1535 / India
+
+4693. [Tokyo University of Foreign Studies / 東京外国語大学] / 1534 / Japan
+
+4694. [Wheeling Jesuit University] / 1533 / USA
+
+4695. [Centro Universitario de la Defensa Marin] / 1528 / Spain
+
+4696. [Brigham Young University Hawaii] / 1527 / USA
+
+4697. [Pakistan Air Force Karachi Institute of Economics &amp; Technology] / 1526 / Pakistan
+
+4698. [Islamic Azad University Dezful] / 1526 / Iran
+
+4699. [Hanoi Medical University] / 1524 / Viet Nam
+
+4700. [Universidad Pedagógica Nacional] / 1524 / Mexico
+
+4701. [La Sierra University] / 1523 / USA
+
+4702. [Prydneprovskaya State Academy of Construction and Architecture / Придніпровська державна академія будівництва та архітектури] / 1522 / Ukraine
+
+4703. [Southern California University of Health Sciences] / 1521 / USA
+
+4704. [Meredith College] / 1520 / USA
+
+4705. [Université de Nîmes (comUE Languedoc Roussillon Universités)] / 1519 / France
+
+4706. [United States Coast Guard Academy] / 1518 / USA
+
+4707. [General Sir John Kotelawala Defence University] / 1517 / Sri Lanka
+
+4708. [Fergusson College Pune] / 1517 / India
+
+4709. [Kuban State University / Кубанский государственный университет] / 1516 / Russia
+
+4710. [Pontificia Universidad Católica Madre y Maestra] / 1516 / Dominican Republic
+
+4711. [Shonan Institute of Technology / 湘南工科大学] / 1515 / Japan
+
+4712. [Sylhet Agricultural University (Sher-e-Bangla Agricultural University)] / 1512 / Bangladesh
+
+4713. [Qilu University of Technology / 齐鲁工业大学] / 1510 / China
+
+4714. [Vardhaman College of Engineering] / 1506 / India
+
+4715. [Argosy University] / 1505 / USA
+
+4716. [Goddard College] / 1501 / USA
+
+4717. [University of the Arts Helsinki / Taideyliopisto] / 1498 / Finland
+
+4718. [Zaporozhye National Technical University / Запорізький Національний Технічний Університет] / 1494 / Ukraine
+
+4719. [University of Gadarif] / 1494 / Sudan
+
+4720. [Symbiosis International University] / 1491 / India
+
+4721. [University of Agricultural Sciences and Veterinary Medicine Bucharest] / 1490 / Romania
+
+4722. [Islamic Azad University Gachsaran] / 1489 / Iran
+
+4723. [Université Saint Esprit de Kaslik] / 1486 / Lebanon
+
+4724. [Salve Regina University] / 1485 / USA
+
+4725. [Sri Krishna College of Engineering and Technology] / 1485 / India
+
+4726. [Mbarara University of Science and Technology] / 1483 / Uganda
+
+4727. [Ludong University / 鲁东大学] / 1483 / China
+
+4728. [Islamic Azad University Eslamshahr] / 1482 / Iran
+
+4729. [Instituto Nacional de Telecomunicaçoes INATEL] / 1480 / Brazil
+
+4730. [Langston University] / 1478 / USA
+
+4731. [Webster University] / 1478 / USA
+
+4732. [Hanoi Pedagogical University 2] / 1476 / Viet Nam
+
+4733. [Centro Nacional de Sanidad Agropecuaria] / 1475 / Cuba
+
+4734. [University of Kyrenia / Girne üniversitesi] / 1474 /  
+
+4735. [University of Balochistan] / 1471 / Pakistan
+
+4736. [Islamic Azad University Kerman] / 1471 / Iran
+
+4737. [Universidad del Papaloapan] / 1470 / Mexico
+
+4738. [University North / Sveučilište Sjever] / 1470 / Croatia
+
+4739. [Universidade Lusíada de Lisboa] / 1466 / Portugal
+
+4740. [Chiba Institute of Science / 千葉科学大学] / 1466 / Japan
+
+4741. [Academy of Physical Education in Wroclaw / Akademia Wychowania Fizycznego we Wrocławiu] / 1463 / Poland
+
+4742. [Shifa Tameer e Millat University] / 1463 / Pakistan
+
+4743. [NIMS University] / 1463 / India
+
+4744. [Dr B C Roy Engineering College Durgapur] / 1460 / India
+
+4745. [University of Agriculture and Natural Resources Ramin] / 1458 / Iran
+
+4746. [Kanazawa Institute of Technology / 金沢工業大学] / 1454 / Japan
+
+4747. [Communication University of China (Beijing Broadcasting Institute) / 中国传媒大学] / 1452 / China
+
+4748. [National Quemoy University] / 1451 / Taiwan
+
+4749. [Institut Pemerintahan Dalam Negeri IPDN] / 1448 / Indonesia
+
+4750. [Islamic Azad University Semnan] / 1446 / Iran
+
+4751. [University of Hafr Al Batin] / 1445 / Saudi Arabia
+
+4752. [Kazakhstan Institute of Management, Economics and Strategic Research KIMEP University] / 1445 / Kazakhstan
+
+4753. [Universidad San Sebastián Chile] / 1445 / Chile
+
+4754. [Michigan State University College of Law] / 1443 / USA
+
+4755. [Miami Dade College] / 1442 / USA
+
+4756. [Phuket Rajabhat University] / 1432 / Thailand
+
+4757. [Hochschule Zittau Gorlitz] / 1432 / Germany
+
+4758. [Commonwealth Medical College] / 1430 / USA
+
+4759. [Sindh Agriculture University] / 1429 / Pakistan
+
+4760. [Universidad Nacional de Entre Ríos] / 1429 / Argentina
+
+4761. [Omsk State Technical University / Омский Государственный технический университет] / 1427 / Russia
+
+4762. [Guangxi Medical University / 广西医科大学] / 1426 / China
+
+4763. [Université de Skikda] / 1426 / Algeria
+
+4764. [Dong-A University / 동아대학교] / 1425 / South Korea
+
+4765. [Université Moulay Ismail Faculté des Sciences de Meknès] / 1425 / Morocco
+
+4766. [Haaga Helia University of Applied Sciences / Haaga Helia Ammattikorkeakoulu] / 1424 / Finland
+
+4767. [University of Mining and Geology St Ivan Rislki Sofia / Минно-геоложки университет Св Иван Рилски] / 1424 / Bulgaria
+
+4768. [Academic Center for Business Law] / 1423 / Israel
+
+4769. [Universitas Papua Manokwari] / 1420 / Indonesia
+
+4770. [Kazakh-British Technical University / Казахстанско-Британский Технический Университет] / 1419 / Kazakhstan
+
+4771. [Dhaka University of Engineering &amp; Technology] / 1419 / Bangladesh
+
+4772. [Prasad V Potluri Siddhartha Institute of Technology Vijayawada] / 1417 / India
+
+4773. [Akita International University / 国際教養大学] / 1415 / Japan
+
+4774. [Khabarovsk State Academy of Economics and Law / Хабаровская государственная академия экономики и права] / 1413 / Russia
+
+4775. [Hue University] / 1412 / Viet Nam
+
+4776. [Vladivostock State University of Economics / Владивостокский государственный университет экономики и сервиса] / 1410 / Russia
+
+4777. [Linfield College] / 1405 / USA
+
+4778. [Middle Georgia State University] / 1403 / USA
+
+4779. [Hochschule Neu Ulm] / 1403 / Germany
+
+4780. [Liaquat University of Medical and Health Sciences] / 1402 / Pakistan
+
+4781. [Mackay Medical College / 馬偕醫學院] / 1399 / Taiwan
+
+4782. [Madhav Institute of Technology and Science MITS Gwalior] / 1399 / India
+
+4783. [Mukogawa Women's University / 武庫川女子大学] / 1396 / Japan
+
+4784. [All India Institute of Speech and Hearing Mysore] / 1396 / India
+
+4785. [State University of New York] / 1395 / USA
+
+4786. [Universidad Central Colombia] / 1395 / Colombia
+
+4787. [École Supérieure des Techniques Aéronautiques et de Construction Automobile] / 1389 / France
+
+4788. [Nanzan University / 南山大学] / 1388 / Japan
+
+4789. [Chaminade University of Honolulu] / 1387 / USA
+
+4790. [Istanbul Esenyurt University] / 1384 / Turkey
+
+4791. [Birjand University of Technology] / 1384 / Iran
+
+4792. [Georgia Military College] / 1382 / USA
+
+4793. [University of Trnava / Trnavská univerzita v Trnave] / 1380 / Slovakia
+
+4794. [Universidad de San Buenaventura Bogotá] / 1379 / Colombia
+
+4795. [Université Ibn Khaldoun Tiaret] / 1379 / Algeria
+
+4796. [Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen] / 1378 / Germany
+
+4797. [Politeknik Negeri Sriwijaya] / 1377 / Indonesia
+
+4798. [University of Dhaka Institute of Statistical Research and Training ] / 1377 / Bangladesh
+
+4799. [Université Larbi Ben Mhidi de Oum El Bouaghi] / 1377 / Algeria
+
+4800. [Université de Carthage Ecole Polytechnique de Tunisie] / 1376 / Tunisia
+
+4801. [North-Caucasus Federal University (Stavropol State University) / Северо-Кавказский федеральный университет (Ставропольский государственный университет)] / 1375 / Russia
+
+4802. [Khorramshahr University of Marine Science &amp; Technology] / 1375 / Iran
+
+4803. [IMS Engineering College Ghaziabad] / 1373 / India
+
+4804. [Elizabeth City State University] / 1372 / USA
+
+4805. [Kalamazoo College] / 1371 / USA
+
+4806. [University of Allahabad Centre of Behavioural and Cognitive Sciences] / 1371 / India
+
+4807. [Kamyanets Podilskiy National University /Кам'янець Подільський національний університет І Огієнка] / 1370 / Ukraine
+
+4808. [St Joseph's College of Engineering] / 1369 / India
+
+4809. [University of Gour Banga] / 1367 / India
+
+4810. [Universidad de la República Centro de Matemática] / 1364 / Uruguay
+
+4811. [Oranim Academic College] / 1363 / Israel
+
+4812. [Anan National College of Technology / 阿南工業高等専門学校] / 1362 / Japan
+
+4813. [Universidad de Matanzas Camilo Cienfuegos] / 1357 / Cuba
+
+4814. [Cecos University] / 1356 / Pakistan
+
+4815. [American University of Science &amp; Technology] / 1355 / Lebanon
+
+4816. [Instituto Federal de Minas Gerais IFMG] / 1355 / Brazil
+
+4817. [Universidad Nacional de Luján] / 1353 / Argentina
+
+4818. [Misurata University (Misrata University)] / 1352 / Libya
+
+4819. [Moscow University for the Humanities / Московский Гуманитарный Университет] / 1351 / Russia
+
+4820. [Shanghai International Studies University / 上海外国语大学] / 1351 / China
+
+4821. [Manipal University Dubai Campus] / 1350 / United Arab Emirates
+
+4822. [Kyiv School of Economics] / 1350 / Ukraine
+
+4823. [West Bengal University of Technology] / 1349 / India
+
+4824. [Modibbo Adama University of Technology Yola (Federal University of Technology)] / 1348 / Nigeria
+
+4825. [Annasaheb Dange College of Engineering &amp; Technology] / 1346 / India
+
+4826. [Nichols College] / 1345 / USA
+
+4827. [Buein Zahra Technical University] / 1341 / Iran
+
+4828. [William Angliss Institute] / 1341 / Australia
+
+4829. [Scripps College] / 1339 / USA
+
+4830. [Southern University New Orleans] / 1339 / USA
+
+4831. [Open University Malaysia] / 1339 / Malaysia
+
+4832. [Zabol University of Medical Sciences] / 1339 / Iran
+
+4833. [Heilongjiang University / 黑龙江大学] / 1336 / China
+
+4834. [Lone Star College] / 1335 / USA
+
+4835. [Hochschule Landshut] / 1334 / Germany
+
+4836. [Ostfalia Hochschule für Angewandte Wissenschaften] / 1332 / Germany
+
+4837. [Université de M'Sila] / 1332 / Algeria
+
+4838. [Tongmyong University / 동명대학교] / 1330 / South Korea
+
+4839. [American University of Integrative Sciences St Maarten School of Medicine (Sint Eustatius)] / 1330 / Sint Maarten (Dutch part)
+
+4840. [Instituto Tecnológico de Tijuana] / 1330 / Mexico
+
+4841. [American University of Iraq Sulaimani ] / 1330 / Iraq
+
+4842. [Université d'Auvergne (Clermont-Ferrand 1)] / 1330 / France
+
+4843. [Lethbridge College] / 1330 / Canada
+
+4844. [Mawlana Bhasani Science &amp; Technology University] / 1330 / Bangladesh
+
+4845. [Université de la Manouba Ecole Nationale des Sciences de l'informatique] / 1327 / Tunisia
+
+4846. [Shu-Te University] / 1327 / Taiwan
+
+4847. [Xavier Labour Relations Institute in India] / 1326 / India
+
+4848. [B P Poddar Institute of Management and Technology] / 1323 / India
+
+4849. [Alaska Pacific University] / 1322 / USA
+
+4850. [St Xavier's College of Engineering] / 1322 / India
+
+4851. [Okanagan College] / 1319 / Canada
+
+4852. [Saveetha Engineering College] / 1318 / India
+
+4853. [Université Hassiba Benbouali de Chlef] / 1317 / Algeria
+
+4854. [Hochschule Heilbronn] / 1315 / Germany
+
+4855. [Colegio de Sonora] / 1314 / Mexico
+
+4856. [Bangabandhu Sheikh Mujib Medical University] / 1313 / Bangladesh
+
+4857. [Indian Institute of Food Processing Technology (Indian Institute of Crop Processing Technology)] / 1312 / India
+
+4858. [Sri Ramakrishna Engineering College] / 1311 / India
+
+4859. [University of London] / 1310 / United Kingdom
+
+4860. [Hajee Mohammad Danesh Science &amp; Technology University Dinajpur] / 1310 / Bangladesh
+
+4861. [South University] / 1309 / USA
+
+4862. [Eastern Nazarene College] / 1309 / USA
+
+4863. [Southwestern Oklahoma State University] / 1307 / USA
+
+4864. [Viterbo University] / 1307 / USA
+
+4865. [South Eastern University of Sri Lanka] / 1304 / Sri Lanka
+
+4866. [Nha Trang University] / 1303 / Viet Nam
+
+4867. [University of Ardakan] / 1300 / Iran
+
+4868. [Universitas Widyagama Malang] / 1298 / Indonesia
+
+4869. [Politeknik Elektronika Negeri Surabaya] / 1298 / Indonesia
+
+4870. [Hochschule für Wirtschaft Zürich] / 1297 / Switzerland
+
+4871. [Hochschule für Technik und Wirtschaft Dresden] / 1297 / Germany
+
+4872. [École d’Ingénieurs de Purpan INP Purpan (comUE Université de Toulouse)] / 1295 / France
+
+4873. [Sul Ross State University] / 1293 / USA
+
+4874. [Islamic Azad University Ardabil] / 1290 / Iran
+
+4875. [OCAD University (Ontario College of Art &amp; Design)] / 1289 / Canada
+
+4876. [Universidad Mayor de San Simón] / 1289 / Bolivia
+
+4877. [Texas A&amp;M University Central Texas] / 1287 / USA
+
+4878. [Birla Institute of Management Technology] / 1287 / India
+
+4879. [University of Zenica / Univerzitet u Zenici] / 1287 / Bosnia and Herzegovina
+
+4880. [Vistula University (University of Economics and Computer Science in Warsaw) / Uczelnia Vistula] / 1286 / Poland
+
+4881. [Changchun University of Technology / 长春工业大学] / 1283 / China
+
+4882. [Instituto Federal de Educação Ciência e Tecnologia Paraíba IFPB] / 1283 / Brazil
+
+4883. [Keiser University] / 1282 / USA
+
+4884. [Randolph Macon College] / 1282 / USA
+
+4885. [Central Institute of Technology Kokrajhar] / 1282 / India
+
+4886. [Hochschule Mittweida] / 1277 / Germany
+
+4887. [Yeshwantrao Chavan College of Engineering] / 1276 / India
+
+4888. [Instituto Federal de Educação Ciência e Tecnologia Fluminense] / 1274 / Brazil
+
+4889. [Heidelberg University] / 1272 / USA
+
+4890. [Shaheed Bhagat Singh College of Engineering &amp; Technology] / 1270 / India
+
+4891. [Sungshin Women's University / 성신여자대학교] / 1269 / South Korea
+
+4892. [Education Management University / Університет менеджменту освіти] / 1268 / Ukraine
+
+4893. [Universidad de Ciencias Aplicadas y Ambientales] / 1268 / Colombia
+
+4894. [Anhui Medical University / 安徽医科大学] / 1267 / China
+
+4895. [Rakuno Gakuen University / 酪農学園大学] / 1266 / Japan
+
+4896. [Marathwada Institute of Technology MIT Aurangabad] / 1264 / India
+
+4897. [Newman University ] / 1261 / United Kingdom
+
+4898. [Concordia University of Edmonton] / 1261 / Canada
+
+4899. [Benue State University] / 1260 / Nigeria
+
+4900. [Université Catholique de Lille / Fédération universitaire et polytechnique de Lille (comUE Lille Nord de France)] / 1260 / France
+
+4901. [Salus University (Pennsylvania College of Optometry)] / 1259 / USA
+
+4902. [Hochschule Augsburg] / 1259 / Germany
+
+4903. [Al Muthanna University] / 1258 / Iraq
+
+4904. [Université de Sfax Institut Supérieur d'Informatique et de Multimédia de Sfax] / 1257 / Tunisia
+
+4905. [Lynchburg College] / 1256 / USA
+
+4906. [Universidad Católica de Temuco] / 1256 / Chile
+
+4907. [Hanoi University of Mining and Geology] / 1255 / Viet Nam
+
+4908. [Hochschule für Oekonomie &amp; Management] / 1253 / Germany
+
+4909. [Universitas Negeri Manado] / 1250 / Indonesia
+
+4910. [Sher-e-Bangla Agricultural University] / 1250 / Bangladesh
+
+4911. [Çağ University] / 1249 / Turkey
+
+4912. [Instituto Superior de Contabilidade e Administração de Coimbra] / 1245 / Portugal
+
+4913. [Abasyn University] / 1245 / Pakistan
+
+4914. [University of Education Lahore] / 1244 / Pakistan
+
+4915. [Denmark Metrology Institute] / 1244 / Denmark
+
+4916. [Lincoln University of Missouri] / 1243 / USA
+
+4917. [Temasek Polytechnic] / 1243 / Singapore
+
+4918. [Lanzhou Jiaotong University / 兰州交通大学] / 1243 / China
+
+4919. [Instituto Tecnológico de Ciudad Madero] / 1242 / Mexico
+
+4920. [Meiji Gakuin University / 明治学院大学] / 1241 / Japan
+
+4921. [University of Library Studies and Information Technologies Sofia / Университет по библиотекознание и информационни технологии] / 1241 / Bulgaria
+
+4922. [Dongduk Women's University / 동덕여자대학교] / 1239 / South Korea
+
+4923. [Foundation University Institute of Management and Computer Science] / 1239 / Pakistan
+
+4924. [International Psychoanalytic University] / 1239 / Germany
+
+4925. [Vishwakarma Institute of Information Technology Pune] / 1238 / India
+
+4926. [CUNY Medgar Evers College] / 1236 / USA
+
+4927. [Manhattanville College] / 1236 / USA
+
+4928. [Avans University of Professional Education / Avans Hogeschool] / 1235 / Netherlands
+
+4929. [Southwest Medical University / 泸州医学院] / 1235 / China
+
+4930. [Perdana University] / 1234 / Malaysia
+
+4931. [Gayatri Vidya Parishad College of Engineering] / 1234 / India
+
+4932. [Pädagogische Hochschule Freiburg] / 1233 / Germany
+
+4933. [Donetsk National Technical University / Донецький національний технічний університет] / 1231 / Ukraine
+
+4934. [Instituto Tecnológico de Chihuahua] / 1231 / Mexico
+
+4935. [Paul Smith's College] / 1230 / USA
+
+4936. [Saint Mary's College Notre Dame] / 1230 / USA
+
+4937. [Universitas Prasetiya Mulya] / 1229 / Indonesia
+
+4938. [Chaudhary Devi Lal University] / 1229 / India
+
+4939. [Addis Ababa Institute of Technology] / 1229 / Ethiopia
+
+4940. [Sri Ramakrishna Institute of Technology] / 1228 / India
+
+4941. [Politeknik Negeri Bengkalis] / 1226 / Indonesia
+
+4942. [Kobe Institute of Computing Graduate School of Information Technology / 神戸情報大学院大学] / 1225 / Japan
+
+4943. [Ho Chi Minh City University of Information Technology] / 1223 / Viet Nam
+
+4944. [Chowan University] / 1222 / USA
+
+4945. [Mount St Mary's University Emmitsburg] / 1222 / USA
+
+4946. [Northeast Forestry University / 东北林业大学] / 1222 / China
+
+4947. [Guildhall School of Music and Drama] / 1221 / United Kingdom
+
+4948. [Foothill-De Anza Community College District] / 1220 / USA
+
+4949. [University of Wales Trinity Saint David (Swansea Metropolitan University)] / 1219 / United Kingdom
+
+4950. [Institut National des Langues et Civilisations Orientales INALCO (comUE Université Sorbonne Paris Cité)] / 1219 / France
+
+4951. [Wayne State College] / 1216 / USA
+
+4952. [Kyoto Prefectural University / 京都府立大学] / 1216 / Japan
+
+4953. [University of Nishapur] / 1216 / Iran
+
+4954. [Poltekkes Yogyakarta] / 1216 / Indonesia
+
+4955. [Maryville University of Saint Louis] / 1215 / USA
+
+4956. [Air Force Institute of Technology / Instytut Techniczny Wojsk Lotniczych] / 1214 / Poland
+
+4957. [Corporación Universitaria Minuto de Dios UNIMINUTO] / 1214 / Colombia
+
+4958. [R V R &amp; JC College of Engineering] / 1213 / India
+
+4959. [École Nationale du Genie de l'Eau et de l'Environnement de Strasbourg] / 1213 / France
+
+4960. [Jan Evangelista Purkyně University / Univerzita Jana Evangelisty Purkyně v Ústí Nad Labem] / 1210 / Czechia
+
+4961. [Swami Ramanand Teerth Marathwada University] / 1208 / India
+
+4962. [Universidad de la Frontera] / 1208 / Chile
+
+4963. [Hubei University of Technology / 湖北工业大学] / 1207 / China
+
+4964. [Indian Institute of Management Raipur] / 1205 / India
+
+4965. [Hollins University] / 1204 / USA
+
+4966. [Hiroshima International University / 広島国際大学] / 1202 / Japan
+
+4967. [Kherson State Agricultural University / Херсонський державний аграрний університет] / 1200 / Ukraine
+
+4968. [Siauliai University / Šiaulių universitetas] / 1196 / Lithuania
+
+4969. [Military Technical College] / 1196 / Egypt
+
+4970. [Drury University] / 1192 / USA
+
+4971. [Eldoret University] / 1191 / Kenya
+
+4972. [University of National and World Economy Sofia / Университет за национално и световно стопанство София] / 1191 / Bulgaria
+
+4973. [Shawnee State University] / 1189 / USA
+
+4974. [Shepherd University] / 1189 / USA
+
+4975. [California Institute of the Arts CalArts] / 1188 / USA
+
+4976. [Civil Aviation University of China / 中国民航大学] / 1187 / China
+
+4977. [Kherson State University / Херсонський державний унiверситет] / 1186 / Ukraine
+
+4978. [University of Economics in Bratislava / Ekonomická univerzita v Bratislave] / 1186 / Slovakia
+
+4979. [Instituto Tecnológico de La Laguna] / 1186 / Mexico
+
+4980. [Università San Raffaele (Università telematica internazionale Unitel)] / 1186 / Italy
+
+4981. [École Supérieure des Sciences Commerciales d'Angers] / 1186 / France
+
+4982. [Trine University (Tri State University)] / 1185 / USA
+
+4983. [Leeds Trinity University] / 1185 / United Kingdom
+
+4984. [Naval Academy in Gdynia / Akademia Marynarki Wojennej Bohaterów Westerplatte w Gdyni] / 1185 / Poland
+
+4985. [Al Rafidain University College] / 1185 / Iraq
+
+4986. [Central Luzon State University] / 1184 / Philippines
+
+4987. [Universitas Nusa Cendana] / 1184 / Indonesia
+
+4988. [Hochschule für nachhaltige Entwicklung Eberswalde] / 1180 / Germany
+
+4989. [CUNY Hostos Community College] / 1179 / USA
+
+4990. [Colegio Mexiquense] / 1179 / Mexico
+
+4991. [Université de Ouagadougou] / 1179 / Burkina Faso
+
+4992. [Universitas Pembangunan Nasional Veteran Jawa Timur] / 1175 / Indonesia
+
+4993. [Texas A&amp;M University Texarkana] / 1170 / USA
+
+4994. [Federal University Dutse Jigawa State] / 1169 / Nigeria
+
+4995. [Institute of Business Administration Karachi] / 1167 / Pakistan
+
+4996. [Hochschule Trier Umwelt Campus Birkenfeld] / 1166 / Germany
+
+4997. [Meru University of Science &amp; Technology] / 1165 / Kenya
+
+4998. [Institut Mines Télécom (Télécom SudParis+Télécom ParisTech) (comUE Université Paris Saclay)] / 1164 / France
+
+4999. [Government V Y T PG Autonomous College Durg] / 1162 / India
+
+5000. [Universitas Negeri Gorontalo] / 1159 / Indonesia
+
+5001. [Gordon College] / 1158 / USA
+
+5002. [University of Technology Jamaica] / 1158 / Jamaica
+
+5003. [Estonian Business School / EBS Rahvusvaheline ülikool] / 1158 / Estonia
+
+5004. [B V Patel Pharmaceutical Education and Research Development] / 1155 / India
+
+5005. [Mitchell Hamline School of Law] / 1153 / USA
+
+5006. [Telemark University College / Høgskolen i Telemark] / 1152 / Norway
+
+5007. [Universidad de Palermo Argentina] / 1152 / Argentina
+
+5008. [Federal University Wukari Taraba State] / 1150 / Nigeria
+
+5009. [Islamic Azad University Parand] / 1149 / Iran
+
+5010. [Duale Hochschule Baden-Württemberg DHBW Mannheim] / 1148 / Germany
+
+5011. [Rivne State Humanities University / Рівненський державний гуманітарний університет] / 1147 / Ukraine
+
+5012. [Embu University College] / 1147 / Kenya
+
+5013. [University of Donja Gorica / Univerzitet Donja Gorica] / 1146 / Montenegro
+
+5014. [International University of Japan / 国際大学] / 1145 / Japan
+
+5015. [Changsha University of Science &amp; Technology / 长沙理工大学] / 1141 / China
+
+5016. [Sahmyook University / 삼육대학교] / 1140 / South Korea
+
+5017. [Ulyanovsk State Pedagogical University I Ulyanov / Ульяновский государственный педагогический университет И Н Ульянова] / 1140 / Russia
+
+5018. [Irkutsk State University / Иркутский государственный университет] / 1139 / Russia
+
+5019. [Agricultural University of Tirana / Universiteti Bujqësor i Tiranës] / 1139 / Albania
+
+5020. [Hochschule für Gesundheit und Medizin Berlin / Medical School Berlin] / 1138 / Germany
+
+5021. [Edward Via College of Osteopathic Medicine] / 1137 / USA
+
+5022. [Rajamangala University of Technology Phra Nakhon] / 1136 / Thailand
+
+5023. [West Bengal University of Animal and Fishery Sciences] / 1135 / India
+
+5024. [Guiyang Medical University / 贵阳医科大学] / 1135 / China
+
+5025. [Kwara State University] / 1134 / Nigeria
+
+5026. [Kemerovo State University of Culture and the Arts / Кемеровского государственного университета культуры и искусств] / 1132 / Russia
+
+5027. [Institut National des Postes et Telecommunications Maroc] / 1131 / Morocco
+
+5028. [Emily Carr University of Art + Design] / 1130 / Canada
+
+5029. [Asian Institute of Management] / 1129 / Philippines
+
+5030. [Universidad Autónoma de Guadalajara] / 1126 / Mexico
+
+5031. [Westminster College New Wilmington] / 1125 / USA
+
+5032. [Osmaniye Korkut Ata University] / 1125 / Turkey
+
+5033. [Islamic Azad University Kermanshah] / 1125 / Iran
+
+5034. [Islamic Azad University Varamin] / 1122 / Iran
+
+5035. [Kongunadu Arts and Science College Coimbatore] / 1122 / India
+
+5036. [Shaanxi University of Science &amp; Technology / 陕西科技大学] / 1121 / China
+
+5037. [AISSMS College of Pharmacy] / 1119 / India
+
+5038. [K S Rangasamy College of Arts &amp; Science] / 1118 / India
+
+5039. [MIT Engineering Management Arts Commerce &amp; Science College in Pune] / 1117 / India
+
+5040. [Ravenshaw University] / 1115 / India
+
+5041. [Redeemer University] / 1114 / Canada
+
+5042. [Astrakhan State University / Астраханский государственный университет] / 1111 / Russia
+
+5043. [Central State University] / 1110 / USA
+
+5044. [Fujian Jiangxia University / 福建江夏学院] / 1109 / China
+
+5045. [Tumkur University] / 1108 / India
+
+5046. [Universidad Técnica del Norte] / 1108 / Ecuador
+
+5047. [University of Human Development] / 1107 / Iraq
+
+5048. [Vasile Goldis Western University of Arad] / 1103 / Romania
+
+5049. [Putian University / 莆田学院] / 1103 / China
+
+5050. [Appalachian College of Pharmacy] / 1102 / USA
+
+5051. [Lazarski University / Uczelnia Łazarskiego Warszawa] / 1102 / Poland
+
+5052. [Higher College of Technology] / 1101 / Oman
+
+5053. [California University of Pennsylvania] / 1100 / USA
+
+5054. [Ibrahim Badamasi Babangida University Lapai] / 1099 / Nigeria
+
+5055. [Ningbo University of Technology / 宁波工程学院] / 1099 / China
+
+5056. [Pacific Union College] / 1098 / USA
+
+5057. [Nothern Alberta Institute of Technology] / 1098 / Canada
+
+5058. [Saint Petersburg Chemical Pharmaceutical Academy / Санкт Петербургская государственная химико-фармацевтическая академия] / 1096 / Russia
+
+5059. [Sabzevar University of Medical Sciences] / 1096 / Iran
+
+5060. [Haute École Pédagogique Vaudoise Lausanne] / 1094 / Switzerland
+
+5061. [Neelain University] / 1094 / Sudan
+
+5062. [Palmer College of Chiropractic] / 1093 / USA
+
+5063. [Tianjin University of Science &amp; Technology / 天津科技大学] / 1093 / China
+
+5064. [Sheridan College Institute of Technology and Advanced Learning] / 1093 / Canada
+
+5065. [Instituto Federal de Educação Ciência e Tecnologia de Pernambuco IFPE] / 1091 / Brazil
+
+5066. [Washington &amp; Jefferson College] / 1090 / USA
+
+5067. [American University of Nigeria] / 1090 / Nigeria
+
+5068. [Colegio de Estudios Superiores de Administración CESA] / 1090 / Colombia
+
+5069. [Caldwell University] / 1089 / USA
+
+5070. [San Diego Community College District] / 1086 / USA
+
+5071. [Saybrook University] / 1085 / USA
+
+5072. [Palestine Technical University Khadouri] / 1084 / Palestine
+
+5073. [Jeonju University / 전주대학교] / 1083 / South Korea
+
+5074. [National Agrarian University Lviv / Львівський національний аграрний університет] / 1082 / Ukraine
+
+5075. [Muhammad Nawaz Shareef University of Agriculture] / 1082 / Pakistan
+
+5076. [Strayer University] / 1081 / USA
+
+5077. [Indiana Wesleyan University] / 1081 / USA
+
+5078. [Universidades Lusíada de Famalicão] / 1081 / Portugal
+
+5079. [Universitas Bina Darma] / 1080 / Indonesia
+
+5080. [Sri Guru Granth Sahib World University] / 1080 / India
+
+5081. [Sripatum University] / 1079 / Thailand
+
+5082. [Shaheed Zulfikar Ali Bhutto Institute of Science &amp; Technology Islamabad] / 1079 / Pakistan
+
+5083. [Centro Universitário Cesmac] / 1079 / Brazil
+
+5084. [University of Architecture Civil Engineering and Geodesy / Университет по архитектура строителство и геодезия] / 1078 / Bulgaria
+
+5085. [Sage Colleges] / 1077 / USA
+
+5086. [Srimad Andavan Arts &amp; Science College] / 1077 / India
+
+5087. [Russian Timiryazev State Agrarian University / Российский государственный аграрный университет К АТимирязева] / 1076 / Russia
+
+5088. [Université Mohamed El Bachir El Ibrahim Bordj Bou Arréridj] / 1073 / Algeria
+
+5089. [Bethune Cookman University] / 1072 / USA
+
+5090. [Hochschule Fulda] / 1072 / Germany
+
+5091. [Le Reseau @Archi.fr] / 1069 / France
+
+5092. [All India Institute of Medical Sciences Raipur] / 1068 / India
+
+5093. [University of Horticultural Sciences Bagalkot] / 1068 / India
+
+5094. [NLA Høgskolen] / 1067 / Norway
+
+5095. [Makerere University Business School] / 1066 / Uganda
+
+5096. [Management and Science University] / 1066 / Malaysia
+
+5097. [Hochschule Ingolstadt (Fachhochschule Ingolstadt)] / 1066 / Germany
+
+5098. [Albany State University] / 1065 / USA
+
+5099. [Haute École Spécialisée de la Suisse Occidentale] / 1064 / Switzerland
+
+5100. [Linyi University (Linyi Normal University) / 临沂大学 / 临沂师范学院] / 1064 / China
+
+5101. [Baqai Medical University] / 1063 / Pakistan
+
+5102. [Otaru University of Commerce / 小樽商科大学] / 1063 / Japan
+
+5103. [Université de Mascara] / 1061 / Algeria
+
+5104. [University of Zakho] / 1060 / Iraq
+
+5105. [University of Delhi Faculty of Management Studies] / 1060 / India
+
+5106. [Union University Tennessee] / 1058 / USA
+
+5107. [Mongolian University of Science &amp; Technology] / 1058 / Mongolia
+
+5108. [Avondale College] / 1058 / Australia
+
+5109. [Green Mountain College] / 1057 / USA
+
+5110. [Siberian State Aerospace University / Сибирский государственный аэрокосмический университет им М.Ф Решетнёва] / 1057 / Russia
+
+5111. [Military Technical Academy / Academia Tehnica Militara] / 1057 / Romania
+
+5112. [Bhilai Institute of Technology Durg] / 1056 / India
+
+5113. [Sindh Institute of Urology and Transplantation] / 1053 / Pakistan
+
+5114. [Universitas Binus Nusantara] / 1053 / Indonesia
+
+5115. [Sri Venkateswara College] / 1053 / India
+
+5116. [Federal University Lokoja Kogi State] / 1052 / Nigeria
+
+5117. [Vijayanagara Sri Krishnadevaraya University] / 1052 / India
+
+5118. [University of Dodoma] / 1051 / Tanzania
+
+5119. [Xi'An Shiyou University / 西安石油大学] / 1050 / China
+
+5120. [Universitas Sarjanawiyata Tamansiswa] / 1049 / Indonesia
+
+5121. [Université Mohammed V Agdal Institut Scientifique Rabat] / 1048 / Morocco
+
+5122. [Universidad del Azuay] / 1048 / Ecuador
+
+5123. [National Taitung University] / 1047 / Taiwan
+
+5124. [Sirjan University of Technology] / 1045 / Iran
+
+5125. [Lugansk National University / Луганський національний університет Та Шевченка] / 1044 / Ukraine
+
+5126. [University of California System] / 1042 / USA
+
+5127. [Westfield State University] / 1042 / USA
+
+5128. [Tsuda College / 津田塾大学] / 1042 / Japan
+
+5129. [Dalian Medical University / 大连医科大学] / 1041 / China
+
+5130. [Western State Colorado University] / 1038 / USA
+
+5131. [Yu Da University of Science &amp; Technology] / 1037 / Taiwan
+
+5132. [Fasa University] / 1035 / Iran
+
+5133. [Jundi-Shapur University] / 1035 / Iran
+
+5134. [Arab Open University Lebanon] / 1034 / Lebanon
+
+5135. [REVA University] / 1034 / India
+
+5136. [East Ukrainian National University / Східноукраїнський національний університет В Даля ] / 1033 / Ukraine
+
+5137. [PSB Paris School of Business (ESG MS)] / 1033 / France
+
+5138. [Universidad Nacional de Trujillo] / 1032 / Peru
+
+5139. [Jozef Pilsudski University of Physical Education in Warsaw / Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie] / 1031 / Poland
+
+5140. [Hogeschool Zeeland] / 1031 / Netherlands
+
+5141. [Harcourt Butler Technological University] / 1029 / India
+
+5142. [Bahir Dar University] / 1029 / Ethiopia
+
+5143. [RK University] / 1028 / India
+
+5144. [Universidad Técnica Estatal de Quevedo] / 1027 / Ecuador
+
+5145. [Universidade Tiradentes UNIT] / 1026 / Brazil
+
+5146. [Shandong Normal University / 山东师范大学] / 1025 / China
+
+5147. [Slovak Medical University in Bratislava / Slovenská zdravotnícka univerzita v Bratislave] / 1024 / Slovakia
+
+5148. [École d’Ingénieurs en Genie des Systemes Industriels] / 1024 / France
+
+5149. [HELP University] / 1023 / Malaysia
+
+5150. [Instituto Federal de Educação Ciência e Tecnologia do Triangulo Mineiro IFTM] / 1023 / Brazil
+
+5151. [Morningside College] / 1020 / USA
+
+5152. [Mukachevo State University / Мукачівський державний університет] / 1020 / Ukraine
+
+5153. [Universitas Muhammadiyah Surabaya] / 1020 / Indonesia
+
+5154. [University of Missouri System] / 1019 / USA
+
+5155. [Government Medical College &amp; Hospital Chandigarh] / 1019 / India
+
+5156. [Chitkara University Himachal Pradesh] / 1019 / India
+
+5157. [Veer Narmad South Gujarat University] / 1019 / India
+
+5158. [Hood College] / 1018 / USA
+
+5159. [Habib University] / 1018 / Pakistan
+
+5160. [Alcorn State University] / 1017 / USA
+
+5161. [Kakatiya Institute of Technology and Science Warangal] / 1017 / India
+
+5162. [Bordeaux INP / Institut Polytechnique de Bordeaux  (ComUE d'Aquitaine)] / 1016 / France
+
+5163. [Concordia University Wisconsin] / 1015 / USA
+
+5164. [Selangor International Islamic University College] / 1014 / Malaysia
+
+5165. [Richmond American International University in London] / 1013 / United Kingdom
+
+5166. [John Abbott College] / 1013 / Canada
+
+5167. [Károli Gáspár University of the Reformed Church Budapest / Károli Gáspár Református Egyetem KGRE] / 1010 / Hungary
+
+5168. [JSS Academy of Technical Education] / 1008 / India
+
+5169. [Ambedkar University] / 1006 / India
+
+5170. [IIS University] / 1006 / India
+
+5171. [Yanbian University / 延边大学] / 1005 / China
+
+5172. [Universidade do Estado de Minas Gerais UEMG] / 1005 / Brazil
+
+5173. [College of Saint Benedict &amp; Saint John's University] / 1004 / USA
+
+5174. [Silicon Institute of Technology] / 1004 / India
+
+5175. [Universidad Andina Simón Bolívar Ecuador] / 1004 / Ecuador
+
+5176. [International Market Institute / Международный институт рынка] / 1003 / Russia
+
+5177. [Yaroslavl State University / Ярославский Государственный Университет П Г Демидова] / 1003 / Russia
+
+5178. [Chiang Mai Rajabhat University] / 1001 / Thailand
+
+5179. [Universidade de Cruz Alta UNICRUZ] / 1000 / Brazil
+
+5180. [University of Petra] / 0 / Jordan
+
+5181. [Kufa University / University of Kufa] / 0 / Iraq
+
+5182. [Mustansiriyah University] / 0 / Iraq
+
+
