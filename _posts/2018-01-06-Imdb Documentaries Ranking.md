@@ -4857,3 +4857,7 @@ description:
 
 1617.[Fist of Fear, Touch of Death](http://www.imdb.com/title/tt0080741/). 
   2.1 / 1036 / cRank1573 / year.1980
+  
+  
+  
+ Reference: http://www.imdb.com/search/title?num_votes=1000,&genres=documentary&count=250&sort=num_votes,desc
