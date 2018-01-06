@@ -13,12 +13,7 @@ Reference2: [http://www.imdb.com/chart/toptv?ref_=tt_awd](http://www.imdb.com/ch
 
 
 
-1.[Planet Earth](http://www.imdb.com/title/tt0795176/).
-
-
-
-[Game of Thrones](http://www.imdb.com/title/tt0944947/) 
-  9.5 / 1273244 / cRank1 / year.2011–  /  
+1.[Game of Thrones](http://www.imdb.com/title/tt0944947/). 9.5 / 1273244 / cRank1 / year.2011–  /  
 
 2.[Breaking Bad](http://www.imdb.com/title/tt0903747/). 9.5 / 1047405 / cRank2 / year.2008–2013 /  
 
