@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scholars Ranking
+title: Scholar Ranking
 date: 2018-01-06
 categories: blog
 tags: [ArticleList]
