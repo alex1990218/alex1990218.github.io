@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scholar Ranking
+title: Scholar Ranking - H Index
 date: 2018-01-06
 categories: blog
 tags: [ArticleList]
